@@ -23,7 +23,7 @@ export default ({ children, meta, title }) => {
             }
           }
           allPosts: allMarkdownRemark(
-            filter: { fields: { contentType: { eq: "postCategories" } } }
+            filter: { fields: { contentType: { eq: "Category" } } }
             sort: { order: DESC, fields: [frontmatter___date] }
           ) {
             edges {
@@ -43,7 +43,7 @@ export default ({ children, meta, title }) => {
         const { siteTitle, socialMediaCard, googleTrackingId } =
             data.settingsYaml || {},
           subNav = {
-            posts: data.allPosts.hasOwnProperty('edges')
+            blog: data.allPosts.hasOwnProperty('edges')
               ? data.allPosts.edges.map(post => {
                   return { ...post.node.fields, ...post.node.frontmatter }
                 })
@@ -73,7 +73,7 @@ export default ({ children, meta, title }) => {
               {...data.settingsYaml}
             />
 
-            <GithubCorner url="https://github.com/thriveweb/yellowcake" />
+         
 
             <Nav subNav={subNav} />
 

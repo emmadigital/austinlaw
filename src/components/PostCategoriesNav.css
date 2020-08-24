@@ -7,7 +7,9 @@
 }
 
 .PostCategoriesNav > * + * {
-  margin-left: 1rem;
+  margin-left: -1rem;
+  padding: 1.7rem;
+  
 }
 
 .PostCategoriesNav input[type='text'] {

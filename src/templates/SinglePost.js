@@ -2,9 +2,17 @@ import React, { Fragment } from 'react'
 import _get from 'lodash/get'
 import { Link, graphql } from 'gatsby'
 import { ChevronLeft } from 'react-feather'
-
+import author from '../../static/images/author.jpg'
+import { FontAwesomeIcon } from '@fortawesome/react-fontawesome'
+import {
+  faTags,
+  faUserCircle,
+} from '@fortawesome/free-solid-svg-icons'
+import Slide from 'react-reveal/Slide';
 import Content from '../components/Content'
 import Layout from '../components/Layout'
+import PageHeader from '../components/PageHeader'
+
 import './SinglePost.css'
 
 export const SinglePostTemplate = ({
@@ -13,21 +21,29 @@ export const SinglePostTemplate = ({
   body,
   nextPostURL,
   prevPostURL,
+  nextPostTitle,
+  prevPostTitle,
+  featuredImage,
   categories = []
 }) => (
   <main>
+    <PageHeader
+      backgroundImage={featuredImage}
+    />
     <article
       className="SinglePost section light"
       itemScope
       itemType="http://schema.org/BlogPosting"
     >
       <div className="container skinny">
-        <Link className="SinglePost--BackButton" to="/blog/">
-          <ChevronLeft /> BACK
-        </Link>
         <div className="SinglePost--Content relative">
+        <div className="media-center">
+        <Slide bottom><img src={author} className="author-image" alt="Andrew Traub" /> </Slide>
+        </div>
+        <div className="media-content"><strong style={{color:'maroon'}}><FontAwesomeIcon icon={faUserCircle} size="1x" /></strong> Andrew Traub</div>
           <div className="SinglePost--Meta">
-            {date && (
+         
+          {date && (
               <time
                 className="SinglePost--Meta--Date"
                 itemProp="dateCreated pubdate datePublished"
@@ -38,7 +54,7 @@ export const SinglePostTemplate = ({
             )}
             {categories && (
               <Fragment>
-                <span>|</span>
+                <span>|</span><FontAwesomeIcon icon={faTags} size="1x" />
                 {categories.map((cat, index) => (
                   <span
                     key={cat.category}
@@ -69,7 +85,7 @@ export const SinglePostTemplate = ({
                 className="SinglePost--Pagination--Link prev"
                 to={prevPostURL}
               >
-                Previous Post
+                {prevPostTitle}
               </Link>
             )}
             {nextPostURL && (
@@ -77,7 +93,7 @@ export const SinglePostTemplate = ({
                 className="SinglePost--Pagination--Link next"
                 to={nextPostURL}
               >
-                Next Post
+                {nextPostTitle}
               </Link>
             )}
           </div>
@@ -101,6 +117,9 @@ const SinglePost = ({ data: { post, allPosts } }) => {
         body={post.html}
         nextPostURL={_get(thisEdge, 'next.fields.slug')}
         prevPostURL={_get(thisEdge, 'previous.fields.slug')}
+        nextPostTitle={_get(thisEdge, 'next.frontmatter.title')}
+        prevPostTitle={_get(thisEdge, 'previous.frontmatter.title')}
+        featuredImage={post.frontmatter.featuredImage}
       />
     </Layout>
   )
@@ -123,6 +142,7 @@ export const pageQuery = graphql`
         template
         subtitle
         date(formatString: "MMMM Do, YYYY")
+        featuredImage
         categories {
           category
         }
@@ -130,7 +150,7 @@ export const pageQuery = graphql`
     }
 
     allPosts: allMarkdownRemark(
-      filter: { fields: { contentType: { eq: "posts" } } }
+      filter: { fields: { contentType: { eq: "blog" } } }
       sort: { order: DESC, fields: [frontmatter___date] }
     ) {
       edges {
@@ -151,6 +171,7 @@ export const pageQuery = graphql`
           }
           frontmatter {
             title
+            
           }
         }
       }

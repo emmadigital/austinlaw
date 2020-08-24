@@ -5,50 +5,50 @@ import qs from 'qs'
 
 import PageHeader from '../components/PageHeader'
 import PostSection from '../components/PostSection'
-import PostCategoriesNav from '../components/PostCategoriesNav'
+import PracticeCategoriesNav from '../components/PracticeCategoriesNav'
 import Layout from '../components/Layout'
 
 /**
  * Filter posts by date. Feature dates will be fitered
  * When used, make sure you run a cronejob each day to show schaduled content. See docs
  *
- * @param {blog} object
+ * @param {practiceAreas} object
  */
-export const byDate = blog => {
+export const byDate = practiceAreas => {
   const now = Date.now()
-  return blog.filter(post => Date.parse(post.date) <= now)
+  return practiceAreas.filter(post => Date.parse(post.date) <= now)
 }
 
 /**
  * filter posts by category.
  *
- * @param {blog} object
+ * @param {practiceAreas} object
  * @param {title} string
  * @param {contentType} string
  */
-export const byCategory = (blog, title, contentType) => {
-  const isCategory = contentType === 'Category'
+export const byCategory = (practiceAreas, title, contentType) => {
+  const isCategory = contentType === 'practiceCategory'
   const byCategory = post =>
     post.categories &&
     post.categories.filter(cat => cat.category === title).length
-  return isCategory ? blog.filter(byCategory) : blog
+  return isCategory ? practiceAreas.filter(byCategory) : practiceAreas
 }
 
 // Export Template for use in CMS preview
-export const BlogIndexTemplate = ({
+export const PracticeAreasIndexTemplate = ({
   title,
   subtitle,
   featuredImage,
-  blog = [],
-  Category = [],
+  practiceAreas = [],
+  practiceCategory = [],
   enableSearch = true,
   contentType
 }) => (
   <Location>
     {({ location }) => {
       let filteredPosts =
-        blog && !!blog.length
-          ? byCategory(byDate(blog), title, contentType)
+        practiceAreas && !!practiceAreas.length
+          ? byCategory(byDate(practiceAreas), title, contentType)
           : []
 
       let queryObj = location.search.replace('?', '')
@@ -69,15 +69,15 @@ export const BlogIndexTemplate = ({
             backgroundImage={featuredImage}
           />
 
-          {!!Category.length && (
+          {!!practiceCategory.length && (
             <section className="section thin">
               <div className="container">
-                <PostCategoriesNav enableSearch categories={Category} />
+                <PracticeCategoriesNav enableSearch categories={practiceCategory} />
               </div>
             </section>
           )}
 
-          {!!blog.length && (
+          {!!practiceAreas.length && (
             <section className="section">
               <div className="container">
                 <PostSection blog={filteredPosts} />
@@ -91,21 +91,21 @@ export const BlogIndexTemplate = ({
 )
 
 // Export Default BlogIndex for front-end
-const BlogIndex = ({ data: { page, blog, Category } }) => (
+const PracticeAreasIndex = ({ data: { page, practiceAreas, practiceCategory } }) => (
   <Layout
     meta={page.frontmatter.meta || false}
     title={page.frontmatter.title || false}
   >
-    <BlogIndexTemplate
+    <PracticeAreasIndexTemplate
       {...page}
       {...page.fields}
       {...page.frontmatter}
-      blog={blog.edges.map(post => ({
+      practiceAreas={practiceAreas.edges.map(post => ({
         ...post.node,
         ...post.node.frontmatter,
         ...post.node.fields
       }))}
-      Category={Category.edges.map(post => ({
+      practiceCategory={practiceCategory.edges.map(post => ({
         ...post.node,
         ...post.node.frontmatter,
         ...post.node.fields
@@ -114,14 +114,14 @@ const BlogIndex = ({ data: { page, blog, Category } }) => (
   </Layout>
 )
 
-export default BlogIndex
+export default PracticeAreasIndex
 
 export const pageQuery = graphql`
-  ## Query for BlogIndex data
+  ## Query for PracticeAreasIndex data
   ## Use GraphiQL interface (http://localhost:8000/___graphql)
   ## $id is processed via gatsby-node.js
   ## query name must be unique to this file
-  query BlogIndex($id: String!) {
+  query PracticeAreasIndex($id: String!) {
     page: markdownRemark(id: { eq: $id }) {
       ...Meta
       fields {
@@ -136,8 +136,8 @@ export const pageQuery = graphql`
       }
     }
 
-    blog: allMarkdownRemark(
-      filter: { fields: { contentType: { eq: "blog" } } }
+    practiceAreas: allMarkdownRemark(
+      filter: { fields: { contentType: { eq: "practiceAreas" } } }
       sort: { order: DESC, fields: [frontmatter___date] }
     ) {
       edges {
@@ -157,8 +157,8 @@ export const pageQuery = graphql`
         }
       }
     }
-    Category: allMarkdownRemark(
-      filter: { fields: { contentType: { eq: "Category" } } }
+    practiceCategory: allMarkdownRemark(
+      filter: { fields: { contentType: { eq: "practiceCategory" } } }
       sort: { order: ASC, fields: [frontmatter___title] }
     ) {
       edges {

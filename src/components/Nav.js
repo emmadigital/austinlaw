@@ -51,30 +51,32 @@ export class Navigation extends Component {
           <div className="Nav--Links">
             <NavLink to="/">Home</NavLink>
             <NavLink to="/components/">Components</NavLink>
+            <NavLink to="/practice-areas/">Practice Areas</NavLink>
+ 
             <div
               className={`Nav--Group ${
-                this.state.activeSubNav === 'posts' ? 'active' : ''
+                this.state.activeSubNav === 'blog' ? 'active' : ''
               }`}
             >
               <span
                 className={`NavLink Nav--GroupParent ${
-                  this.props.location.pathname.includes('posts') ||
                   this.props.location.pathname.includes('blog') ||
-                  this.props.location.pathname.includes('post-categories')
+                  this.props.location.pathname.includes('blog') ||
+                  this.props.location.pathname.includes('categories')
                     ? 'active'
                     : ''
                 }`}
-                onClick={() => this.toggleSubNav('posts')}
+                onClick={() => this.toggleSubNav('blog')}
               >
                 Blog
                 <div className="Nav--GroupLinks">
                   <NavLink to="/blog/" className="Nav--GroupLink">
                     All Posts
                   </NavLink>
-                  {subNav.posts.map((link, index) => (
+                  {subNav.blog.map((link, index) => (
                     <NavLink
                       to={link.slug}
-                      key={'posts-subnav-link-' + index}
+                      key={'blog-subnav-link-' + index}
                       className="Nav--GroupLink"
                     >
                       {link.title}
@@ -85,7 +87,9 @@ export class Navigation extends Component {
             </div>
             <NavLink to="/default/">Default</NavLink>
             <NavLink to="/contact/">Contact</NavLink>
+
           </div>
+         
           <button
             className="Button-blank Nav--MenuButton"
             onClick={this.handleMenuToggle}

@@ -5,7 +5,7 @@ import './PostSection.css'
 
 class PostSection extends React.Component {
   static defaultProps = {
-    posts: [],
+    blog: [],
     title: '',
     limit: 12,
     showLoadMore: true,
@@ -23,9 +23,9 @@ class PostSection extends React.Component {
     }))
 
   render() {
-    const { posts, title, showLoadMore, loadMoreTitle } = this.props,
+    const { blog, title, showLoadMore, loadMoreTitle } = this.props,
       { limit } = this.state,
-      visiblePosts = posts.slice(0, limit || posts.length)
+      visiblePosts = blog.slice(0, limit || blog.length)
 
     return (
       <div className="PostSection">
@@ -37,7 +37,7 @@ class PostSection extends React.Component {
             ))}
           </div>
         )}
-        {showLoadMore && visiblePosts.length < posts.length && (
+        {showLoadMore && visiblePosts.length < blog.length && (
           <div className="taCenter">
             <button className="button" onClick={this.increaseLimit}>
               {loadMoreTitle}

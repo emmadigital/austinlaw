@@ -3,7 +3,7 @@
 }
 
 .SinglePost--BackButton {
-  color: white;
+  color: #881012;
   position: relative;
   display: flex;
   align-items: center;
@@ -35,13 +35,16 @@
 }
 
 .SinglePost--Meta {
-  font-size: 1rem;
+  font-size: 1.3rem;
   margin: 0 0 2rem 0;
   text-align: center;
+  margin-top: 1rem;
 }
 
 .SinglePost--Meta > * + * {
   margin-left: 0.75em;
+  color:#497070;
+  font-weight: 500;
 }
 
 .SinglePost--Title {
@@ -75,4 +78,32 @@
 
 .SinglePost--Pagination--Link.next {
   margin-left: auto;
+}
+
+.author-image {
+  position: absolute;
+  top: -30px;
+  left: 50%;
+  width: 90px;
+  height: 90px;
+  margin-left: -40px;
+  border: 3px solid #ccc;
+  border-radius: 50%;
+ 
+}
+
+
+
+
+.media-center {
+display: block;
+margin-bottom: 1rem;
+}
+
+.media-content {
+  margin-left: 0.75em;
+  text-align: center;
+  font-size: 1.7rem;
+  margin-top: 2rem;
+
 }

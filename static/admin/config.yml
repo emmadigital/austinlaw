@@ -243,6 +243,29 @@ collections: # A list of collections the CMS should be able to edit
           - { label: Featured Image, name: featuredImage, widget: image, allow_multiple: true }
           - { label: Subtitle, name: subtitle, widget: markdown, required: false }
           - { label: Body, name: body, widget: markdown }
+          - label: HeroSlider
+            name: heroslider
+            widget: object
+            fields:
+              - label: Slider
+                name: slider
+                widget: list
+                fields:
+                  - label: Image
+                    name: image
+                    widget: image
+                  - label: Slider Heading
+                    name: sliderheading
+                    widget: string
+                  - label: Slider Text
+                    name: slidertext
+                    widget: markdown
+                  - label: Slider Button Text
+                    name: sliderbuttontext
+                    widget: string
+                  - label: Slider Button Link
+                    name: sliderbuttonlink
+                    widget: string       
           - label: Intro
             name: intro
             widget: object
@@ -251,6 +274,7 @@ collections: # A list of collections the CMS should be able to edit
                 name: blurbs
                 widget: list
                 fields:
+                  - { label: 'Heading', name: 'heading', widget: 'string' }
                   - label: Image
                     name: image
                     widget: image

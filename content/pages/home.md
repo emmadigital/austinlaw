@@ -3,7 +3,7 @@ template: HomePage
 slug: ""
 title: Austin Accident Lawyer
 featuredImage: https://ucarecdn.com/159203d3-881d-4218-baa1-ca4427b48d0d/
-subtitle: " Welcome to the ultimate Gatsby and Netlify starter project."
+subtitle: "## How to Choose Your Austin Accident Lawyer"
 heroslider:
   slider:
     - sliderheading: Access to Your Lawyer
@@ -145,23 +145,16 @@ meta:
   description: This is a meta description.
   title: Austin Accident Lawyer - Austin Accident Lawyer
 ---
+# Experienced Texas Injury Lawyers
 
-Yellowcake is an opinionated starter project created by [Thrive Digital](https://thriveweb.com.au/) a [Gold Coast Web Design](https://thriveweb.com.au/) studio. to help you create lightening fast websites with [Gatsby](https://gatsbyjs.org) and [Netlify CMS](https://netlifycms.org).
+A car, truck, motorcycle or bicycle crash changes your life. The means to support your family through adequate means of transportation and employment could be put in jeopardy. It could mean steep medical bills attached to life-long injuries. Worst of all, insurance companies may refuse the compensation promised by a policy or may refuse it altogether. It leaves you frustrated and angry, but some people accept these difficult circumstances as their new normal.
 
-View the [project overview](https://thriveweb.com.au/the-lab/yellowcake-gatsby-react-js-starter-project/) and the [docs](https://github.com/thriveweb/yellowcake/blob/master/README.md).
+The negligence of others leads to most accidents. A dog is an animal, and its bite can be severe and indiscriminate. It is up to pet owners to control them and prevent unprovoked attacks against other people.
 
-# Features
+These destructive bites could happen at any time. Austin experienced near record numbers of dog bite reports in 2015.
 
-- **[Gatsby](https://gatsbyjs.org)** static site generator
-- **[Netlify CMS](https://github.com/netlify/netlify-cms)** for content management
-- Dynamic menus and forms
-- **[Mailchimp](http://mailchimp.com)** and **[Uploadcare](https://uploadcare.com)** integrations
-- Fully responsive layout for mobile and widescreen browsing
-- Blog searching and paging functionality
-- Seamless image and content sliders
+# We can help reclaim your life.
 
-## Get started
+Traub Law Office assists people who have been placed in these situations by no fault of their own. The negligence of others, such as careless dog owners and distracted drivers, are liable and must accept the accidents.
 
-View the [Netlify CMS Docs](https://www.netlifycms.org/docs/) and the [Netlify CMS Repo](https://github.com/netlify/netlify-cms).
-
-[![Deploy to Netlify](https://www.netlify.com/img/deploy/button.svg)](https://app.netlify.com/start/deploy?repository=https://github.com/thriveweb/yellowcake&stack=cms)
+Austin personal injury lawyer Andrew Traub has helped Texans put their lives back on track by dealing with stingy insurance companies and negligent businesses and individuals who have caused harm to others. We provide a free book for those injured to understand their rights, and, if your case qualifies, we work to help you recover the compensation you deserve.

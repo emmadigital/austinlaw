@@ -265,7 +265,8 @@ collections: # A list of collections the CMS should be able to edit
                     widget: string
                   - label: Slider Button Link
                     name: sliderbuttonlink
-                    widget: string       
+                    widget: string
+          - { label: 'CTA Heading', name: 'ctaheading', widget: 'string' }                 
           - label: Intro
             name: intro
             widget: object
@@ -274,7 +275,6 @@ collections: # A list of collections the CMS should be able to edit
                 name: blurbs
                 widget: list
                 fields:
-                  - { label: 'Heading', name: 'heading', widget: 'string' }
                   - label: Image
                     name: image
                     widget: image

@@ -38,19 +38,19 @@ const content = [
 ];
 
 // Export Template for use in CMS preview
-export const HomePageTemplate = ({ title, subtitle, featuredImage, body, intro }) => (
+export const HomePageTemplate = ({ title, subtitle, featuredImage, body, intro, heroslider }) => (
   <main className="Home">
     <Slider className="slider-wrapper" autoplay={3000}>
-			{content.map((item, index) => (
+			{heroslider.slider.map((item, index) => (
 				<div
 					key={index}
 					className="slider-content"
-					style={{ background: `url('${item.image}') no-repeat center center` }}
+					style={{ background: `url('${item.image.childImageSharp.fluid.src}') no-repeat center center / cover` }}
 				>
 					<div className="inner">
-						<h1>{item.title}</h1>
-						<p>{item.description}</p>
-						<a href={item.link}><button>{item.button}</button></a>
+						<h1>{item.sliderheading}</h1>
+						<p>{item.slidertext}</p>
+						<a href={item.sliderbuttonlink}><button>{item.sliderbuttontext}</button></a>
 					</div>
 				</div>
 			))}
@@ -60,7 +60,6 @@ export const HomePageTemplate = ({ title, subtitle, featuredImage, body, intro }
       <Features gridItems={intro.blurbs} />
       </div>
     </section>
-
     <section className="section">
       <div className="container">
         <Content source={body} />
@@ -91,11 +90,26 @@ export const pageQuery = graphql`
         title
         subtitle
         featuredImage
+        heroslider {
+          slider {
+            slidertext
+            sliderheading
+            sliderbuttontext
+            sliderbuttonlink
+            image {
+              childImageSharp {
+                fluid {
+                  src
+                }
+              }
+            }
+          }
+        }
         intro {
           blurbs {
             image {
               childImageSharp {
-                fluid(maxWidth: 240, quality: 64) {
+                fluid(maxWidth: 200, quality: 64) {
                   ...GatsbyImageSharpFluid
                 }
               }

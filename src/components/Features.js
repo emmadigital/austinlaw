@@ -14,13 +14,14 @@ const FeatureGrid = ({ gridItems }) => (
           <div>
           <h1 className="has-text-centered" style={{
                 fontSize: '28px',
+                fontWeight: '700',
                 textAlign: 'center',
                 color: '#497070',
                 height: '80px',
-                }}><strong>{item.blurbsheading}</strong></h1>
+                }}>{item.blurbsheading}</h1>
             <figure >
            
-            <div style={{height: '200px'}}>
+            <div style={{height: '150px'}}>
                     <img src={item.image.childImageSharp.fluid.src}/>
                   </div> 
            </figure>

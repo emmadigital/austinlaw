@@ -1,9 +1,35 @@
 ---
 template: HomePage
-slug: ''
-title: Yellowcake
-featuredImage: 'https://ucarecdn.com/159203d3-881d-4218-baa1-ca4427b48d0d/'
-subtitle: ' Welcome to the ultimate Gatsby and Netlify starter project.'
+slug: ""
+title: Austin Accident Lawyer
+featuredImage: https://ucarecdn.com/159203d3-881d-4218-baa1-ca4427b48d0d/
+subtitle: " Welcome to the ultimate Gatsby and Netlify starter project."
+intro:
+  blurbs:
+    - text: >-
+        More than a decade of experience is at your disposal. You are a partner
+        in your case, making decisions to help yourself recover.
+
+
+        [Meet Us](https://www.austinaccidentlawyer.com/meet-us/)
+      blurbsheading: You Work Directly With Your Lawyers
+      image: /images/meet.jpg
+    - text: >-
+        If you’re injured in an accident, we offer free assistance with your
+        vehicle property damage claim.
+
+
+        [Learn More](https://www.austinaccidentlawyer.com/about/)
+      blurbsheading: Free Property Damage Help
+      image: /images/property.jpg
+    - blurbsheading: Discounts for Veterans
+      text: >-
+        Veterans have already paid their dues. We offer veterans injured in a
+        car accident lower contingency fees.
+
+
+        [Learn More](https://www.austinaccidentlawyer.com/about/)
+      image: /images/veterans.jpg
 meta:
   description: This is a meta description.
   title: The Ultimate Gatsby Starter

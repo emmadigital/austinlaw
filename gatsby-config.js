@@ -2,9 +2,9 @@ const postcssPresetEnv = require('postcss-preset-env')
 
 module.exports = {
   siteMetadata: {
-    title: 'Yellowcake',
+    title: 'Austin Accident Lawyer',
     author:'Andrew Traub',
-    siteUrl: 'https://austinaccidentlawyer.netlify.com'
+    siteUrl: 'https://austinlaw.netlify.com'
   },
   plugins: [
     'gatsby-plugin-react-helmet',
@@ -45,8 +45,8 @@ module.exports = {
     {
       resolve: `gatsby-plugin-manifest`,
       options: {
-        name: 'yellowcake',
-        short_name: 'yellowcake',
+        name: 'austinaccidentlawyer',
+        short_name: 'austinaccidentlawyer',
         start_url: '/',
         background_color: '#00C2BD',
         theme_color: '#00C2BD',

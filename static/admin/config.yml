@@ -243,6 +243,23 @@ collections: # A list of collections the CMS should be able to edit
           - { label: Featured Image, name: featuredImage, widget: image, allow_multiple: true }
           - { label: Subtitle, name: subtitle, widget: markdown, required: false }
           - { label: Body, name: body, widget: markdown }
+          - label: Intro
+            name: intro
+            widget: object
+            fields:
+              - label: Blurbs
+                name: blurbs
+                widget: list
+                fields:
+                  - label: Image
+                    name: image
+                    widget: image
+                  - label: Blurbs Heading
+                    name: blurbsheading
+                    widget: string
+                  - label: Text
+                    name: text
+                    widget: markdown         
           - label: 'Accordion'
             name: 'accordion'
             widget: 'list'

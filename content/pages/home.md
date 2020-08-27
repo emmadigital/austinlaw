@@ -2,8 +2,6 @@
 template: HomePage
 slug: ""
 title: Austin Accident Lawyer
-featuredImage: https://ucarecdn.com/159203d3-881d-4218-baa1-ca4427b48d0d/
-subtitle: "## How to Choose Your Austin Accident Lawyer"
 heroslider:
   slider:
     - sliderheading: Access to Your Lawyer
@@ -66,6 +64,31 @@ heroslider:
       sliderbuttontext: Learn More
       sliderbuttonlink: https://www.austinaccidentlawyer.com/meet-us/testimonials/
       image: /images/avvo-rating.png
+experiencesection:
+  slider:
+    - sliderheading: Consultations Are Free
+      slidertext: Determining the need for a lawyer in your personal injury claim
+        requires some research. If you still feel unsure, we offer free
+        consultations to establish whether our services can help your case.
+    - sliderheading: We Help Our Clients
+      slidertext: Personal injuries claims are emotionally and physically trying.
+        Through compassionate and focused legal counsel, we partner with you to
+        build your case no matter how long it takes.
+    - sliderheading: We Inform Our Clients
+      slidertext: Our free publication resources are available to clients to
+        understand how Texas personal injury law works. We realize the
+        importance of your understanding. And if you are working with us, we
+        quickly respond to inquiries through direct contact.
+    - sliderheading: Lawyers Handle Your Case
+      slidertext: Some personal injury firms take on quantity, which relegates some
+        cases to the inexperience of paralegals. At Traub Law Office, you speak
+        directly with a lawyer, who will guide your case through one-on-one
+        interaction with you. Your case will not be settled for less than it is
+        worth.
+experiencevideo: <iframe width="560" height="315"
+  src="https://www.youtube.com/embed/Q1swqWs6ZuU" frameborder="0"
+  allow="accelerometer; autoplay; encrypted-media; gyroscope;
+  picture-in-picture" allowfullscreen></iframe>
 ctaheading: Why Choose Traub Law?
 intro:
   blurbs:
@@ -144,6 +167,8 @@ accordion:
 meta:
   description: This is a meta description.
   title: Austin Accident Lawyer - Austin Accident Lawyer
+featuredImage: https://ucarecdn.com/159203d3-881d-4218-baa1-ca4427b48d0d/
+subtitle: "## How to Choose Your Austin Accident Lawyer"
 ---
 # Experienced Texas Injury Lawyers
 

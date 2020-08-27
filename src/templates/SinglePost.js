@@ -82,7 +82,7 @@ export const SinglePostTemplate = ({
           <div className="SinglePost--Pagination">
             {prevPostURL && (
               <Link
-                className="SinglePost--Pagination--Link prev"
+                className="SinglePost--Pagination--Link"
                 to={prevPostURL}
               >
                 {prevPostTitle}

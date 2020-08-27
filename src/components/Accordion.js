@@ -2,6 +2,8 @@ import React from 'react'
 import ChevronDown from 'react-feather/dist/icons/chevron-down'
 import _kebabCase from 'lodash/kebabCase'
 import './Accordion.css'
+import Flip from 'react-reveal/Flip';
+
 
 export default class Accordion extends React.Component {
   static defaultProps = {
@@ -25,7 +27,8 @@ export default class Accordion extends React.Component {
   render() {
     const { items, className } = this.props
     return (
-      <div className={`Accordion ${className}`}>
+      <Flip top cascade>
+        <div className={`Accordion ${className}`}>
         {!!items &&
           items.map((item, index) => (
             <div
@@ -38,7 +41,7 @@ export default class Accordion extends React.Component {
                 <ChevronDown />
               </h2>
               <div className={'description'}>
-                {item.description} <br />
+                {item.content} <br />
                 {item.link && (
                   <div href={item.link} className="button">
                     {item.linkTitle}
@@ -48,6 +51,7 @@ export default class Accordion extends React.Component {
             </div>
           ))}
       </div>
+      </Flip>
     )
   }
 }

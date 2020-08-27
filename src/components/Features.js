@@ -3,35 +3,42 @@ import PropTypes from 'prop-types'
 import PreviewCompatibleImage from './PreviewCompatibleImage'
 import './Gallery.css'
 import Img from 'gatsby-image'
+import Flip from 'react-reveal/Flip';
+import Fade from 'react-reveal/Fade';
+
 
 const ReactMarkdown = require('react-markdown/with-html')
 
 const FeatureGrid = ({ gridItems }) => (
+ 
   <div className="Gallery">
     {gridItems.map((item) => (
       <div key={item.text} className="Gallery--Item">
-        <section>
+        <section>       
           <div>
-          <h1 className="has-text-centered" style={{
+           <Fade bottom>
+             <h1 className="has-text-centered" style={{
                 fontSize: '28px',
                 fontWeight: '700',
                 textAlign: 'center',
                 color: '#497070',
                 height: '80px',
                 }}>{item.blurbsheading}</h1>
-            <figure >
-           
+            </Fade>    
+            <figure>
+            <Flip top>
             <div style={{height: '150px'}}>
                     <img src={item.image.childImageSharp.fluid.src}/>
                   </div> 
+          </Flip>      
            </figure>
           </div>
-
-         
-          <p><ReactMarkdown
+          <Fade bottom>
+          <p className="Gallery--Item-P"><ReactMarkdown
             source={item.text}
             escapeHtml={false}
           /></p>
+          </Fade>    
         </section>
       </div>
     ))}

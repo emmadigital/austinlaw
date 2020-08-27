@@ -4,41 +4,19 @@ import { graphql } from 'gatsby'
 import PageHeader from '../components/PageHeader'
 import Content from '../components/Content'
 import Layout from '../components/Layout'
+import Accordion from '../components/Accordion'
 import Slider from 'react-animated-slider';
 import 'react-animated-slider/build/horizontal.css';
 import Features from '../components/Features'
+import Flip from 'react-reveal/Flip';
+import AliceCarousel from "react-alice-carousel";
+import "react-alice-carousel/lib/alice-carousel.css";
+
 import '../components/Gallery.css'
 import './custom.scss';
 
-const content = [
-	{
-		title: 'Vulputate Mollis Ultricies Fermentum Parturient',
-		description:
-		'Aenean eu leo quam. Pellentesque ornare sem lacinia quam venenatis vestibulum. Fusce dapibus, tellus ac cursus commodo, tortor mauris condimentum nibh, ut fermentum massa justo sit amet risus. Cras justo odio, dapibus ac facilisis.',
-    button: 'Read More',
-    link: '/',
-		image: 'https://i.imgur.com/ZXBtVw7.jpg',
-	},
-	{
-		title: 'Tortor Dapibus Commodo Aenean Quam',
-		description:
-		'Nullam id dolor id nibh ultricies vehicula ut id elit. Cras mattis consectetur purus sit amet fermentum. Morbi leo risus, porta ac consectetur ac, vestibulum at eros. Donec sed odio dui.',
-		button: 'Discover',
-    link: '/contact/',
-    image: 'https://i.imgur.com/DCdBXcq.jpg',
-	},
-	{
-		title: 'Phasellus volutpat metus',
-		description:
-		'Lorem ipsum dolor sit amet, consectetur adipiscing elit. Cras mattis consectetur purus sit amet fermentum. Cras justo odio, dapibus ac facilisis in, egestas eget quam. Duis mollis, est non commodo luctus, nisi erat porttitor ligula.',
-		button: 'Buy now',
-    link: '/contact/',
-    image: 'https://i.imgur.com/DvmN8Hx.jpg',
-	}
-];
-
 // Export Template for use in CMS preview
-export const HomePageTemplate = ({ title, subtitle, featuredImage, body, intro, heroslider }) => (
+export const HomePageTemplate = ({ title, subtitle, featuredImage, body, intro, heroslider, accordion, ctaheading }) => (
   <main className="Home">
     <Slider className="slider-wrapper" autoplay={3000}>
 			{heroslider.slider.map((item, index) => (
@@ -55,14 +33,61 @@ export const HomePageTemplate = ({ title, subtitle, featuredImage, body, intro, 
 				</div>
 			))}
 		</Slider>
+    <Flip top>
+    <div style={{maxWidth: '481px', marginLeft: '35%'}}>
+    <h1 style={{ textAlign: 'center', fontSize:'42px', marginTop: '25px', borderBottom: '#fea70a solid 4px' }}>{ctaheading}</h1><br />
+    </div>
+    </Flip>
     <section className="section">
       <div className="container">
       <Features gridItems={intro.blurbs} />
       </div>
     </section>
+
+    <section className="section">
+      <div className="container">   
+  <div class="rowExp">
+  <div class="columnExp left">
+  <AliceCarousel autoPlay autoPlayInterval="3000">
+      <div style={{textAlign: 'center', verticalAlign: 'middle', fontSize: '14px', margin: '2%'}}>
+        <h1>Slide</h1>
+        <p>First Slide</p>
+      </div>
+      <div style={{textAlign: 'center', verticalAlign: 'middle', fontSize: '14px', margin: '2%'}}>
+        <h1>Slide</h1>
+        <p>First Slide</p>
+      </div>
+      <div style={{textAlign: 'center', verticalAlign: 'middle', fontSize: '14px', margin: '2%'}}>
+        <h1>Slide</h1>
+        <p>First Slide</p>
+      </div>
+      <div style={{textAlign: 'center', verticalAlign: 'middle', fontSize: '14px', margin: '2%'}}>
+        <h1>Slide</h1>
+        <p>First Slide</p>
+      </div>
+    </AliceCarousel>
+  </div>
+  <div class="columnExp right">
+    <h2>Column 2</h2>
+    <p>Some text..</p>
+  </div>
+</div>
+</div>
+    </section>
+ 
     <section className="section">
       <div className="container">
         <Content source={body} />
+      </div>
+    </section>
+    <Flip top>
+    <div style={{maxWidth: '581px', marginLeft: '32%'}}>
+    <h1 style={{ textAlign: 'center', fontSize:'42px', marginTop: '25px', borderBottom: '#fea70a solid 4px' }}>Frequently Asked Questions</h1><br />
+    </div>
+    </Flip>
+    <section className="section">
+      <div className="container">
+        <Accordion items={accordion} />
       </div>
     </section>
   </main>
@@ -90,6 +115,12 @@ export const pageQuery = graphql`
         title
         subtitle
         featuredImage
+        ctaheading
+        accordion {
+          title
+          description
+          content
+        }
         heroslider {
           slider {
             slidertext

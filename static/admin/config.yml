@@ -240,8 +240,6 @@ collections: # A list of collections the CMS should be able to edit
             }
           - { label: Slug, name: slug, widget: hidden, default: '' }
           - { label: Title, name: title, widget: string }
-          - { label: Featured Image, name: featuredImage, widget: image, allow_multiple: true }
-          - { label: Subtitle, name: subtitle, widget: markdown, required: false }
           - { label: Body, name: body, widget: markdown }
           - label: HeroSlider
             name: heroslider
@@ -266,6 +264,21 @@ collections: # A list of collections the CMS should be able to edit
                   - label: Slider Button Link
                     name: sliderbuttonlink
                     widget: string
+          - label: ExperienceSection
+            name: experiencesection
+            widget: object
+            fields:
+              - label: Slider
+                name: slider
+                widget: list
+                fields:
+                  - label: Slider Heading
+                    name: sliderheading
+                    widget: string
+                  - label: Slider Text
+                    name: slidertext
+                    widget: markdown
+          - { name: experiencevideo, label: Experience Video, widget: markdown }          
           - { label: 'CTA Heading', name: 'ctaheading', widget: 'string' }                 
           - label: Intro
             name: intro
@@ -290,7 +303,7 @@ collections: # A list of collections the CMS should be able to edit
             required: false
             fields:
               - { label: 'Title', name: 'title', widget: 'string' }
-              - { label: Content, name: content, widget: text }
+              - { label: Content, name: content, widget: markdown }
           - label: 'Meta'
             required: false
             name: 'meta'

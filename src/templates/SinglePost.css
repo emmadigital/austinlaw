@@ -76,8 +76,34 @@
   text-decoration: none;
 }
 
+
 .SinglePost--Pagination--Link.next {
   margin-left: auto;
+}
+
+.SinglePost--Pagination--Link{
+  font-weight: 700;
+  text-decoration: none;
+  position: relative;
+}
+
+.SinglePost--Pagination--Link::before{
+  content: "";
+  position: absolute;
+  width: 100%;
+  height: 2px;
+  bottom: 0;
+  left: 0;
+  background-color: var(--primary);
+  visibility: hidden;
+  transform: scaleX(0);
+  transition: all 0.3s ease-in-out 0s;
+}
+
+.SinglePost--Pagination--Link:hover::before{
+  visibility: visible;
+  transform: scaleX(1);
+  background-color: var(--primary);
 }
 
 .author-image {

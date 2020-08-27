@@ -16,7 +16,7 @@ import '../components/Gallery.css'
 import './custom.scss';
 
 // Export Template for use in CMS preview
-export const HomePageTemplate = ({ title, subtitle, featuredImage, body, intro, heroslider, accordion, ctaheading }) => (
+export const HomePageTemplate = ({ title, subtitle, featuredImage, body, intro, heroslider, accordion, ctaheading, experiencesection, experiencevideo }) => (
   <main className="Home">
     <Slider className="slider-wrapper" autoplay={3000}>
 			{heroslider.slider.map((item, index) => (
@@ -34,8 +34,8 @@ export const HomePageTemplate = ({ title, subtitle, featuredImage, body, intro, 
 			))}
 		</Slider>
     <Flip top>
-    <div style={{maxWidth: '481px', marginLeft: '35%'}}>
-    <h1 style={{ textAlign: 'center', fontSize:'42px', marginTop: '25px', borderBottom: '#fea70a solid 4px' }}>{ctaheading}</h1><br />
+    <div className="ctaheading">
+    <h1>{ctaheading}</h1><br />
     </div>
     </Flip>
     <section className="section">
@@ -44,45 +44,33 @@ export const HomePageTemplate = ({ title, subtitle, featuredImage, body, intro, 
       </div>
     </section>
 
-    <section className="section">
-      <div className="container">   
-  <div class="rowExp">
-  <div class="columnExp left">
-  <AliceCarousel autoPlay autoPlayInterval="3000">
-      <div style={{textAlign: 'center', verticalAlign: 'middle', fontSize: '14px', margin: '2%'}}>
-        <h1>Slide</h1>
-        <p>First Slide</p>
-      </div>
-      <div style={{textAlign: 'center', verticalAlign: 'middle', fontSize: '14px', margin: '2%'}}>
-        <h1>Slide</h1>
-        <p>First Slide</p>
-      </div>
-      <div style={{textAlign: 'center', verticalAlign: 'middle', fontSize: '14px', margin: '2%'}}>
-        <h1>Slide</h1>
-        <p>First Slide</p>
-      </div>
-      <div style={{textAlign: 'center', verticalAlign: 'middle', fontSize: '14px', margin: '2%'}}>
-        <h1>Slide</h1>
-        <p>First Slide</p>
-      </div>
-    </AliceCarousel>
-  </div>
-  <div class="columnExp right">
-    <h2>Column 2</h2>
-    <p>Some text..</p>
-  </div>
+  <section>
+ <div class="group">
+    <div class="left2">
+    <AliceCarousel autoPlay autoPlayInterval="3000">
+  {experiencesection.slider.map((item, index) => (
+					<div>
+						<h1>{item.sliderheading}</h1>
+						<p>{item.slidertext}</p>
+					</div>
+			))}
+    </AliceCarousel>    </div>
+    <div class="right2">
+    <Content source={experiencevideo} />    </div>
 </div>
-</div>
-    </section>
- 
+
+ </section>
+
     <section className="section">
       <div className="container">
+        <div className="section_3">
         <Content source={body} />
-      </div>
+        </div>
+        </div>
     </section>
     <Flip top>
-    <div style={{maxWidth: '581px', marginLeft: '32%'}}>
-    <h1 style={{ textAlign: 'center', fontSize:'42px', marginTop: '25px', borderBottom: '#fea70a solid 4px' }}>Frequently Asked Questions</h1><br />
+    <div className="ctaheading2">
+    <h1>Frequently Asked Questions</h1><br />
     </div>
     </Flip>
     <section className="section">
@@ -121,6 +109,13 @@ export const pageQuery = graphql`
           description
           content
         }
+        experiencesection {
+          slider {
+            sliderheading
+            slidertext
+          }
+        }
+        experiencevideo
         heroslider {
           slider {
             slidertext

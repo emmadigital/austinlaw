@@ -27,7 +27,7 @@ export default class Accordion extends React.Component {
   render() {
     const { items, className } = this.props
     return (
-      <Flip top cascade>
+      <Flip bottom cascade>
         <div className={`Accordion ${className}`}>
         {!!items &&
           items.map((item, index) => (

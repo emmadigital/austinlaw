@@ -90,6 +90,100 @@ experiencevideo: <iframe width="560" height="315"
   allow="accelerometer; autoplay; encrypted-media; gyroscope;
   picture-in-picture" allowfullscreen></iframe>
 ctaheading: Why Choose Traub Law?
+wwcheading: How We Can Help You
+wwcsubheading: From car accidents to slip and fall injuries, we’ve got you covered.
+cover:
+  coversection:
+    - sectionheading: Vehicle Accidents
+      sectiontext: >-
+        The most common type of accident we help people with is those involving
+        cars, motorcycles, and trucks.
+
+
+        * [Car Accidents](https://www.austinaccidentlawyer.com/practice-areas/truck-accident-lawyer/)
+
+        * [Trucking Accidents](https://www.austinaccidentlawyer.com/practice-areas/truck-accident-lawyer/)
+
+        * [Motorcycle Accidents](https://www.austinaccidentlawyer.com/practice-areas/truck-accident-lawyer/)
+
+        * [Distracted Driver Accidents](https://www.austinaccidentlawyer.com/practice-areas/distracted-driver/)
+
+        * [Drunk Driving Accidents](https://www.austinaccidentlawyer.com/practice-areas/drunk-driving-accident-lawyer/)
+
+        * [Pedestrian Accidents](https://www.austinaccidentlawyer.com/practice-areas/pedestrian-and-car-accidents/)
+
+        * [Red Light Accidents](https://www.austinaccidentlawyer.com/practice-areas/distracted-driver/running-red-light-accident/)
+      sectionlinktext: Learn More
+      sectionlink: https://www.austinaccidentlawyer.com/practice-areas/
+      image: /images/vehicle-accident.png
+    - sectionheading: Other Accidents
+      sectiontext: >-
+        The Traub Law Office has had great success in recovering full
+        compensation for people injured in slip and fall accidents, dog bites,
+        or due to defective products.
+
+
+        * [Slip and Fall Accidents](https://www.austinaccidentlawyer.com/practice-areas/austin-slip-and-fall-attorney/)
+
+        * [Product Defects](https://www.austinaccidentlawyer.com/practice-areas/texas-product-defect-lawyer/)
+
+        * [Insurance Disputes](https://www.austinaccidentlawyer.com/practice-areas/dealing-with-your-insurance-company/)
+
+        * [Dog Bites](https://www.austinaccidentlawyer.com/practice-areas/dog-bite-injury-lawyer/)
+
+        * [On the Job Injuries](https://www.austinaccidentlawyer.com/practice-areas/injured-on-the-job/)
+      sectionlinktext: Learn More
+      sectionlink: https://www.austinaccidentlawyer.com/practice-areas/
+      image: /images/other-accidents.png
+    - sectionheading: Spinal Injuries
+      sectiontext: >-
+        The most common type of injury in a car wreck are to the spine and can
+        last a few months or be with the victim for the rest of their life.
+
+
+        * [Slip and Fall Accidents](https://www.austinaccidentlawyer.com/practice-areas/austin-slip-and-fall-attorney/)
+
+        * [Neck Injuries](https://www.austinaccidentlawyer.com/practice-areas/neck-injuries/)
+
+        * [Back Injury](https://www.austinaccidentlawyer.com/practice-areas/serious-personal-injury/back-injury-lawyers/)
+
+        * [Shoulder Injury](https://www.austinaccidentlawyer.com/practice-areas/shoulder-injury-lawyer/)
+
+        * [Spinal Cord Injury](https://www.austinaccidentlawyer.com/practice-areas/serious-personal-injury/austin-spinal-cord-injury-lawyers/)
+
+        * [Soft Tissue Injuries](https://www.austinaccidentlawyer.com/practice-areas/soft-tissue-damage-attorneys/)
+      sectionlinktext: Learn More
+      sectionlink: https://www.austinaccidentlawyer.com/practice-areas/serious-personal-injury/austin-spinal-cord-injury-lawyers/
+      image: /images/serious-injury.png
+    - sectionheading: Serious Injuries
+      sectiontext: >-
+        We have represented hundreds of people with serious injuries. Serious
+        injuries are those which have one or more of the following factors:
+        severe pain, permanent pain, disabling pain.
+
+
+        * [Broken Bone Injury](https://www.austinaccidentlawyer.com/practice-areas/broken-bone-injury-attorneys/)
+
+        * [Brain Injury](https://www.austinaccidentlawyer.com/practice-areas/serious-personal-injury/brain-injury-lawyers/)
+
+        * [CRPS / RSD Injury](https://www.austinaccidentlawyer.com/practice-areas/serious-personal-injury/crps-attorney/)
+
+        * [Paraplegia Injury](https://www.austinaccidentlawyer.com/practice-areas/serious-personal-injury/paraplegia-injury-attorney/)
+
+        * [Amputation Injury](https://www.austinaccidentlawyer.com/practice-areas/serious-personal-injury/amputation-injury-attorney/)
+
+        * [Rib Injuries](https://www.austinaccidentlawyer.com/rib-injuries/)
+
+        * [Wrongful Death](https://www.austinaccidentlawyer.com/practice-areas/wrongful-death-attorney/)
+
+        * [Carpel Tunnel Injuries](https://www.austinaccidentlawyer.com/practice-areas/soft-tissue-damage-attorneys/carpal-tunnel-syndrome/)
+
+        * [Knee Injuries](https://www.austinaccidentlawyer.com/practice-areas/knee-injuries/)
+
+        * [Serious Injuries](https://www.austinaccidentlawyer.com/practice-areas/serious-personal-injury/)
+      sectionlinktext: Learn More
+      sectionlink: https://www.austinaccidentlawyer.com/practice-areas/serious-personal-injury/
+      image: /images/spinal-accident.png
 intro:
   blurbs:
     - text: >-
@@ -122,19 +216,22 @@ intro:
 accordion:
   - title: Do I Need A Lawyer ?
     content: >-
-      The answer isn’t always “yes”
-
-      The first step is research. You may be able to reach a settlement on your own as long as your medical treatment was minimal and it was 100% clear who was at fault. But a more complex personal injury means you likely need the help of an attorney to add value to your case.
+      The first step is research. You may be able to reach a settlement on your
+      own as long as your medical treatment was minimal and it was 100% clear
+      who was at fault. But a more complex personal injury means you likely need
+      the help of an attorney to add value to your case.
 
 
       In some scenarios, you may need a lawyer if you don’t have health insurance, your injuries are severe or won’t go away, you have a head injury, you have a broken bone or fracture, a fatality was involved. Your insurance company may not admit liability, and you may have missed days of work and lost money you depend on to feed your family.
 
 
       These are just a few instances when you would need the advice of an attorney. If you’re still unsure, contact Traub Law Offices and one of our attorneys will help you determine what comes next.
+    contentheading: The answer isn’t always “yes”
   - content: >-
-      This is an illegal tactic in Texas
-
-      Someone approaching you on behalf of another lawyer soliciting services after a car wreck or accident is called a “runner.” This is an unethical tactic outlawed in Texas, a state prohibiting lawyers from contacting you first. You must initiate contact with a lawyer.
+      Someone approaching you on behalf of another lawyer soliciting services
+      after a car wreck or accident is called a “runner.” This is an unethical
+      tactic outlawed in Texas, a state prohibiting lawyers from contacting you
+      first. You must initiate contact with a lawyer.
 
 
       Some of our clients were approached by runners at the hospital or home shortly after an accident. Most people in these situations are still agitated or recovering, too distracted to make rational decisions. This is why insurance adjusters take your statements and get releases from you right away.
@@ -142,10 +239,10 @@ accordion:
 
       Lawyers willing to break the law with runners may not be your best legal representatives. We offer a free consumer guide to answer your questions about personal injury claims. You also may contact Traub Law Offices online for the answers you need.
     title: What about non-attorney's helping?
+    contentheading: This is an illegal tactic in Texas
   - content: >-
-      There are no promises when it comes to lawsuits
-
-      There are juries that have not found defendants in personal injuries cases liable, even when they hit someone from behind.
+      There are juries that have not found defendants in personal injuries cases
+      liable, even when they hit someone from behind.
 
 
       We research your claim and combine it with our experience to provide an approximation. Our analysis is based on your injury claim details, and we use past settlements or verdicts as starting points to estimate a reasonable amount. Each case is different, and we’ve secured large settlements for clients with small medical bills, but we needed to fight hard for those with large bills that insurance companies did not want to pay.
@@ -153,10 +250,13 @@ accordion:
 
       Any lawyer who guarantees a specific settlement amount should not be trusted. Your best bet is contacting a personal injury attorney who will estimate the value and assist you in reaching a fair settlement. Andrew Traub fights to help victims in Texas settle their claims. Contact the Traub Law Offices on this page or by calling.
     title: What is my case worth?
+    contentheading: There are no promises when it comes to lawsuits
   - content: >-
-      It can be difficult with a signed agreement
-
-      You may feel your pending personal injury claim is not receiving the attention it needs, be it a lack of communication on the part of the lawyer or something just not feeling right. In most cases, clients with these attorneys have not educated themselves enough to understand what a good Texas personal injury lawyer is.
+      You may feel your pending personal injury claim is not receiving the
+      attention it needs, be it a lack of communication on the part of the
+      lawyer or something just not feeling right. In most cases, clients with
+      these attorneys have not educated themselves enough to understand what a
+      good Texas personal injury lawyer is.
 
 
       Firing your lawyer can be difficult once you have signed an agreement and they have put work into your case. This is why it’s important to research what make a quality lawyer and find the best for your Texas personal injury case.
@@ -164,6 +264,7 @@ accordion:
 
       Traub Law Offices has taken several cases in which clients were not satisfied with the prior lawyer for varying reasons. Before we can assume representation of your case, we would need to see the agreement you signed with the previous lawyer before we can help.
     title: Can I fire my lawyer?
+    contentheading: It can be difficult with a signed agreement
 meta:
   description: This is a meta description.
   title: Austin Accident Lawyer - Austin Accident Lawyer

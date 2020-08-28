@@ -461,7 +461,7 @@ collections: # A list of collections the CMS should be able to edit
           - label: 'Category'
             name: 'category'
             widget: 'relation'
-            collection: 'practiceCategories'
+            collection: 'practiceCategory'
             searchFields: ['title']
             valueField: 'title'
       - label: 'Meta'
@@ -555,7 +555,7 @@ collections: # A list of collections the CMS should be able to edit
           - label: 'Category'
             name: 'category'
             widget: 'relation'
-            collection: 'postCategories'
+            collection: 'category'
             searchFields: ['title']
             valueField: 'title'
       - label: 'Meta'

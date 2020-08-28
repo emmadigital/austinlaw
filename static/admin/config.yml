@@ -280,6 +280,31 @@ collections: # A list of collections the CMS should be able to edit
                     widget: markdown
           - { name: experiencevideo, label: Experience Video, widget: markdown }          
           - { label: 'CTA Heading', name: 'ctaheading', widget: 'string' }                 
+          - { label: 'What We Cover Heading', name: 'wwcheading', widget: 'string' }
+          - { label: 'What We Cover Sub Heading', name: 'wwcsubheading', widget: 'markdown' }                         
+          - label: What We Cover List
+            name: cover
+            widget: object
+            fields:
+              - label: Cover Section
+                name: coversection
+                widget: list
+                fields:
+                  - label: Image
+                    name: image
+                    widget: image
+                  - label: Section Heading
+                    name: sectionheading
+                    widget: string
+                  - label: Section Text
+                    name: sectiontext
+                    widget: markdown
+                  - label: Section Link Text
+                    name: sectionlinktext
+                    widget: string
+                  - label: Section Link
+                    name: sectionlink
+                    widget: string
           - label: Intro
             name: intro
             widget: object
@@ -414,6 +439,7 @@ collections: # A list of collections the CMS should be able to edit
       preview: true
     folder: content/practiceAreas
     slug: '{{year}}-{{month}}-{{day}}-{{slug}}'
+    path: 'practice-areas/{{fields.category}}/{{slug}}'
     create: true # Allow users to create new documents in this collection
     fields: # The fields each document in this collection have
       - { label: Template, name: template, widget: hidden, default: PracticePage }
@@ -502,6 +528,7 @@ collections: # A list of collections the CMS should be able to edit
       preview: true
     folder: content/blog
     slug: '{{year}}-{{month}}-{{day}}-{{slug}}'
+    path: '{{fields.category}}/{{slug}}'
     create: true # Allow users to create new documents in this collection
     fields: # The fields each document in this collection have
       - { label: Template, name: template, widget: hidden, default: SinglePost }

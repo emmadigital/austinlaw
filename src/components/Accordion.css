@@ -53,5 +53,5 @@
 .Accordion--item.active .description {
   padding-top: 2rem;
   opacity: 1;
-  max-height: 50rem;
+  max-height: 80rem;
 }

@@ -488,7 +488,7 @@ collections: # A list of collections the CMS should be able to edit
     label: Practice Category
     editor:
       preview: false
-    folder: content/PracticeCategory
+    folder: content/practiceCategory
     slug: '{{slug}}'
     create: true # Allow users to create new documents in this collection
     fields: # The fields each document in this collection have
@@ -528,7 +528,7 @@ collections: # A list of collections the CMS should be able to edit
       preview: true
     folder: content/blog
     slug: '{{year}}-{{month}}-{{day}}-{{slug}}'
-    path: '{{fields.category}}/{{slug}}'
+    path: 'blog/{{fields.categories}}/{{slug}}'
     create: true # Allow users to create new documents in this collection
     fields: # The fields each document in this collection have
       - { label: Template, name: template, widget: hidden, default: SinglePost }

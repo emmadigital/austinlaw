@@ -26,6 +26,7 @@ export const SinglePostTemplate = ({
   featuredImage,
   categories = []
 }) => (
+
   <main>
     <PageHeader
       backgroundImage={featuredImage}

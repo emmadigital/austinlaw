@@ -528,7 +528,6 @@ collections: # A list of collections the CMS should be able to edit
       preview: true
     folder: content/blog
     slug: '{{slug}}'
-    path: '{{categories}}/{{slug}}'
     create: true # Allow users to create new documents in this collection
     fields: # The fields each document in this collection have
       - { label: Template, name: template, widget: hidden, default: SinglePost }
@@ -549,10 +548,15 @@ collections: # A list of collections the CMS should be able to edit
       - { label: Content, name: body, widget: markdown }
       - label: 'Categories'
         name: 'categories'
-        widget: 'relation'
-        collection: 'category'
-        searchFields: ['title']
-        valueField: 'title'
+        widget: 'list'
+        required: false
+        fields:
+          - label: 'Category'
+            name: 'category'
+            widget: 'relation'
+            collection: 'category'
+            searchFields: ['title']
+            valueField: 'title'
       - label: 'Meta'
         required: false
         name: 'meta'

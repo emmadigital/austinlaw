@@ -15,8 +15,12 @@ import "react-alice-carousel/lib/alice-carousel.css";
 import '../components/Gallery.css'
 import './custom.scss';
 
+import { library } from '@fortawesome/fontawesome-svg-core'
+import { faCheckSquare, faCoffee  } from '@fortawesome/free-solid-svg-icons'
+
+
 // Export Template for use in CMS preview
-export const HomePageTemplate = ({ title, subtitle, featuredImage, body, intro, heroslider, accordion, ctaheading, experiencesection, experiencevideo }) => (
+export const HomePageTemplate = ({ title, subtitle, featuredImage, body, intro, cover, heroslider, accordion, ctaheading, experiencesection, experiencevideo }) => (
   <main className="Home">
     <Slider className="slider-wrapper" autoplay={3000}>
 			{heroslider.slider.map((item, index) => (
@@ -62,12 +66,37 @@ export const HomePageTemplate = ({ title, subtitle, featuredImage, body, intro, 
  </section>
 
     <section className="section">
+    <div class="container">
+    {cover.coversection.map((item, index) => (
+
+    <div class="items">
+        <div class="items-head">
+          <p>{item.sectionheading}</p>
+          <hr />
+        </div>    
+        <div class="items-body">
+         <p
+         style={{ background: `url('${item.image.childImageSharp.fluid.src}') no-repeat right 30px` }}
+         ><Content source={item.sectiontext} /> </p>
+ 
+              
+      </div>
+	
+</div>))}  
+
+</div>
+
+      
+    </section>
+
+    <section className="section">
       <div className="container">
         <div className="section_3">
         <Content source={body} />
         </div>
         </div>
     </section>
+
     <Flip top>
     <div className="ctaheading2">
     <h1>Frequently Asked Questions</h1><br />
@@ -143,6 +172,21 @@ export const pageQuery = graphql`
             text
             blurbsheading
             }
+        }
+        cover {
+          coversection {
+            sectionheading
+            sectionlink
+            sectionlinktext
+            sectiontext
+            image {
+              childImageSharp {
+                fluid(maxWidth: 450, quality: 64) {
+                  ...GatsbyImageSharpFluid
+                }
+              }
+            }
+          }
         }
       }
     }

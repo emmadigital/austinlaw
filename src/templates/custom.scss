@@ -444,6 +444,36 @@ button {
   }
 }
 
+
+.left3 {
+  background: white;
+  color: black;
+  float: left;
+  width: 60%;
+  font-size: 24px;
+  vertical-align: middle;
+  text-align: center;
+}
+
+.left3 h1{
+  font-size: 42px;
+  margin-top: 3%;
+  color: black;
+}
+.right3 {
+  background: white;
+  color: black;
+  float: right;
+  width: 40%;
+  font-size: 24px;
+}
+
+.group3:after {
+  content:"";
+  display: table;
+  clear: both;
+}
+
 .ctaheading{
   max-width: 481px;
   margin-left: 35%;
@@ -485,4 +515,104 @@ button {
       padding-top: 120px;
     }
   
+}
+
+
+
+@media screen and (max-width: 375px) {
+  
+  
+}
+
+
+.items {
+  width: 100%;
+  background: #fffffe;
+  box-shadow: 0 3px 6px rgba(0, 0, 0, 0.16), 0 3px 6px rgba(0, 0, 0, 0.23);
+  border-top: 10px solid #881012;
+}
+
+.items-head p {
+  padding: 5px 20px;
+  margin: 10px;
+  color: #881012;
+  font-weight: bold;
+  font-size: 20px;
+}
+
+.items-head hr {
+  width: 35%;
+  margin: 0px 30px;
+  border: 1px solid #881012;
+}
+
+.items-body {
+  padding: 5px 20px;
+    margin: 10px;
+  display: grid;
+  grid-gap: 10px;
+}
+
+.items-body-content {
+  padding: 10px;
+  padding-right: 0px;
+  display: grid;
+  grid-template-columns: 10fr 1fr;
+  font-size: 13px;
+  grid-gap: 10px;
+  border: 1px solid transparent;
+  cursor: pointer;
+}
+
+.items-body-content:hover {
+  border-radius: 15px;
+  border: 1px solid #fea70a;
+}
+
+.items-body-content i {
+  align-self: center;
+  font-size: 15px;
+  color: #881012;
+  font-weight: bold;
+  animation: icon 1.5s infinite forwards;
+}
+
+.Content ul{
+  max-width: 620px;
+  margin-left: 0rem;
+}
+
+.Content li {
+  padding: 10px;
+  padding-left: 0rem;
+  padding-right: 0px;
+  display: inline-block;
+  font-size: 17px;
+  font-weight: 700;
+  grid-gap: 5px;
+  border: 1px solid transparent;
+  cursor: pointer;
+  list-style: none;
+}
+
+
+.Content ul li::before {
+  content: '\f105'; 
+  font-family: "Font Awesome 5 Free";
+  color: #fea70a;
+  padding-right: 7px;
+}
+
+.Content li:hover {
+  animation: icon 1.5s infinite forwards;
+  color: white;
+}
+
+@keyframes icon {
+  0%,100% {
+    transform: translate(0px);
+  }
+  50% {
+    transform: translate(3px);
+  }
 }

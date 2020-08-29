@@ -521,7 +521,9 @@ button {
 
 @media screen and (max-width: 375px) {
   
-  
+  .items-body p{
+    background-image: none;
+  }
 }
 
 
@@ -535,15 +537,15 @@ button {
 .items-head p {
   padding: 5px 20px;
   margin: 10px;
-  color: #881012;
+  color: #497070;
   font-weight: bold;
   font-size: 20px;
 }
 
 .items-head hr {
-  width: 35%;
+  width: 15%;
   margin: 0px 30px;
-  border: 1px solid #881012;
+  border: 1px solid #fea70a;
 }
 
 .items-body {

@@ -1,6 +1,6 @@
 ---
 template: SinglePost
-title: 15 people Injured In IÂ·35 flyover collision
+title: 15 people Injured In I·35 flyover collision
 status: Published
 date: 2016-10-24
 featuredImage: /images/accident-arround-austin.jpg
@@ -10,7 +10,7 @@ excerpt: Three people were taken to the hospital and 12 others were treated at
 categories:
   - category: Accidents
 meta:
-  title: 15 people Injured In IÂ·35 flyover collision
+  title: 15 people Injured In I·35 flyover collision
   description: Three people were taken to the hospital and 12 others were treated
     at the scene Sunday after a multiple vehicle collision on the westbound Ben
     White Boulevard flyover to southbound Interstate 35.

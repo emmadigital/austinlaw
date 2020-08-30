@@ -1,6 +1,6 @@
 ---
 template: SinglePost
-title: 3 Crashes Kill 4 in Central Texas in 12-hour Period
+title: 3 Crashes Kill 4 in Central Texas in 12 hour Period
 status: Published
 date: 2018-01-06
 featuredImage: /images/accident-arround-austin.jpg
@@ -23,7 +23,7 @@ Police said the driver, 52-year-old Daniel Adrian Gonzalez of Austin, was headin
 
 A few hours later, Austin-Travis County Emergency Medical Services reported another [deadly wreck](https://www.austinaccidentlawyer.com/practice-areas/wrongful-death-attorney/) on I-35 at about 11:35 p.m. Thursday.
 
-Medics and Austin Fire Department crews responded to a collision in Austin on I-35 just north of 51st Street, where EMS described seeing a “vehicle on fire, ‘fully engulfed.'”
+Medics and Austin Fire Department crews responded to a collision in Austin on I-35 just north of 51st Street, where EMS described seeing a “vehicle on fire, fully engulfed.”
 
 According to police, an [SUV caught fire](https://www.austinaccidentlawyer.com/practice-areas/burn-injury-lawyer/) in a [wreck with an 18-wheeler truck](https://www.austinaccidentlawyer.com/practice-areas/truck-accident-lawyer/).
 

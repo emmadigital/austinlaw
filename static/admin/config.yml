@@ -430,6 +430,46 @@ collections: # A list of collections the CMS should be able to edit
               required: false,
             }
           - { label: Noindex, name: noindex, widget: boolean, required: false }
+          
+      - file: 'content/pages/faq.md'
+        label: 'Faq'
+        name: 'faq-page'
+        fields:
+          - {
+              label: Template,
+              name: template,
+              widget: hidden,
+              default: PracticeAreaIndex,
+            }
+          - { label: Slug, name: slug, widget: hidden, default: 'faq' }
+          - { label: Title, name: title, widget: string }
+          - { label: Featured Image, name: featuredImage, widget: image }
+          - { label: Subtitle, name: subtitle, widget: markdown }
+          - label: 'Meta'
+            required: false
+            name: 'meta'
+            widget: 'object'
+            fields:
+              - { label: Title, name: title, widget: string, required: false }
+              - {
+                  label: Description,
+                  name: description,
+                  widget: text,
+                  required: false,
+                }
+              - {
+                  label: Canonical Link,
+                  name: canonicalLink,
+                  widget: string,
+                  required: false,
+                }
+              - {
+                  label: Noindex,
+                  name: noindex,
+                  widget: boolean,
+                  required: false,
+                }
+
   - name: conozcanos
     label: Conozcanos
     editor:
@@ -467,6 +507,45 @@ collections: # A list of collections the CMS should be able to edit
               required: false,
             }
           - { label: Noindex, name: noindex, widget: boolean, required: false }
+
+      - file: 'content/pages/conozcanos.md'
+        label: 'Conozcanos'
+        name: 'conozcanos-page'
+        fields:
+          - {
+              label: Template,
+              name: template,
+              widget: hidden,
+              default: PracticeAreaIndex,
+            }
+          - { label: Slug, name: slug, widget: hidden, default: 'conozcanos' }
+          - { label: Title, name: title, widget: string }
+          - { label: Featured Image, name: featuredImage, widget: image }
+          - { label: Subtitle, name: subtitle, widget: markdown }
+          - label: 'Meta'
+            required: false
+            name: 'meta'
+            widget: 'object'
+            fields:
+              - { label: Title, name: title, widget: string, required: false }
+              - {
+                  label: Description,
+                  name: description,
+                  widget: text,
+                  required: false,
+                }
+              - {
+                  label: Canonical Link,
+                  name: canonicalLink,
+                  widget: string,
+                  required: false,
+                }
+              - {
+                  label: Noindex,
+                  name: noindex,
+                  widget: boolean,
+                  required: false,
+                }          
           
   - name: resources
     label: Resources
@@ -505,6 +584,45 @@ collections: # A list of collections the CMS should be able to edit
               required: false,
             }
           - { label: Noindex, name: noindex, widget: boolean, required: false }
+
+      - file: 'content/pages/resources.md'
+        label: 'Resources'
+        name: 'resources-page'
+        fields:
+          - {
+              label: Template,
+              name: template,
+              widget: hidden,
+              default: PracticeAreaIndex,
+            }
+          - { label: Slug, name: slug, widget: hidden, default: 'resources' }
+          - { label: Title, name: title, widget: string }
+          - { label: Featured Image, name: featuredImage, widget: image }
+          - { label: Subtitle, name: subtitle, widget: markdown }
+          - label: 'Meta'
+            required: false
+            name: 'meta'
+            widget: 'object'
+            fields:
+              - { label: Title, name: title, widget: string, required: false }
+              - {
+                  label: Description,
+                  name: description,
+                  widget: text,
+                  required: false,
+                }
+              - {
+                  label: Canonical Link,
+                  name: canonicalLink,
+                  widget: string,
+                  required: false,
+                }
+              - {
+                  label: Noindex,
+                  name: noindex,
+                  widget: boolean,
+                  required: false,
+                }          
   - name: testimonials
     label: Testimonials
     editor:
@@ -543,6 +661,44 @@ collections: # A list of collections the CMS should be able to edit
             }
           - { label: Noindex, name: noindex, widget: boolean, required: false }
 
+      - file: 'content/pages/testimonials.md'
+        label: 'Testimonials'
+        name: 'testimonials-page'
+        fields:
+          - {
+              label: Template,
+              name: template,
+              widget: hidden,
+              default: PracticeAreaIndex,
+            }
+          - { label: Slug, name: slug, widget: hidden, default: 'testimonials' }
+          - { label: Title, name: title, widget: string }
+          - { label: Featured Image, name: featuredImage, widget: image }
+          - { label: Subtitle, name: subtitle, widget: markdown }
+          - label: 'Meta'
+            required: false
+            name: 'meta'
+            widget: 'object'
+            fields:
+              - { label: Title, name: title, widget: string, required: false }
+              - {
+                  label: Description,
+                  name: description,
+                  widget: text,
+                  required: false,
+                }
+              - {
+                  label: Canonical Link,
+                  name: canonicalLink,
+                  widget: string,
+                  required: false,
+                }
+              - {
+                  label: Noindex,
+                  name: noindex,
+                  widget: boolean,
+                  required: false,
+                }
       - file: 'content/pages/practice-areas.md'
         label: 'Practice Areas Page'
         name: 'practice-areas-page'

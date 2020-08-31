@@ -25,8 +25,7 @@ export const SinglePostTemplate = ({
   prevPostTitle,
   featuredImage,
   categories = []
-}) =>   console.log(featuredImage)
-(
+}) =>  (
 
   <main>
     <PageHeader

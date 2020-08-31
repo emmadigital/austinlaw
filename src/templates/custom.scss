@@ -181,7 +181,6 @@ button {
           top: 50%;
           transform: translateY(-50%);
           z-index: 10;
-          background: url('http://svgshare.com/i/P02.svg') no-repeat center center / 16px;
           width: 32px;
           height: 32px;
           text-indent: -9999px;
@@ -189,13 +188,23 @@ button {
           transform: rotate(0deg);
   }
   
+  .slide a::before{
+    content: '\f105'; 
+    font-family: "Font Awesome 5 Free";
+    color: #FFFFFF;
+  }
+
+  .nextButton a::before{
+    content: '\f105'; 
+    font-family: "Font Awesome 5 Free";
+    color: #FFFFFF;
+  }
 
   .nextButton {
     position: absolute;
     top: 50%;
     transform: translateY(-50%);
     z-index: 10;
-    background: url('http://svgshare.com/i/P02.svg') no-repeat center center / 16px;
     width: 32px;
     height: 32px;
     text-indent: -9999px;
@@ -553,6 +562,11 @@ button {
     margin: 10px;
   display: grid;
   grid-gap: 10px;
+  background: none;
+}
+
+.items-body p{
+ background-image: url("");
 }
 
 .items-body-content {

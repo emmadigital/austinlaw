@@ -19,6 +19,7 @@
   background-color: #ecd4d4a3;
   box-shadow: 0.5rem 0 0 #881012, -0.5rem 0 0 #881012;
   padding: 1rem;
+  line-height: 1em;
 }
 
 .PageHeader--Subtitle {

@@ -107,9 +107,7 @@ export const SinglePostTemplate = ({
 
 // Export Default SinglePost for front-end
 const SinglePost = ({ data: { post, allPosts } }) => {
-  const featuredImagepath= post.frontmatter.featuredImage
   const thisEdge = allPosts.edges.find(edge => edge.node.id === post.id)
-  const ImageHeader = featuredImagepath.replace(new RegExp("../../static"), '')
   return (
     <Layout
       meta={post.frontmatter.meta || false}
@@ -123,7 +121,7 @@ const SinglePost = ({ data: { post, allPosts } }) => {
         prevPostURL={_get(thisEdge, 'previous.fields.slug')}
         nextPostTitle={_get(thisEdge, 'next.frontmatter.title')}
         prevPostTitle={_get(thisEdge, 'previous.frontmatter.title')}
-        featuredImage={ImageHeader}
+        featuredImage={post.frontmatter.featuredImage}
       />
     </Layout>
   )

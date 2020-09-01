@@ -13,14 +13,16 @@ const PageHeader = ({
   className = ''
 }) => {
   if (large) className += ' PageHeader-large'
-  console.log(backgroundImage)
+  const ImageHeader = backgroundImage.replace(new RegExp("../../static"), '');
+  console.log(ImageHeader)
+
   return (
     <div className={`PageHeader relative ${className}`}>
       {backgroundImage && (
         <Image
           background
           resolutions="large"
-          src={backgroundImage}
+          src={ImageHeader}
           alt={title}
           size="cover"
         />

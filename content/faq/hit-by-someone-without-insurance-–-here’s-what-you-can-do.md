@@ -1,6 +1,6 @@
 ---
 template: DefaultPage
-slug: hit-by-someone-without-insurance-heres-what-you-can-do
+slug: faq/hit-by-someone-without-insurance-heres-what-you-can-do
 title: Hit by Someone Without Insurance – Here’s What You Can Do
 featuredImage: /images/animals.jpg
 meta:

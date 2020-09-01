@@ -3,6 +3,7 @@ import { Link } from 'gatsby'
 
 import Image from './Image'
 import './PostCard.css'
+import { AlignCenter } from 'react-feather'
 
 const PostCard = ({
   featuredImage,
@@ -13,11 +14,28 @@ const PostCard = ({
   className = '',
   ...props
 }) => (
+  
   <Link to={slug} className={`PostCard ${className}`}>
     {featuredImage && (
-      <div className="PostCard--Image relative">
-        <Image background src={featuredImage} alt={title} />
-      </div>
+        <div className="PostCard--Image relative" style={{
+          backgroundImage: `url(${
+            !!featuredImage ? featuredImage.replace(new RegExp("../../static"), '') : null
+          })`,
+        }}>
+        <h3  style={{
+          boxShadow: '0.5rem 0 0 #fea70a, -0.5rem 0 0 #fea70a',
+          backgroundColor: '#a52020a3',
+          color: 'white',
+          padding: '1.2rem',
+          maxWidth: '300px',
+          textAlign: 'left',
+          display: 'inline-block',
+          marginTop: '10%',
+          marginLeft: 'auto',
+          fontSize: '1.5rem',
+          fontWeight: '500'
+           }} >{title}</h3>     
+      </div> 
     )}
     <div className="PostCard--Content">
       {title && <h3 className="PostCard--Title">{title}</h3>}

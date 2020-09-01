@@ -16,6 +16,9 @@
   font-size: 6rem;
   margin-bottom: 0;
   color: white;
+  background-color: #ecd4d4a3;
+  box-shadow: 0.5rem 0 0 #881012, -0.5rem 0 0 #881012;
+  padding: 1rem;
 }
 
 .PageHeader--Subtitle {

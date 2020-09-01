@@ -62,7 +62,9 @@ export const BlogIndexTemplate = ({
       }
 
       return (
+        
         <main className="Blog">
+          
           <PageHeader
             title={title}
             subtitle={subtitle}

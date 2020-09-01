@@ -5,7 +5,7 @@ backend:
 
 # display_url: https://gatsbro.netlify.com # This url will display in the top-right of the CMS
 publish_mode: editorial_workflow
-media_folder: static/images
+media_folder: /static/images
 public_folder: /images
 
 collections: # A list of collections the CMS should be able to edit
@@ -637,7 +637,7 @@ collections: # A list of collections the CMS should be able to edit
           widget: hidden,
           default: DefaultPage,
         }
-      - { label: Slug, name: slug, widget: string }
+      - { label: Slug, name: slug, widget: hidden, default: 'testimonials' }
       - { label: Title, name: title, widget: string }
       - { label: Featured Image, name: featuredImage, widget: image }
       - { label: Body, name: body, widget: markdown }
@@ -662,14 +662,14 @@ collections: # A list of collections the CMS should be able to edit
           - { label: Noindex, name: noindex, widget: boolean, required: false }
 
       - file: 'content/pages/testimonials.md'
-        label: 'Testimonials'
+        label: 'Testimonials Page'
         name: 'testimonials-page'
         fields:
           - {
               label: Template,
               name: template,
               widget: hidden,
-              default: PracticeAreaIndex,
+              default: DefaultPage,
             }
           - { label: Slug, name: slug, widget: hidden, default: 'testimonials' }
           - { label: Title, name: title, widget: string }

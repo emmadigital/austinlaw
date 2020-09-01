@@ -2,15 +2,14 @@
 template: PracticePage
 title: Neck Injuries
 status: Published
-date: '2018-05-25'
-featuredImage: 'https://ucarecdn.com/df0dc650-6938-412f-aefb-2019d2349e13/'
-excerpt: >-
-  This is placeholder text that our web designers put here to make sure words
-  appear properly on your website. This text is going to be replaced once the
-  website is completed. You are currently reading text that is written in
+date: 2018-05-25
+featuredImage: /images/serious-personal-injury.jpg
+excerpt: This is placeholder text that our web designers put here to make sure
+  words appear properly on your website. This text is going to be replaced once
+  the website is completed. You are currently reading text that is written in
   English, not any other language.
 categories:
-  - category: Serious Personal Injury  
+  - category: Serious Personal Injury
 meta:
   description: This is a meta description.
   title: Neck Injuries

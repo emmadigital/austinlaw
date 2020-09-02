@@ -1,4 +1,4 @@
-# See https://github.com/netlify/netlify-cms/blob/master/example/config.yml
+§# See https://github.com/netlify/netlify-cms/blob/master/example/config.yml
 backend:
   name: git-gateway
   branch: master # Branch to update (optional; defaults to master)
@@ -90,6 +90,46 @@ collections: # A list of collections the CMS should be able to edit
                   widget: boolean,
                   required: false,
                 }
+
+      - file: 'content/pages/blog.md'
+        label: 'Blog Page'
+        name: 'blog-page'
+        fields:
+          - {
+              label: Template,
+              name: template,
+              widget: hidden,
+              default: BlogIndex,
+            }
+          - { label: Slug, name: slug, widget: hidden, default: 'blog' }
+          - { label: Title, name: title, widget: string }
+          - { label: Featured Image, name: featuredImage, widget: image }
+          - { label: Subtitle, name: subtitle, widget: markdown }
+          - label: 'Meta'
+            required: false
+            name: 'meta'
+            widget: 'object'
+            fields:
+              - { label: Title, name: title, widget: string, required: false }
+              - {
+                  label: Description,
+                  name: description,
+                  widget: text,
+                  required: false,
+                }
+              - {
+                  label: Canonical Link,
+                  name: canonicalLink,
+                  widget: string,
+                  required: false,
+                }
+              - {
+                  label: Noindex,
+                  name: noindex,
+                  widget: boolean,
+                  required: false,
+                }
+
 
       - file: 'content/pages/meet-us.md'
         label: 'Meet Us'
@@ -354,44 +394,44 @@ collections: # A list of collections the CMS should be able to edit
           - { label: Noindex, name: noindex, widget: boolean, required: false }
 
          
-  - file: 'content/pages/practice-areas.md'
-    label: 'Practice Areas Page'
-    name: 'practice-areas-page'
-    fields:
-          - {
-              label: Template,
-              name: template,
-              widget: hidden,
-              default: PracticeAreaIndex,
-            }
-          - { label: Slug, name: slug, widget: hidden, default: 'practice-areas' }
-          - { label: Title, name: title, widget: string }
-          - { label: Featured Image, name: featuredImage, widget: image }
-          - { label: Subtitle, name: subtitle, widget: markdown }
-          - label: 'Meta'
-            required: false
-            name: 'meta'
-            widget: 'object'
-            fields:
-              - { label: Title, name: title, widget: string, required: false }
-              - {
-                  label: Description,
-                  name: description,
-                  widget: text,
-                  required: false,
-                }
-              - {
-                  label: Canonical Link,
-                  name: canonicalLink,
-                  widget: string,
-                  required: false,
-                }
-              - {
-                  label: Noindex,
-                  name: noindex,
-                  widget: boolean,
-                  required: false,
-                }
+    - file: 'content/pages/practice-areas.md'
+      label: 'Practice Areas Page'
+      name: 'practice-areas-page'
+      fields:
+            - {
+                label: Template,
+                name: template,
+                widget: hidden,
+                default: PracticeAreaIndex,
+              }
+            - { label: Slug, name: slug, widget: hidden, default: 'practice-areas' }
+            - { label: Title, name: title, widget: string }
+            - { label: Featured Image, name: featuredImage, widget: image }
+            - { label: Subtitle, name: subtitle, widget: markdown }
+            - label: 'Meta'
+              required: false
+              name: 'meta'
+              widget: 'object'
+              fields:
+                - { label: Title, name: title, widget: string, required: false }
+                - {
+                    label: Description,
+                    name: description,
+                    widget: text,
+                    required: false,
+                  }
+                - {
+                    label: Canonical Link,
+                    name: canonicalLink,
+                    widget: string,
+                    required: false,
+                  }
+                - {
+                    label: Noindex,
+                    name: noindex,
+                    widget: boolean,
+                    required: false,
+                  }
 
   - name: practiceAreas
     label: Practice Areas
@@ -481,17 +521,17 @@ collections: # A list of collections the CMS should be able to edit
             }
           - { label: Noindex, name: noindex, widget: boolean, required: false }
 
-  - file: 'content/pages/blog.md'
-    label: 'Blog Page'
-    name: 'blog-page'
+  - file: 'content/pages/testimonials.md'
+    label: 'Testimonials Page'
+    name: 'testimonials-page'
     fields:
           - {
               label: Template,
               name: template,
               widget: hidden,
-              default: BlogIndex,
+              default: DefaultPage,
             }
-          - { label: Slug, name: slug, widget: hidden, default: 'blog' }
+          - { label: Slug, name: slug, widget: hidden, default: 'testimonials' }
           - { label: Title, name: title, widget: string }
           - { label: Featured Image, name: featuredImage, widget: image }
           - { label: Subtitle, name: subtitle, widget: markdown }
@@ -519,6 +559,45 @@ collections: # A list of collections the CMS should be able to edit
                   widget: boolean,
                   required: false,
                 }
+
+  - name: testimonials
+    label: Testimonials
+    editor:
+      preview: true
+    folder: content/testimonials
+    slug: '{{slug}}'
+    create: true # Allow users to create new documents in this collection
+    fields: # The fields each document in this collection have
+      - { label: Template, name: template, widget: hidden, default: DefaultPage }
+      - { label: Title, name: title, widget: string }
+      - label: 'Status'
+        name: 'status'
+        widget: 'select'
+        options: ['Published', 'Featured', 'Draft']
+        default: 'Published'
+      - { label: Date / Order, name: date, widget: date, format: 'YYYY-MM-DD' }
+      - { label: Featured Images, name: featuredImage, widget: image }
+      - { label: Excerpt, name: excerpt, widget: text }
+      - { label: Content, name: body, widget: markdown }
+      - label: 'Meta'
+        required: false
+        name: 'meta'
+        widget: 'object'
+        fields:
+          - { label: Title, name: title, widget: string, required: false }
+          - {
+              label: Description,
+              name: description,
+              widget: text,
+              required: false,
+            }
+          - {
+              label: Canonical Link,
+              name: canonicalLink,
+              widget: string,
+              required: false,
+            }
+          - { label: Noindex, name: noindex, widget: boolean, required: false }
 
   - name: blog
     label: Blog

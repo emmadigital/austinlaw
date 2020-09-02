@@ -437,7 +437,7 @@ collections: # A list of collections the CMS should be able to edit
     editor:
       preview: true
     folder: content/infoPages
-    slug: '{{year}}-{{month}}-{{day}}-{{slug}}'
+    slug: '{{slug}}'
     create: true # Allow users to create new documents in this collection
     fields:
       - {
@@ -446,7 +446,7 @@ collections: # A list of collections the CMS should be able to edit
           widget: hidden,
           default: DefaultPage,
         }
-      - { label: Slug, name: slug, widget: string }
+      - { label: Slug, name: slug, widget: hidden, default: 'info-pages' }
       - { label: Title, name: title, widget: string }
       - { label: Featured Image, name: featuredImage, widget: image }
       - { label: Body, name: body, widget: markdown }

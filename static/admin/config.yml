@@ -1,4 +1,3 @@
-# See https://github.com/netlify/netlify-cms/blob/master/example/config.yml
 backend:
   name: git-gateway
   branch: master # Branch to update (optional; defaults to master)
@@ -90,6 +89,46 @@ collections: # A list of collections the CMS should be able to edit
                   widget: boolean,
                   required: false,
                 }
+
+      - file: 'content/pages/blog.md'
+        label: 'Blog Page'
+        name: 'blog-page'
+        fields:
+          - {
+              label: Template,
+              name: template,
+              widget: hidden,
+              default: BlogIndex,
+            }
+          - { label: Slug, name: slug, widget: hidden, default: 'blog' }
+          - { label: Title, name: title, widget: string }
+          - { label: Featured Image, name: featuredImage, widget: image }
+          - { label: Subtitle, name: subtitle, widget: markdown }
+          - label: 'Meta'
+            required: false
+            name: 'meta'
+            widget: 'object'
+            fields:
+              - { label: Title, name: title, widget: string, required: false }
+              - {
+                  label: Description,
+                  name: description,
+                  widget: text,
+                  required: false,
+                }
+              - {
+                  label: Canonical Link,
+                  name: canonicalLink,
+                  widget: string,
+                  required: false,
+                }
+              - {
+                  label: Noindex,
+                  name: noindex,
+                  widget: boolean,
+                  required: false,
+                }
+
 
       - file: 'content/pages/meet-us.md'
         label: 'Meet Us'
@@ -315,45 +354,6 @@ collections: # A list of collections the CMS should be able to edit
                   required: false,
                 }
 
-      - name: infoPages
-        label: Info Page
-        editor:
-          preview: true
-        folder: content/infoPages
-        slug: '{{year}}-{{month}}-{{day}}-{{slug}}'
-        create: true # Allow users to create new documents in this collection
-        fields:
-          - {
-              label: Template,
-              name: template,
-              widget: hidden,
-              default: DefaultPage,
-            }
-          - { label: Slug, name: slug, widget: string }
-          - { label: Title, name: title, widget: string }
-          - { label: Featured Image, name: featuredImage, widget: image }
-          - { label: Body, name: body, widget: markdown }
-          - label: 'Meta'
-            required: false
-            name: 'meta'
-            widget: 'object'
-            fields:
-              - { label: Title, name: title, widget: string, required: false }
-              - {
-                  label: Description,
-                  name: description,
-                  widget: text,
-                  required: false,
-                }
-              - {
-                  label: Canonical Link,
-                  name: canonicalLink,
-                  widget: string,
-                  required: false,
-                }
-              - { label: Noindex, name: noindex, widget: boolean, required: false }
-
-            
       - file: 'content/pages/practice-areas.md'
         label: 'Practice Areas Page'
         name: 'practice-areas-page'
@@ -393,105 +393,17 @@ collections: # A list of collections the CMS should be able to edit
                       required: false,
                     }
 
-      - name: practiceAreas
-        label: Practice Areas
-        editor:
-          preview: true
-        folder: content/practiceAreas
-        slug: '{{slug}}'
-        create: true # Allow users to create new documents in this collection
-        fields: # The fields each document in this collection have
-          - { label: Template, name: template, widget: hidden, default: PracticePage }
-          - { label: Title, name: title, widget: string }
-          - label: 'Status'
-            name: 'status'
-            widget: 'select'
-            options: ['Published', 'Featured', 'Draft']
-            default: 'Published'
-          - { label: Date / Order, name: date, widget: date, format: 'YYYY-MM-DD' }
-          - { label: Featured Images, name: featuredImage, widget: image }
-          - { label: Excerpt, name: excerpt, widget: text }
-          - { label: Content, name: body, widget: markdown }
-          - label: 'Categories'
-            name: 'categories'
-            widget: 'list'
-            required: false
-            fields:
-              - label: 'Category'
-                name: 'category'
-                widget: 'relation'
-                collection: 'practiceCategory'
-                searchFields: ['title']
-                valueField: 'title'
-          - label: 'Meta'
-            required: false
-            name: 'meta'
-            widget: 'object'
-            fields:
-              - { label: Title, name: title, widget: string, required: false }
-              - {
-                  label: Description,
-                  name: description,
-                  widget: text,
-                  required: false,
-                }
-              - {
-                  label: Canonical Link,
-                  name: canonicalLink,
-                  widget: string,
-                  required: false,
-                }
-              - { label: Noindex, name: noindex, widget: boolean, required: false }
-
-      - name: practiceCategory
-        label: Practice Category
-        editor:
-          preview: false
-        folder: content/practiceCategory
-        slug: '{{slug}}'
-        create: true # Allow users to create new documents in this collection
-        fields: # The fields each document in this collection have
-          - { label: Slug, name: slug, widget: hidden, default: 'practice-areas' }
-          - { label: Template, name: template, widget: hidden, default: PracticeCategoryIndex }
-          - { label: Title, name: title, widget: string }
-          - { label: Subtitle, name: subtitle, widget: string, required: false }
-          - {
-              label: Featured Image,
-              name: featuredImage,
-              widget: image,
-              required: false,
-            }
-          - label: 'Meta'
-            required: false
-            name: 'meta'
-            widget: 'object'
-            fields:
-              - { label: Title, name: title, widget: string, required: false }
-              - {
-                  label: Description,
-                  name: description,
-                  widget: text,
-                  required: false,
-                }
-              - {
-                  label: Canonical Link,
-                  name: canonicalLink,
-                  widget: string,
-                  required: false,
-                }
-              - { label: Noindex, name: noindex, widget: boolean, required: false }
-
-      - file: 'content/pages/blog.md'
-        label: 'Blog Page'
-        name: 'blog-page'
+      - file: 'content/pages/testimonials.md'
+        label: 'Testimonials Page'
+        name: 'testimonials-page'
         fields:
               - {
                   label: Template,
                   name: template,
                   widget: hidden,
-                  default: BlogIndex,
+                  default: DefaultPage,
                 }
-              - { label: Slug, name: slug, widget: hidden, default: 'blog' }
+              - { label: Slug, name: slug, widget: hidden, default: 'testimonials' }
               - { label: Title, name: title, widget: string }
               - { label: Featured Image, name: featuredImage, widget: image }
               - { label: Subtitle, name: subtitle, widget: markdown }
@@ -520,124 +432,252 @@ collections: # A list of collections the CMS should be able to edit
                       required: false,
                     }
 
-      - name: blog
-        label: Blog
-        editor:
-          preview: true
-        folder: content/blog
-        slug: '{{slug}}'
-        create: true # Allow users to create new documents in this collection
-        fields: # The fields each document in this collection have
-          - { label: Template, name: template, widget: hidden, default: SinglePost }
-          - { label: Title, name: title, widget: string }
-          - label: 'Status'
-            name: 'status'
-            widget: 'select'
-            options: ['Published', 'Featured', 'Draft']
-            default: 'Published'
-          - { label: Date / Order, name: date, widget: date, format: 'YYYY-MM-DD' }
+  - name: infoPages
+    label: Info Page
+    editor:
+      preview: true
+    folder: content/infoPages
+    slug: '{{year}}-{{month}}-{{day}}-{{slug}}'
+    create: true # Allow users to create new documents in this collection
+    fields:
+      - {
+          label: Template,
+          name: template,
+          widget: hidden,
+          default: DefaultPage,
+        }
+      - { label: Slug, name: slug, widget: string }
+      - { label: Title, name: title, widget: string }
+      - { label: Featured Image, name: featuredImage, widget: image }
+      - { label: Body, name: body, widget: markdown }
+      - label: 'Meta'
+        required: false
+        name: 'meta'
+        widget: 'object'
+        fields:
+          - { label: Title, name: title, widget: string, required: false }
           - {
-              label: Featured Image,
-              name: featuredImage,
-              widget: image,
+              label: Description,
+              name: description,
+              widget: text,
               required: false,
             }
-          - { label: Excerpt, name: excerpt, widget: text }
-          - { label: Content, name: body, widget: markdown }
-          - label: 'Categories'
-            name: 'categories'
-            widget: 'list'
-            required: false
-            fields:
-              - label: 'Category'
-                name: 'category'
-                widget: 'relation'
-                collection: 'category'
-                searchFields: ['title']
-                valueField: 'title'
-          - label: 'Meta'
-            required: false
-            name: 'meta'
-            widget: 'object'
-            fields:
-              - { label: Title, name: title, widget: string, required: false }
-              - {
-                  label: Description,
-                  name: description,
-                  widget: text,
-                  required: false,
-                }
-              - {
-                  label: Canonical Link,
-                  name: canonicalLink,
-                  widget: string,
-                  required: false,
-                }
-              - { label: Noindex, name: noindex, widget: boolean, required: false }
-
-      - name: category
-        label: Post Category
-        editor:
-          preview: false
-        folder: content/Category
-        slug: '{{slug}}'
-        create: true # Allow users to create new documents in this collection
-        fields: # The fields each document in this collection have
-          - { label: Template, name: template, widget: hidden, default: BlogIndex }
-          - { label: Title, name: title, widget: string }
-          - { label: Subtitle, name: subtitle, widget: string, required: false }
           - {
-              label: Featured Image,
-              name: featuredImage,
-              widget: image,
+              label: Canonical Link,
+              name: canonicalLink,
+              widget: string,
               required: false,
             }
-          - label: 'Meta'
-            required: false
-            name: 'meta'
-            widget: 'object'
-            fields:
-              - { label: Title, name: title, widget: string, required: false }
-              - {
-                  label: Description,
-                  name: description,
-                  widget: text,
-                  required: false,
-                }
-              - {
-                  label: Canonical Link,
-                  name: canonicalLink,
-                  widget: string,
-                  required: false,
-                }
-              - { label: Noindex, name: noindex, widget: boolean, required: false }
+          - { label: Noindex, name: noindex, widget: boolean, required: false }
 
-      - name: 'settings'
-        label: 'Settings'
-        delete: false # Prevent users from deleting documents in this collection
-        editor:
-          preview: false
-        files:
-          - file: 'content/settings/global.yml'
-            label: 'Global Settings'
-            name: 'global-settings'
+         
+    
+
+  - name: practiceAreas
+    label: Practice Areas
+    editor:
+      preview: true
+    folder: content/practiceAreas
+    slug: '{{slug}}'
+    create: true # Allow users to create new documents in this collection
+    fields: # The fields each document in this collection have
+      - { label: Template, name: template, widget: hidden, default: PracticePage }
+      - { label: Title, name: title, widget: string }
+      - label: 'Status'
+        name: 'status'
+        widget: 'select'
+        options: ['Published', 'Featured', 'Draft']
+        default: 'Published'
+      - { label: Date / Order, name: date, widget: date, format: 'YYYY-MM-DD' }
+      - { label: Featured Images, name: featuredImage, widget: image }
+      - { label: Excerpt, name: excerpt, widget: text }
+      - { label: Content, name: body, widget: markdown }
+      - label: 'Categories'
+        name: 'categories'
+        widget: 'list'
+        required: false
+        fields:
+          - label: 'Category'
+            name: 'category'
+            widget: 'relation'
+            collection: 'practiceCategory'
+            searchFields: ['title']
+            valueField: 'title'
+      - label: 'Meta'
+        required: false
+        name: 'meta'
+        widget: 'object'
+        fields:
+          - { label: Title, name: title, widget: string, required: false }
+          - {
+              label: Description,
+              name: description,
+              widget: text,
+              required: false,
+            }
+          - {
+              label: Canonical Link,
+              name: canonicalLink,
+              widget: string,
+              required: false,
+            }
+          - { label: Noindex, name: noindex, widget: boolean, required: false }
+
+  - name: practiceCategory
+    label: Practice Category
+    editor:
+      preview: false
+    folder: content/practiceCategory
+    slug: '{{slug}}'
+    create: true # Allow users to create new documents in this collection
+    fields: # The fields each document in this collection have
+      - { label: Slug, name: slug, widget: hidden, default: 'practice-areas' }
+      - { label: Template, name: template, widget: hidden, default: PracticeCategoryIndex }
+      - { label: Title, name: title, widget: string }
+      - { label: Subtitle, name: subtitle, widget: string, required: false }
+      - {
+          label: Featured Image,
+          name: featuredImage,
+          widget: image,
+          required: false,
+        }
+      - label: 'Meta'
+        required: false
+        name: 'meta'
+        widget: 'object'
+        fields:
+          - { label: Title, name: title, widget: string, required: false }
+          - {
+              label: Description,
+              name: description,
+              widget: text,
+              required: false,
+            }
+          - {
+              label: Canonical Link,
+              name: canonicalLink,
+              widget: string,
+              required: false,
+            }
+          - { label: Noindex, name: noindex, widget: boolean, required: false }
+  - name: blog
+    label: Blog
+    editor:
+      preview: true
+    folder: content/blog
+    slug: '{{slug}}'
+    create: true # Allow users to create new documents in this collection
+    fields: # The fields each document in this collection have
+      - { label: Template, name: template, widget: hidden, default: SinglePost }
+      - { label: Title, name: title, widget: string }
+      - label: 'Status'
+        name: 'status'
+        widget: 'select'
+        options: ['Published', 'Featured', 'Draft']
+        default: 'Published'
+      - { label: Date / Order, name: date, widget: date, format: 'YYYY-MM-DD' }
+      - {
+          label: Featured Image,
+          name: featuredImage,
+          widget: image,
+          required: false,
+        }
+      - { label: Excerpt, name: excerpt, widget: text }
+      - { label: Content, name: body, widget: markdown }
+      - label: 'Categories'
+        name: 'categories'
+        widget: 'list'
+        required: false
+        fields:
+          - label: 'Category'
+            name: 'category'
+            widget: 'relation'
+            collection: 'category'
+            searchFields: ['title']
+            valueField: 'title'
+      - label: 'Meta'
+        required: false
+        name: 'meta'
+        widget: 'object'
+        fields:
+          - { label: Title, name: title, widget: string, required: false }
+          - {
+              label: Description,
+              name: description,
+              widget: text,
+              required: false,
+            }
+          - {
+              label: Canonical Link,
+              name: canonicalLink,
+              widget: string,
+              required: false,
+            }
+          - { label: Noindex, name: noindex, widget: boolean, required: false }
+
+  - name: category
+    label: Post Category
+    editor:
+      preview: false
+    folder: content/Category
+    slug: '{{slug}}'
+    create: true # Allow users to create new documents in this collection
+    fields: # The fields each document in this collection have
+      - { label: Template, name: template, widget: hidden, default: BlogIndex }
+      - { label: Title, name: title, widget: string }
+      - { label: Subtitle, name: subtitle, widget: string, required: false }
+      - {
+          label: Featured Image,
+          name: featuredImage,
+          widget: image,
+          required: false,
+        }
+      - label: 'Meta'
+        required: false
+        name: 'meta'
+        widget: 'object'
+        fields:
+          - { label: Title, name: title, widget: string, required: false }
+          - {
+              label: Description,
+              name: description,
+              widget: text,
+              required: false,
+            }
+          - {
+              label: Canonical Link,
+              name: canonicalLink,
+              widget: string,
+              required: false,
+            }
+          - { label: Noindex, name: noindex, widget: boolean, required: false }
+
+  - name: 'settings'
+    label: 'Settings'
+    delete: false # Prevent users from deleting documents in this collection
+    editor:
+      preview: false
+    files:
+      - file: 'content/settings/global.yml'
+        label: 'Global Settings'
+        name: 'global-settings'
+        fields:
+          - { label: Site Title, name: siteTitle, widget: string }
+          - { label: Site Url, name: siteUrl, widget: string, required: false }
+          - {
+              label: Site Description,
+              name: siteDescription,
+              widget: text,
+              required: false,
+            }
+          - label: Social Media Card
+            name: socialMediaCard
+            widget: object
             fields:
-              - { label: Site Title, name: siteTitle, widget: string }
-              - { label: Site Url, name: siteUrl, widget: string, required: false }
-              - {
-                  label: Site Description,
-                  name: siteDescription,
-                  widget: text,
-                  required: false,
-                }
-              - label: Social Media Card
-                name: socialMediaCard
-                widget: object
-                fields:
-                  - { label: Image, name: image, widget: image, required: false }
-              - {
-                  label: Google Analytics Tracking Id,
-                  name: googleTrackingId,
-                  widget: string,
-                  required: false,
-                }
+              - { label: Image, name: image, widget: image, required: false }
+          - {
+              label: Google Analytics Tracking Id,
+              name: googleTrackingId,
+              widget: string,
+              required: false,
+            }

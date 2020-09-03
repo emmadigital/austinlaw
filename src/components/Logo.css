@@ -1,0 +1,15 @@
+.Logo {
+  display: flex;
+  background-size: contain;
+  background-repeat: no-repeat;
+  background-position: center;
+  height: 8rem;
+  width: 15.5rem;
+  align-items: center;
+  justify-content: center;
+}
+
+
+.Logo, a {
+  text-decoration: none;
+}

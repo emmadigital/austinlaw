@@ -1,0 +1,135 @@
+.SinglePost {
+  background: var(--lightGrey);
+}
+
+.SinglePost--BackButton {
+  color: #881012;
+  position: relative;
+  display: flex;
+  align-items: center;
+  font-weight: 600;
+  text-decoration: none;
+  letter-spacing: 0.1em;
+}
+
+.SinglePost--BackButton svg {
+  transition: transform 0.2s ease-out;
+  transform: translateX(0);
+  height: 1.2em;
+}
+
+.SinglePost--BackButton:hover svg,
+.SinglePost--BackButton:focus svg {
+  transform: translateX(-0.25em);
+}
+
+.SinglePost--Content {
+  background: white;
+  padding: 8rem 8rem 4rem 8rem;
+}
+
+@media screen and (max-width: 750px) {
+  .SinglePost--Content {
+    padding: 4rem 2rem;
+  }
+}
+
+.SinglePost--Meta {
+  font-size: 1.3rem;
+  margin: 0 0 2rem 0;
+  text-align: center;
+  margin-top: 1rem;
+}
+
+.SinglePost--Meta > * + * {
+  margin-left: 0.75em;
+  color:#497070;
+  font-weight: 500;
+}
+
+.SinglePost--Title {
+  text-align: center;
+  line-height: 1.2;
+}
+
+.SinglePost--InnerContent {
+  padding: 0 8rem;
+}
+
+@media screen and (max-width: 750px) {
+  .SinglePost--InnerContent {
+    padding: 0;
+  }
+}
+
+.SinglePost--Pagination {
+  margin: 4rem 0 0 0;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+}
+
+.SinglePost--Pagination--Link {
+  text-transform: uppercase;
+  font-size: 1.2rem;
+  font-weight: 600;
+  text-decoration: none;
+}
+
+
+.SinglePost--Pagination--Link.next {
+  margin-left: auto;
+}
+
+.SinglePost--Pagination--Link{
+  font-weight: 700;
+  text-decoration: none;
+  position: relative;
+}
+
+.SinglePost--Pagination--Link::before{
+  content: "";
+  position: absolute;
+  width: 100%;
+  height: 2px;
+  bottom: 0;
+  left: 0;
+  background-color: var(--primary);
+  visibility: hidden;
+  transform: scaleX(0);
+  transition: all 0.3s ease-in-out 0s;
+}
+
+.SinglePost--Pagination--Link:hover::before{
+  visibility: visible;
+  transform: scaleX(1);
+  background-color: var(--primary);
+}
+
+.author-image {
+  position: absolute;
+  top: -30px;
+  left: 50%;
+  width: 90px;
+  height: 90px;
+  margin-left: -40px;
+  border: 3px solid #ccc;
+  border-radius: 50%;
+ 
+}
+
+
+
+
+.media-center {
+display: block;
+margin-bottom: 1rem;
+}
+
+.media-content {
+  margin-left: 0.75em;
+  text-align: center;
+  font-size: 1.7rem;
+  margin-top: 2rem;
+
+}

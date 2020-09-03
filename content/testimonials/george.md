@@ -13,7 +13,6 @@ meta:
   description: This is a meta description.
   title: George
 ---
-![](/images/testimonials-icon.jpg)
 
 ## This is the Serious Personal Injury template
 

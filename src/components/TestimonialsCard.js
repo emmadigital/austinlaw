@@ -21,21 +21,13 @@ const TestimonialsCard = ({
           backgroundImage: `url(${
             !!featuredImage ? featuredImage.replace(new RegExp("../../static"), '') : null
           })`,
-          backgroundSize: '440px 135px',
+          borderRadius: '50%',
+          width: '150px',
+          height: '150px',
+          margin: '5px auto 10px',
+          transition: '.3s border linear',
         }}>
-        <h3  style={{
-          boxShadow: '0.5rem 0 0 #fea70a, -0.5rem 0 0 #fea70a',
-          backgroundColor: '#a52020a3',
-          color: 'white',
-          padding: '1.2rem',
-          maxWidth: '300px',
-          textAlign: 'left',
-          display: 'inline-block',
-          marginTop: '10%',
-          marginLeft: 'auto',
-          fontSize: '1.5rem',
-          fontWeight: '500'
-           }} >{title}</h3>     
+             
       </div> 
     )}
     <div className="PostCard--Content">
@@ -49,11 +41,9 @@ const TestimonialsCard = ({
       </div>
     )
     }
-
-      
-
-
       {excerpt && <div className="PostCard--Excerpt">{excerpt}</div>}
+      <img src="/images/rating.png" alt="rating"/>  
+
     </div>
   </Link>
 )

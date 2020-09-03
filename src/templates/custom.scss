@@ -185,20 +185,10 @@ button {
           height: 32px;
           text-indent: -9999px;
           cursor: pointer;
-          transform: rotate(0deg);
+          background: url('../../static/images/arrowLeft.svg') no-repeat center center / 16px;
+          /*transform: rotate(0deg);*/
   }
   
-  .slide a::before{
-    content: '\f105'; 
-    font-family: "Font Awesome 5 Free";
-    color: #FFFFFF;
-  }
-
-  .nextButton a::before{
-    content: '\f105'; 
-    font-family: "Font Awesome 5 Free";
-    color: #FFFFFF;
-  }
 
   .nextButton {
     position: absolute;
@@ -209,16 +199,17 @@ button {
     height: 32px;
     text-indent: -9999px;
     cursor: pointer;
-    transform: rotate(180deg);
+    background: url('../../static/images/arrowRight.svg') no-repeat center center / 16px;
+    /*transform: rotate(180deg);*/
 }
 
   .previousButton:hover {
-    background: url('http://svgshare.com/i/P02.svg') no-repeat center center / 16px;
+    background: url('../../static/images/arrowLeft.svg') no-repeat center center / 16px;
     
   }
 
   .nextButton:hover {
-    background: url('http://svgshare.com/i/P02.svg') no-repeat center center / 16px;
+    background: url('../../static/images/arrowRight.svg') no-repeat center center / 16px;
     
   }
   
@@ -320,6 +311,7 @@ button {
     .slider-content .inner p {
       font-size: 12px;
     }    
+    
   }
   
   @media (max-width: 640px) {
@@ -344,6 +336,7 @@ button {
     .slider-content .inner p {
       font-size: 12px;
     }
+    
   }
 
   @media (min-width: 750px) {
@@ -364,6 +357,8 @@ button {
     .Home--Section3--Container {
       width: 100%;
     }
+    .previousButton {
+      top: 45%;}
 
   }
 
@@ -523,18 +518,36 @@ button {
     .section_3{
       padding-top: 120px;
     }
-  
+    .previousButton {
+      top: 44%;}
 }
 
 
 
 @media screen and (max-width: 375px) {
   
-  .items-body p{
-    background-image: none;
+  .items-body {
+    background: url('');
   }
+  .previousButton {
+    top: 44%;}
 }
 
+@media screen and (max-width: 320px) {
+  
+  .previousButton {
+    top: 40.6%;}
+}
+
+
+@media screen and (max-width: 1024px) {
+  .previousButton {
+    top: 46.8%;}
+}
+@media screen and (max-width: 360px) {
+  .previousButton {
+    top: 43.5%;}
+}
 
 .items {
   width: 100%;
@@ -559,14 +572,14 @@ button {
 
 .items-body {
   padding: 5px 20px;
-    margin: 10px;
+  margin: 10px;
   display: grid;
   grid-gap: 10px;
   background: none;
 }
 
-.items-body p{
- background-image: url("");
+.items-body, p{
+ background: url('');
 }
 
 .items-body-content {

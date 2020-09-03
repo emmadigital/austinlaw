@@ -520,21 +520,27 @@ button {
     }
     .previousButton {
       top: 44%;}
+
+     .items-body p{
+        background: url('')!important;
+      }
 }
 
 
 
 @media screen and (max-width: 375px) {
   
-  .items-body {
-    background: url('');
+  .items-body p{
+    background: url('')!important;
   }
   .previousButton {
     top: 44%;}
 }
 
 @media screen and (max-width: 320px) {
-  
+  .items-body p{
+    background: url('')!important;
+  }
   .previousButton {
     top: 40.6%;}
 }

@@ -1,5 +1,5 @@
 ---
-template: PracticePage
+template: TestimonialsPage
 title: George
 status: Published
 date: 2018-05-25

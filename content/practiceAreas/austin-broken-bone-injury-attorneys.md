@@ -17,8 +17,6 @@ meta:
     long term consequences.
   title: Austin Broken Bone Injury Attorneys
 ---
-
-
 <iframe width="560" height="315" src="https://www.youtube.com/embed/tuaoxqn-x1s" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 <!--StartFragment-->
@@ -31,7 +29,7 @@ Depending on the position and severity of the break, a broken bone can alter a p
 
 <!--StartFragment-->
 
-The Austin attorneys at The Traub Law Office, P.C. have experience handling orthopedic (bone injury) cases, and have represented people who have suffered a [broken neck](https://www.austinaccidentlawyer.com/practice-areas/neck-injuries/), [broken back](https://www.austinaccidentlawyer.com/practice-areas/austin-back-injury-lawyers/), broken skull, broken arms, broken legs, [broken ribs](https://www.austinaccidentlawyer.com/practice-areas/serious-personal-injury/rib-injuries/), and/or hand and wrist fractures.
+The Austin attorneys at The Traub Law Office, P.C. have experience handling orthopedic (bone injury) cases, and have represented people who have suffered a [broken neck](https://www.austinaccidentlawyer.com/practice-areas/neck-injuries/), [broken back](https://www.austinaccidentlawyer.com/practice-areas/austin-back-injury-lawyers/), broken skull, broken arms, broken legs, [broken ribs](https://www.austinaccidentlawyer.com/practice-areas/rib-injuries/), and/or hand and wrist fractures.
 
 ## About Bone Injuries
 
@@ -42,14 +40,14 @@ Bones can be broken in several different ways:
 * A single fracture means the bone is cracked in only one place;
 * A compound fracture or open fracture refers to a broken bone that breaks the skin;
 * A simple fracture includes transverse, oblique, impacted, stress, and hairline;
-* [Broken bones in the neck and back can cause paralysis](https://www.austinaccidentlawyer.com/practice-areas/serious-personal-injury/paraplegia-injury-attorney/).
+* [Broken bones in the neck and back can cause paralysis](https://www.austinaccidentlawyer.com/practice-areas/paraplegia-injury-attorney/).
 
 A broken bone or bone fracture may be caused by:
 
 * [Auto accident](https://www.austinaccidentlawyer.com/practice-areas/car-accident-lawyers/ "Car Accidents")
-* [Truck accident](https://www.austinaccidentlawyer.com/personal-injury-services/18-wheeler-and-truck-accidents/ "18 Wheeler and Truck Accidents")
-* [Motorcycle accident](https://www.austinaccidentlawyer.com/personal-injury-services/motorcycle-accidents/ "Motorcycle Accidents")
-* [Slip and fall accident](https://www.austinaccidentlawyer.com/practice-areas/slip-and-fall-injury-lawyers/ "Slip and Fall Injuries")
+* [Truck accident](https://www.austinaccidentlawyer.com/practice-areas/truck-accident-lawyer/)
+* [Motorcycle accident](https://www.austinaccidentlawyer.com/practice-areas/motorcycle-accident-attorney/)
+* [Slip and fall accident](https://www.austinaccidentlawyer.com/practice-areas/slip-and-fall-injury-lawyers/)
 * [Pedestrian accident](https://www.austinaccidentlawyer.com/practice-areas/pedestrian-accident-lawyers/ "Pedestrian Accidents")
 * Boating accident
 * Bicycle accident

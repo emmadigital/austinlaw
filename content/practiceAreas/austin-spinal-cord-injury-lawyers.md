@@ -15,17 +15,13 @@ meta:
     and can cause permanent physical, not to mention, emotional disabilities.
   title: Austin Spinal Cord Injury Lawyers
 ---
-
-
 <iframe width="560" height="315" src="https://www.youtube.com/embed/c40jHv8xakE" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-
-
 
 <!--StartFragment-->
 
-One of the most severe consequences of [traumatic injury](https://www.austinaccidentlawyer.com/personal-injury-services/serious-personal-injury/ "Austin Serious Personal Injury Attorney") involves spinal cord injuries. These injuries usually result in the loss of mobility and can cause permanent physical, not to mention, [emotional disabilities](https://www.austinaccidentlawyer.com/practice-areas/emotional-injury/). Spinal cord injuries decrease the quality of life through chronic pain and loss of movement. [Minor injuries](https://www.austinaccidentlawyer.com/practice-areas/soft-tissue-damage-attorneys/) affect daily living and [major injuries](https://www.austinaccidentlawyer.com/practice-areas/serious-personal-injury/) can cause paralysis or even [death](https://www.austinaccidentlawyer.com/practice-areas/wrongful-death-attorney/).
+One of the most severe consequences of [traumatic injury](https://www.austinaccidentlawyer.com/practice-areas/serious-personal-injury/) involves spinal cord injuries. These injuries usually result in the loss of mobility and can cause permanent physical, not to mention, [emotional disabilities](https://www.austinaccidentlawyer.com/practice-areas/emotional-injury/). Spinal cord injuries decrease the quality of life through chronic pain and loss of movement. [Minor injuries](https://www.austinaccidentlawyer.com/practice-areas/soft-tissue-damage-attorneys/) affect daily living and [major injuries](https://www.austinaccidentlawyer.com/practice-areas/serious-personal-injury/) can cause paralysis or even [death](https://www.austinaccidentlawyer.com/practice-areas/wrongful-death-attorney/).
 
-Spinal cord injuries come in different levels including [paraplegia (partial paralysis) and quadriplegia (full paralysis)](https://www.austinaccidentlawyer.com/practice-areas/serious-personal-injury/austin-paraplegia-attorney/).
+Spinal cord injuries come in different levels including [paraplegia (partial paralysis) and quadriplegia (full paralysis)](https://www.austinaccidentlawyer.com/practice-areas/austin-paraplegia-attorney/).
 
 <!--EndFragment-->
 

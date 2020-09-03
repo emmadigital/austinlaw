@@ -8,6 +8,8 @@ excerpt: A back injury can be a life-changing serious personal injury that
   eventually leads to chronic pain. Spinal cord injuries usually occur in the
   muscles and tendons of the spinal column area, typically in the cervical,
   thoracic, and lumbar regions, but can include injuries to the sacrum and hip.
+categories:
+  - category: Serious Personal Injury
 meta:
   title: Austin Back Injury Lawyers
   description: A back injury can be a life-changing serious personal injury that

@@ -11,6 +11,7 @@ collections: # A list of collections the CMS should be able to edit
   - name: 'pages'
     label: 'Page'
     delete: false # Prevent users from deleting documents in this collection
+    create: true # Allow users to create new documents in this collection
     editor:
       preview: true
     files:

@@ -12,8 +12,7 @@ excerpt: |-
 
 
   November 02, 2015
-testimonialscategories:
-  - category: General
+testimonialscategories: []
 meta:
   description: |-
     Jose Bermeo

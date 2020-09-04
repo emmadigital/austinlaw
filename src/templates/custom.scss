@@ -630,7 +630,9 @@ button {
   list-style: none;
 }
 
-
+.Content li, a{
+  color: var(--primary);
+}
 .Content ul li::before {
   content: '\f105'; 
   font-family: "Font Awesome 5 Free";
@@ -640,7 +642,6 @@ button {
 
 .Content li:hover {
   animation: icon 1.5s infinite forwards;
-  color: white;
 }
 
 @keyframes icon {

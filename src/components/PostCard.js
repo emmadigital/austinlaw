@@ -21,6 +21,7 @@ const PostCard = ({
           backgroundImage: `url(${
             !!featuredImage ? featuredImage.replace(new RegExp("../../static"), '') : null
           })`,
+          backgroundSize: '450px',
         }}>
         <h3  style={{
           boxShadow: '0.5rem 0 0 #fea70a, -0.5rem 0 0 #fea70a',

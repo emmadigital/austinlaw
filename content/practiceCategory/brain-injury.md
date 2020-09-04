@@ -1,5 +1,4 @@
 ---
-slug: practice-areas
 template: PracticeAreasIndex
 title: Brain Injury
 subtitle: Brain Injury Austin Lawyers

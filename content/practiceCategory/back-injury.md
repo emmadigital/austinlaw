@@ -1,5 +1,4 @@
 ---
-slug: practice-areas
 template: PracticeAreasIndex
 title: Back Injury
 subtitle: Back Injury Austin Lawyer

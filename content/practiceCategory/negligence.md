@@ -1,5 +1,4 @@
 ---
-slug: practice-areas
 template: PracticeAreasIndex
 title: Negligence
 featuredImage: /images/negligence.jpg

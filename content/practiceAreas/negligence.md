@@ -2,54 +2,33 @@
 template: PracticePage
 title: Negligence
 status: Published
-date: '2018-05-25'
-featuredImage: 'https://ucarecdn.com/df0dc650-6938-412f-aefb-2019d2349e13/'
-excerpt: >-
-  This is placeholder text that our web designers put here to make sure words
-  appear properly on your website. This text is going to be replaced once the
-  website is completed. You are currently reading text that is written in
-  English, not any other language.
-
+date: 2018-05-25
+featuredImage: /images/negligence.jpg
+excerpt: Negligence is basically carelessness.  The law of negligence is meant
+  to protect the community from the carelesness of others.
+categories: []
 meta:
-  description: This is a meta description.
+  description: Negligence is basically carelessness.  The law of negligence is
+    meant to protect the community from the carelesness of others.
   title: Negligence
 ---
+<!--StartFragment-->
 
-## This is the Serious Personal Injury template
+Negligence in Texas (and most other states and countries) is defined as follows for a jury:
 
-Paragraphs are separated by a blank line.
+“Negligence” means failure to use ordinary care, that is, failing to do that which a person of ordinary prudence would have done under the same or similar circumstances or doing that which a person of ordinary prudence would not have done under the same or similar circumstances.
 
-The second paragraph. This is placeholder text that our web designers put here to make sure words appear properly on your website. _Italic_, **bold**, and `monospace`.
+“Ordinary care” means that degree of care that would be used by a person of ordinary prudence under the same or similar circumstances.
 
-### Unordered lists:
+This legalese can be very confusing for a jury and courts have struggled to come up with an easy to understand phrasing and the lack of clarity is often taken advantage of defense lawyers who will claim that their client was not negligent when they ran into the back of your car.
 
-- this one
-- that one
-- the other one
+So here’s why someone may hit your car and hurt you and yet still be found to not be at fault (and get away with it) even though you did nothing wrong:
 
-### Ordered lists:
+1. The person who hit you had a **sudden emergency**.Â For example, the were avoiding a head-on collision with another vehicle or perhaps a child darted out in front of them.
+2. The person who hit you had a heart attack or other illness.Â If someone has a heart attack and can’t drive, then they are still using ordinary care until the attack occurs.Â However, if they have a history of heart problems that may be different.
+3. The sneeze defense.Â “I was stopped in stop-and-go traffic, took my foot off the brake as traffic moved forward, sneezed, and accidentally hit the accelerator.”Â As crazy as this sounds, I’ve heard defense lawyers use it and bragged that they have won cases with it.Â Remember, the plaintiff has the burden of proving that the driver was not using the same care that another driver under similar circumstances would use.
+4. The defendant called the police.Â Ok, this is not a real defense, but I once lost a case and then asked the jurors why they didn’t vote for my client who was rear-ended by the defendant.Â The answer shocked me.Â They thought that someone who called the police after an accident was showing ordinary prudence.Â Moral of the story : make it clear that ordinary care applies at the point of the collision and not to what was done or not done afterwards.
 
-1.  first item
-1.  second item
-1.  third item
+If you can prove the other part was negligent, and there’s no argument you were also at fault, you’re halfway there in proving your case.Â Now comes the hard part – proving your damages.
 
-> Block quotes are written like so.
->
-> They can span multiple paragraphs,
-> if you like.
-
-# Heading 1
-
-## Heading 2
-
-### Heading 3
-
-#### Heading 4
-
-##### Heading 5
-
-###### Heading 6
-
-<iframe width="560" height="315"
-  src="https://www.youtube.com/embed/Js00yn142ic" frameborder="0"
-  allow="autoplay; encrypted-media" allowfullscreen></iframe>
+<!--EndFragment-->

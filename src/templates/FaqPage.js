@@ -20,18 +20,6 @@ export const FaqPageTemplate = ({
     />
     <section className="section">
       <div className="container">
-      <img src={featuredImage.replace(new RegExp("../../static"), '')} alt="rating"
-      style={{
-        borderRadius: '50%',
-          width: '150px',
-          height: '150px',
-          margin: '5px auto 10px',
-          transition: '.3s border linear',
-      }}
-      />        
-        <div>      
-          <h1>{title}</h1>
-        </div>
         <Content source={body} />
       </div>
     </section>

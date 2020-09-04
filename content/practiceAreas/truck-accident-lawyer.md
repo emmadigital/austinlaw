@@ -33,7 +33,7 @@ As **experienced truck accident lawyers** practicing in Austin, Texas, we’ve s
 
 <!--StartFragment-->
 
-A trucking accident occurs when large trailers (10,000+ lbs.) collide with other vehicles or pedestrians. Around 500,000 trucking accidents occur every year in the United States. Of these, approximately **5,000 trucking accidents result in fatalities**. In fact, one out of every eight [traffic fatalities](https://www.austinaccidentlawyer.com/practice-areas/wrongful-death-attorney/) involves a trucking collision. If you’ve been injured by an 18-wheeler, you should definitely hire *experienced truck accident lawyers*.
+A trucking accident occurs when large trailers (10,000+ lbs.) collide with other vehicles or pedestrians. Around 500,000 trucking accidents occur every year in the United States. Of these, approximately **5,000 trucking accidents result in fatalities**. In fact, one out of every eight [traffic fatalities](/practice-areas/wrongful-death-attorney/) involves a trucking collision. If you’ve been injured by an 18-wheeler, you should definitely hire *experienced truck accident lawyers*.
 
 ## Truck Accident Facts
 
@@ -55,7 +55,7 @@ The Facts:
 
 <!--StartFragment-->
 
-Truck accidents often end in fatalities, or [serious and sometimes permanent injuries](https://www.austinaccidentlawyer.com/practice-areas/serious-personal-injury/). Trucking companies and their insurance companies usually offer little help to the victims of a truck accident. **Truck accident lawsuits are very expensive** for both the victim and the company involved and often the truck company will attempt to settle the case for pennies on the dollar. *Experienced truck accident lawyers* can help level the playing field so that you are able to reach a just and equal settlement.
+Truck accidents often end in fatalities, or [serious and sometimes permanent injuries](/practice-areas/serious-personal-injury/). Trucking companies and their insurance companies usually offer little help to the victims of a truck accident. **Truck accident lawsuits are very expensive** for both the victim and the company involved and often the truck company will attempt to settle the case for pennies on the dollar. *Experienced truck accident lawyers* can help level the playing field so that you are able to reach a just and equal settlement.
 
 Most of the deaths and injuries involve the passengers of vehicles while the drivers of the tractor trailers usually escape trucking collisions with little or no personal injury.
 
@@ -71,11 +71,11 @@ Trucking injuries can be prevented if passenger vehicle drivers take special car
 * Exhaustion or fatigue on the part of the driver
 * Excessive speed and failure to follow rules of the road
 * Tire failure or separation
-* [Driving under influence of drugs or alcohol](https://www.austinaccidentlawyer.com/practice-areas/drunk-driving-accident-lawyer/)
+* [Driving under influence of drugs or alcohol](/practice-areas/drunk-driving-accident-lawyer/)
 * Unsecured cargo or freight shifting in the payload section
 * Unsafe driving practices
 
-There are many reasons why 18-wheeler accidents are so catastrophic. The pressure for speed and efficiency by the trucking companies and the [deregulation of the industry](https://www.austinaccidentlawyer.com/blog/safety/truck-safety-rules-weakened/) are both major factors – 18-wheeler drivers are typically required to work long hours with little or no sleep. Large trucks consistently break the speed limit in order to deliver goods quickly – adding fuel to an already dangerous fire. The sheer size of an 18-wheeler makes for a massive impact and hinders the ability of the truck to make sudden stops. The results are too often fatal.
+There are many reasons why 18-wheeler accidents are so catastrophic. The pressure for speed and efficiency by the trucking companies and the [deregulation of the industry](/blog/truck-safety-rules-weakened/) are both major factors – 18-wheeler drivers are typically required to work long hours with little or no sleep. Large trucks consistently break the speed limit in order to deliver goods quickly – adding fuel to an already dangerous fire. The sheer size of an 18-wheeler makes for a massive impact and hinders the ability of the truck to make sudden stops. The results are too often fatal.
 
 ## Big Rig Trucking Accidents Lawyers
 
@@ -83,15 +83,13 @@ There are many reasons why 18-wheeler accidents are so catastrophic. The pressur
 
 ![](/images/speeding.jpg)
 
-
-
 <!--StartFragment-->
 
-Alarmingly, big rig accidents have increased each year as unsafe driving, over-sized loads and various other treacherous practices put the public and the truck operators in danger. Because of the commercial greed and pressure from trucking companies to deliver goods as quickly as possible, as well as the deregulation of the trucking industry, these type of accidents account for one of every eight traffic fatalities. This intense sense of urgency proves to be a deadly one – federal crash statistics have determined that **[20% of big rig accidents are due to excessive speed](https://www.austinaccidentlawyer.com/blog/safety/dangers-speeding/)**.
+Alarmingly, big rig accidents have increased each year as unsafe driving, over-sized loads and various other treacherous practices put the public and the truck operators in danger. Because of the commercial greed and pressure from trucking companies to deliver goods as quickly as possible, as well as the deregulation of the trucking industry, these type of accidents account for one of every eight traffic fatalities. This intense sense of urgency proves to be a deadly one – federal crash statistics have determined that [**20% of big rig accidents are due to excessive speed**.](/blog/dangers-speeding/)
 
 Big rig accidents are especially dangerous for vehicles nearby. Due to the large size of trucks, a trucking accident can greatly endanger the lives of other smaller vehicles unnecessarily when truck operators fail to consider proper trucking accident prevention. In fact, most of the deaths and injuries involve the passengers of vehicles; truck drivers usually escape trucking accidents with little or no personal injury.
 
-There are unique laws and regulations that are designed specifically to protect motorists from the negligent actions of truck drivers and trucking companies, but fault must be aggressively proven. It’s extremely important to have an experienced and knowledgeable attorney who can meticulously scrutinize all of the records and logs leading up to the accident in order to [prove the driver’s negligence](https://www.austinaccidentlawyer.com/practice-areas/negligence/).
+There are unique laws and regulations that are designed specifically to protect motorists from the negligent actions of truck drivers and trucking companies, but fault must be aggressively proven. It’s extremely important to have an experienced and knowledgeable attorney who can meticulously scrutinize all of the records and logs leading up to the accident in order to [prove the driver’s negligence](/practice-areas/negligence/).
 
 ## Interstate Trucking Accidents
 
@@ -135,7 +133,7 @@ If you’ve been the victim of a trucking accident, don’t waste any time befor
 
 Tractor-trailer under ride accidents occur when a passenger vehicle, hits the back of a truck whose base is higher than the car, putting small family passenger cars in particular danger. These accidents happen because the height of the front of the car is too small to hit the bed of the truck, often falling 10 to 20 inches below. This height discrepancy puts the bed of the truck right at the head-chest level of the passengers within the car, and injuries in these accidents tend to be catastrophic, if not fatal.
 
-Driving negligence is dangerous – but [truck driving inattention](https://www.austinaccidentlawyer.com/practice-areas/distracted-driver/) can be especially deadly. There’s no excuse for the unnecessary death of thousands of innocent people and you shouldn’t be held financially accountable for someone else’s dangerous behavior.
+Driving negligence is dangerous – but [truck driving inattention](/practice-areas/distracted-driver/) can be especially deadly. There’s no excuse for the unnecessary death of thousands of innocent people and you shouldn’t be held financially accountable for someone else’s dangerous behavior.
 
 ## Impaired Truck Driver Accidents
 
@@ -145,7 +143,7 @@ Driving negligence is dangerous – but [truck driving inattention](https://www.
 
 <!--StartFragment-->
 
-Each year thousands of motorists and big rig drivers are killed or maimed by the negligent operation of trucks. One of the most common and deplorable characteristics of these fatal accidents is the impairment of the driver. In 1999, the National Highway Traffic Safety Administration estimated that 30 percent of all traffic deaths occurred in accidents in which at least one driver or non-occupant has a BAC of .10 or higher and at least some [alcohol was present in 38% of all fatal crashes](https://www.austinaccidentlawyer.com/practice-areas/drunk-driving-accident-lawyer/) – an especially sobering statistic in relation to trucking accidents.
+Each year thousands of motorists and big rig drivers are killed or maimed by the negligent operation of trucks. One of the most common and deplorable characteristics of these fatal accidents is the impairment of the driver. In 1999, the National Highway Traffic Safety Administration estimated that 30 percent of all traffic deaths occurred in accidents in which at least one driver or non-occupant has a BAC of .10 or higher and at least some [alcohol was present in 38% of all fatal crashes](/practice-areas/drunk-driving-accident-lawyer/) – an especially sobering statistic in relation to trucking accidents.
 
 Unfortunately, alcohol is not the only deadly substance that leads to these kinds of accidents. A study by the Insurance Institute for Traffic Safety (IITS) of interstate tractor-trailer drivers found that 15% of all drivers had marijuana, 12% had non-prescription stimulants, 5% had prescription stimulants, 2% had cocaine, and less than 1% had alcohol in their systems. Due to the intense pressure for time efficiency, a National Transportation Safety Board investigation of fatal truck accidents found that stimulants were the most frequently unidentified (15%) drug class among fatally injured truck drivers.
 

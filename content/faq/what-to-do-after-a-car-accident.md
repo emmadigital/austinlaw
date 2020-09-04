@@ -1,5 +1,5 @@
 ---
-template: FAQPage
+template: FaqPage
 title: What to do After a Car Accident
 status: Published
 date: 2017-02-22

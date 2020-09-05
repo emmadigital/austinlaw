@@ -1,7 +1,7 @@
 # See https://github.com/netlify/netlify-cms/blob/master/example/config.yml
-  backend:
-    name: git-gateway
-    branch: master # Branch to update (optional; defaults to master)
+backend:
+  name: git-gateway
+  branch: master # Branch to update (optional; defaults to master)
 
 # display_url: https://gatsbro.netlify.com # This url will display in the top-right of the CMS
 publish_mode: editorial_workflow
@@ -130,7 +130,6 @@ collections: # A list of collections the CMS should be able to edit
                   widget: boolean,
                   required: false,
                 }
-
       - file: 'content/pages/meet-us.md'
         label: 'Meet Us'
         name: 'meetus-page'
@@ -226,7 +225,6 @@ collections: # A list of collections the CMS should be able to edit
                   widget: boolean,
                   required: false,
                 }
-
       - file: 'content/pages/no-fees-if-no-recovery.md'
         label: 'No fees if no recovery'
         name: 'no-fees-if-no-recovery-page'
@@ -264,8 +262,7 @@ collections: # A list of collections the CMS should be able to edit
                   name: noindex,
                   widget: boolean,
                   required: false,
-                }          
-
+                }                
       - file: 'content/pages/lost-wages-due-to-an-injury.md'
         label: 'Lost Wages Due to An Injury'
         name: 'lost-wages-due-to-an-injury-page'
@@ -303,8 +300,7 @@ collections: # A list of collections the CMS should be able to edit
                   name: noindex,
                   widget: boolean,
                   required: false,
-                }       
-
+                }                
       - file: 'content/pages/pain-and-suffering.md'
         label: 'Pain and Suffering'
         name: 'pain-and-suffering-page'
@@ -343,7 +339,6 @@ collections: # A list of collections the CMS should be able to edit
                   widget: boolean,
                   required: false,
                 }                
-
       - file: 'content/pages/privacy-policy.md'
         label: 'Privacy Policy'
         name: 'privacy-policy-page'
@@ -382,7 +377,6 @@ collections: # A list of collections the CMS should be able to edit
                   widget: boolean,
                   required: false,
                 }                
-
       - file: 'content/pages/terms-of-use.md'
         label: 'Terms of Use'
         name: 'terms-of-use-page'
@@ -421,7 +415,6 @@ collections: # A list of collections the CMS should be able to edit
                   widget: boolean,
                   required: false,
                 }                
-
       - file: 'content/pages/should-i-talk-to-the-insurance-adjuster-after-an-accident.md'
         label: 'Should I talk to the insurance adjuster after an accident'
         name: 'should-i-talk-to-the-insurance-adjuster-after-an-accident-page'
@@ -459,8 +452,7 @@ collections: # A list of collections the CMS should be able to edit
                   name: noindex,
                   widget: boolean,
                   required: false,
-                }  
-
+                }                                
       - file: 'content/pages/should-i-sign-the-confidential-medical-records-release.md'
         label: 'Should I Sign the Confidential Medical Records Release'
         name: 'should-i-sign-the-confidential-medical-records-release-page'
@@ -499,7 +491,6 @@ collections: # A list of collections the CMS should be able to edit
                   widget: boolean,
                   required: false,
                 }   
-
       - file: 'content/pages/contact-attorney-car-accident.md'
         label: 'Should I Contact an Attorney if I am in a Car Accident'
         name: 'contact-attorney-car-accident-page'
@@ -538,7 +529,6 @@ collections: # A list of collections the CMS should be able to edit
                   widget: boolean,
                   required: false,
                 }     
-
       - file: 'content/pages/what-is-my-case-worth.md'
         label: 'What is My Case Worth'
         name: 'what-is-my-case-worth-page'
@@ -576,8 +566,7 @@ collections: # A list of collections the CMS should be able to edit
                   name: noindex,
                   widget: boolean,
                   required: false,
-                }                                                         
-
+                }                                                                
       - file: 'content/pages/submit-articles.md'
         label: 'Submit Articles'
         name: 'submit-articles-page'
@@ -615,8 +604,7 @@ collections: # A list of collections the CMS should be able to edit
                   name: noindex,
                   widget: boolean,
                   required: false,
-                }                                             
-
+                }                                                                
       - file: 'content/pages/can-i-fire-my-lawyer.md'
         label: 'Can I Fire My Lawyer'
         name: 'can-i-fire-my-lawyer-page'
@@ -655,7 +643,6 @@ collections: # A list of collections the CMS should be able to edit
                   widget: boolean,
                   required: false,
                 } 
-
       - file: 'content/pages/car-accident-app.md'
         label: 'Car Accident App'
         name: 'car-accident-app-page'
@@ -694,7 +681,6 @@ collections: # A list of collections the CMS should be able to edit
                   widget: boolean,
                   required: false,
                 } 
-
       - file: 'content/pages/community.md'
         label: 'Community'
         name: 'community-page'
@@ -733,7 +719,6 @@ collections: # A list of collections the CMS should be able to edit
                   widget: boolean,
                   required: false,
                 } 
-
       - file: 'content/pages/do-i-need-an-attorney-to-settle-my-injury-case.md'
         label: 'Do I Need an Attorney to Settle My Injury Case'
         name: 'do-i-need-an-attorney-to-settle-my-injury-case-page'
@@ -771,8 +756,7 @@ collections: # A list of collections the CMS should be able to edit
                   name: noindex,
                   widget: boolean,
                   required: false,
-                }
-
+                } 
       - file: 'content/pages/free-pharmacy-discount-card.md'
         label: 'Free Pharmacy Discount Card'
         name: 'free-pharmacy-discount-card-page'
@@ -811,7 +795,6 @@ collections: # A list of collections the CMS should be able to edit
                   widget: boolean,
                   required: false,
                 } 
-
       - file: 'content/pages/helmet-donations.md'
         label: 'Helmet Donations'
         name: 'helmet-donations-page'
@@ -849,8 +832,7 @@ collections: # A list of collections the CMS should be able to edit
                   name: noindex,
                   widget: boolean,
                   required: false,
-                }
-
+                } 
       - file: 'content/pages/lawyer-determine-liability-accident-case.md'
         label: 'Lawyer Determine Liability In Your Accident Case'
         name: 'lawyer-determine-liability-accident-case-page'
@@ -889,7 +871,6 @@ collections: # A list of collections the CMS should be able to edit
                   widget: boolean,
                   required: false,
                 } 
-
       - file: 'content/pages/large-personal-injury-firms-may-bad-case.md'
         label: 'Large Personal Injury Firms May Be Bad for Your Case'
         name: 'large-personal-injury-firms-may-bad-case-page'
@@ -927,8 +908,7 @@ collections: # A list of collections the CMS should be able to edit
                   name: noindex,
                   widget: boolean,
                   required: false,
-                }
-                
+                } 
       - file: 'content/pages/about.md'
         label: 'About'
         name: 'about-page'
@@ -967,7 +947,6 @@ collections: # A list of collections the CMS should be able to edit
                   widget: boolean,
                   required: false,
                 } 
-
       - file: 'content/pages/dolor-y-sufrimiento.md'
         label: 'Dolor y Sufrimiento'
         name: 'dolor-y-sufrimiento-page'
@@ -1006,7 +985,6 @@ collections: # A list of collections the CMS should be able to edit
                   widget: boolean,
                   required: false,
                 } 
-
       - file: 'content/pages/informe-gratis-de-accidente-en-texas-revisado-en-2017.md'
         label: 'Informe Gratis de Accidente en Texas (Revisado en 2017)'
         name: 'informe-gratis-de-accidente-en-texas-revisado-en-2017-page'
@@ -1045,7 +1023,6 @@ collections: # A list of collections the CMS should be able to edit
                   widget: boolean,
                   required: false,
                 } 
-
       - file: 'content/pages/las-grandes-firmas-de-heridas-personales-pueden-ser-malas-para-su-caso.md'
         label: 'Las Grandes Firmas de Heridas Personales Pueden Ser Malas para Su Caso'
         name: 'las-grandes-firmas-de-heridas-personales-pueden-ser-malas-para-su-caso-page'
@@ -1083,8 +1060,7 @@ collections: # A list of collections the CMS should be able to edit
                   name: noindex,
                   widget: boolean,
                   required: false,
-                }
-
+                } 
       - file: 'content/pages/como-determina-su-abogado-la-responsabilidad-en-su-caso-de-accidente.md'
         label: 'Como Determina su Abogado la Responsabilidad en su Caso de Accidente'
         name: 'como-determina-su-abogado-la-responsabilidad-en-su-caso-de-accidente-page'
@@ -1123,9 +1099,8 @@ collections: # A list of collections the CMS should be able to edit
                   widget: boolean,
                   required: false,
                 }
-
       - file: 'content/pages/deberia-contactar-a-un-abogado-si-tengo-un-accidente-de-automovil.md'
-        label: 'Deberi­a Contactar a un Abogado si Tengo un Accidente de Automvil'
+        label: 'Deberia Contactar a un Abogado si Tengo un Accidente de Automvil'
         name: 'deberia-contactar-a-un-abogado-si-tengo-un-accidente-de-automovil-page'
         fields:
           - {
@@ -1161,8 +1136,7 @@ collections: # A list of collections the CMS should be able to edit
                   name: noindex,
                   widget: boolean,
                   required: false,
-                }        
-
+                }                
       - file: 'content/pages/deberia-firmar-el-acuerdo-de-liberacion-de-registros-medicos-confidenciales.md'
         label: 'Deberia Firmar el Acuerdo de Liberacion de Registros Medicos Confidenciales'
         name: 'deberia-firmar-el-acuerdo-de-liberacion-de-registros-medicos-confidenciales-page'
@@ -1200,10 +1174,9 @@ collections: # A list of collections the CMS should be able to edit
                   name: noindex,
                   widget: boolean,
                   required: false,
-                }
-
+                }                                
       - file: 'content/pages/deberia-hablar-con-el-ajustador-de-la-compania-de-seguros-despues-de-un-accidente.md'
-        label: 'Deberi­a hablar con el ajustador de la compania de seguros despues de un accidente'
+        label: 'Deberia hablar con el ajustador de la compania de seguros despues de un accidente'
         name: 'deberia-hablar-con-el-ajustador-de-la-compania-de-seguros-despues-de-un-accidente-page'
         fields:
           - {
@@ -1239,8 +1212,7 @@ collections: # A list of collections the CMS should be able to edit
                   name: noindex,
                   widget: boolean,
                   required: false,
-                }                               
-
+                }                                
       - file: 'content/pages/necesito-un-abogado-para-llegar-a-un-acuerdo-en-mi-caso-de-lesiones.md'
         label: 'Necesito un Abogado para LLegar a un Acuerdo en mi Caso de Lesiones'
         name: 'necesito-un-abogado-para-llegar-a-un-acuerdo-en-mi-caso-de-lesiones-page'
@@ -1279,7 +1251,6 @@ collections: # A list of collections the CMS should be able to edit
                   widget: boolean,
                   required: false,
                 }                                
-
       - file: 'content/pages/no-cargos-si-no-hay-compensacion.md'
         label: 'No Hay Cargos si No Hay Compensacion'
         name: 'no-cargos-si-no-hay-compensacion-page'
@@ -1318,7 +1289,6 @@ collections: # A list of collections the CMS should be able to edit
                   widget: boolean,
                   required: false,
                 }  
-
       - file: 'content/pages/nunca-contrate-a-un-abogado-que-le-contacte-a-usted-primero.md'
         label: 'Nunca Contrate a un Abogado que le Contacte a Usted Primero'
         name: 'nunca-contrate-a-un-abogado-que-le-contacte-a-usted-primero-page'
@@ -1356,8 +1326,7 @@ collections: # A list of collections the CMS should be able to edit
                   name: noindex,
                   widget: boolean,
                   required: false,
-                }
-
+                }  
       - file: 'content/pages/never-hire-a-lawyer-that-contacts-you-first.md'
         label: 'Never Hire a Lawyer that Contacts You First'
         name: 'never-hire-a-lawyer-that-contacts-you-first-page'
@@ -1562,7 +1531,6 @@ collections: # A list of collections the CMS should be able to edit
                       widget: boolean,
                       required: false,
                     }
-
       - file: 'content/pages/testimonials.md'
         label: 'Testimonials Page'
         name: 'testimonials-page'
@@ -1601,7 +1569,6 @@ collections: # A list of collections the CMS should be able to edit
                       widget: boolean,
                       required: false,
                     }
-
       - file: 'content/pages/faq.md'
         label: 'FAQ Page'
         name: 'faq-page'
@@ -1640,7 +1607,6 @@ collections: # A list of collections the CMS should be able to edit
                       widget: boolean,
                       required: false,
                     }
-
       - file: 'content/pages/resources.md'
         label: 'Resources Page'
         name: 'resources-page'
@@ -1679,7 +1645,6 @@ collections: # A list of collections the CMS should be able to edit
                       widget: boolean,
                       required: false,
                     }
-
   - name: practiceAreas
     label: Practice Areas
     editor:
@@ -1853,7 +1818,6 @@ collections: # A list of collections the CMS should be able to edit
               required: false,
             }
           - { label: Noindex, name: noindex, widget: boolean, required: false }
-
   - name: meetus
     label: Meet Us
     editor:
@@ -1939,8 +1903,7 @@ collections: # A list of collections the CMS should be able to edit
               widget: string,
               required: false,
             }
-          - { label: Noindex, name: noindex, widget: boolean, required: false }        
-
+          - { label: Noindex, name: noindex, widget: boolean, required: false }              
   - name: resources
     label: Resources
     editor:
@@ -2026,10 +1989,9 @@ collections: # A list of collections the CMS should be able to edit
               widget: string,
               required: false,
             }
-          - { label: Noindex, name: noindex, widget: boolean, required: false }              
-
-   - name: faq
-    label: FAQs
+          - { label: Noindex, name: noindex, widget: boolean, required: false }    
+  - name: faq
+    label: Faq
     editor:
       preview: true
     folder: content/faq
@@ -2076,8 +2038,7 @@ collections: # A list of collections the CMS should be able to edit
               widget: string,
               required: false,
             }
-          - { label: Noindex, name: noindex, widget: boolean, required: false }
-
+          - { label: Noindex, name: noindex, widget: boolean, required: false }          
   - name: faqCategory
     label: FAQs Category
     editor:
@@ -2113,7 +2074,93 @@ collections: # A list of collections the CMS should be able to edit
               widget: string,
               required: false,
             }
-          - { label: Noindex, name: noindex, widget: boolean, required: false }      
+          - { label: Noindex, name: noindex, widget: boolean, required: false }          
+  - name: resources
+    label: Resources
+    editor:
+      preview: true
+    folder: content/resources
+    slug: '{{slug}}'
+    create: true # Allow users to create new documents in this collection
+    fields: # The fields each document in this collection have
+      - { label: Template, name: template, widget: hidden, default: ResourcesPage }
+      - { label: Title, name: title, widget: string }
+      - label: 'Status'
+        name: 'status'
+        widget: 'select'
+        options: ['Published', 'Featured', 'Draft']
+        default: 'Published'
+      - { label: Date / Order, name: date, widget: date, format: 'YYYY-MM-DD' }
+      - { label: Featured Images, name: featuredImage, widget: image }
+      - { label: Excerpt, name: excerpt, widget: text }
+      - { label: Content, name: body, widget: markdown }
+      - label: 'Resources Categories'
+        name: 'resourcescategories'
+        widget: 'list'
+        required: false
+        fields:
+          - label: 'Category'
+            name: 'category'
+            widget: 'relation'
+            collection: 'resourcesCategory'
+            searchFields: ['title']
+            valueField: 'title'
+      - label: 'Meta'
+        required: false
+        name: 'meta'
+        widget: 'object'
+        fields:
+          - { label: Title, name: title, widget: string, required: false }
+          - {
+              label: Description,
+              name: description,
+              widget: text,
+              required: false,
+            }
+          - {
+              label: Canonical Link,
+              name: canonicalLink,
+              widget: string,
+              required: false,
+            }
+          - { label: Noindex, name: noindex, widget: boolean, required: false }
+
+  - name: resourcesCategory
+    label: Resources Category
+    editor:
+      preview: false
+    folder: content/resourcesCategory
+    slug: '{{slug}}'
+    create: true # Allow users to create new documents in this collection
+    fields: # The fields each document in this collection have
+      - { label: Template, name: template, widget: hidden, default: ResourcesIndex }
+      - { label: Title, name: title, widget: string }
+      - { label: Subtitle, name: subtitle, widget: string, required: false }
+      - {
+          label: Featured Image,
+          name: featuredImage,
+          widget: image,
+          required: false,
+        }
+      - label: 'Meta'
+        required: false
+        name: 'meta'
+        widget: 'object'
+        fields:
+          - { label: Title, name: title, widget: string, required: false }
+          - {
+              label: Description,
+              name: description,
+              widget: text,
+              required: false,
+            }
+          - {
+              label: Canonical Link,
+              name: canonicalLink,
+              widget: string,
+              required: false,
+            }
+          - { label: Noindex, name: noindex, widget: boolean, required: false }          
 
   - name: blog
     label: Blog

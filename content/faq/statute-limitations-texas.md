@@ -1,6 +1,6 @@
 ---
 template: FaqPage
-title: statute-limitations-texas
+title: Statute limitations texas
 status: Published
 date: 2014-02-03
 featuredImage: /images/faq.jpg

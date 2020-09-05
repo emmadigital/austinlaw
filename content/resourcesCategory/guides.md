@@ -1,6 +1,6 @@
 ---
-template: FaqIndex
-title: General
+template: ResourcesIndex
+title: Guides
 subtitle: ''
 featuredImage: /images/faq.jpg
 ---

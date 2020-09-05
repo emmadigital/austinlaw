@@ -2,23 +2,22 @@ import React from 'react'
 import { graphql } from 'gatsby'
 
 import PageHeader from '../components/PageHeader'
-import Content from '../components/Content'
-import Layout from '../components/Layout'
+import Content from '../components/Content.js'
+import Layout from '../components/Layout.js'
 
 // Export Template for use in CMS preview
-export const MeetUsPageTemplate = ({
+export const ResourcesPageTemplate = ({
   title,
-  subtitle,
+  excerpt,
   featuredImage,
-  body
+  body,
 }) => (
-  <main className="MeetUsPage">
+  <main>
     <PageHeader
       title={title}
-      subtitle={subtitle}
+      excerpt={excerpt}
       backgroundImage={featuredImage}
     />
-
     <section className="section">
       <div className="container">
         <Content source={body} />
@@ -27,25 +26,27 @@ export const MeetUsPageTemplate = ({
   </main>
 )
 
-const MeetUsPage = ({ data: { page } }) => (
+const ResourcesPage = ({ data: { page } }) => (
   <Layout
     meta={page.frontmatter.meta || false}
     title={page.frontmatter.title || false}
   >
-    <MeetUsPageTemplate {...page.frontmatter} body={page.html} />
+    <ResourcesPageTemplate {...page} {...page.frontmatter} body={page.html} />
   </Layout>
 )
-export default MeetUsPage
+
+export default ResourcesPage
 
 export const pageQuery = graphql`
-  query MeetUsPage($id: String!) {
+  query ResourcesPage($id: String!) {
     page: markdownRemark(id: { eq: $id }) {
       ...Meta
-      html
+        html
       frontmatter {
         title
-        subtitle
+        template
         featuredImage
+        excerpt
       }
     }
   }

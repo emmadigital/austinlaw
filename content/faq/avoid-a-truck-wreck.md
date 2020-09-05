@@ -17,7 +17,6 @@ meta:
 ---
 <!--StartFragment-->
 
-\
 How Do I Avoid a Truck Wreck?
 
 <!--EndFragment-->

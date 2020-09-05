@@ -63,7 +63,9 @@ export const HomePageTemplate = ({ title, subtitle, featuredImage, body, intro, 
 </div>
 
  </section>
-
+ <br />
+ <br />
+ <br />
     <section className="section">
     <div class="container">
     {cover.coversection.map((item, index) => (
@@ -75,7 +77,7 @@ export const HomePageTemplate = ({ title, subtitle, featuredImage, body, intro, 
         </div>    
         <div class="items-body">
          <p
-         style={{ background: `url('${item.image.childImageSharp.fluid.src}') no-repeat right 30px` }}
+         style={{ background: `url('${item.image.childImageSharp.fluid.src}') no-repeat bottom right` }}
          ><Content source={item.sectiontext} /> </p>
  
               

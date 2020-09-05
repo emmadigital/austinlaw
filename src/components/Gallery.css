@@ -81,3 +81,10 @@
     top: 50%;
   }
 }
+
+@media screen and (max-width: 768px) {
+  .Gallery--Item h1{
+    padding-bottom: 20px;
+    height: 150px!important;
+    }
+}

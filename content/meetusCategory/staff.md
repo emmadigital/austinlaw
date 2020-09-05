@@ -1,6 +1,6 @@
 ---
-template: FaqIndex
-title: General
+template: MeetUsIndex
+title: Staff
 subtitle: ''
 featuredImage: /images/faq.jpg
 ---

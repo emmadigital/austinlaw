@@ -3,7 +3,7 @@ template: ResourcesPage
 title: Guides
 status: Published
 date: 2011-03-29
-featuredImage: /images/faq.jpg
+featuredImage: /images/guide.jpg
 excerpt: Free Accident Report, Books, and Guides
 guides:
   items:

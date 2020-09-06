@@ -11,7 +11,7 @@ excerpt: >-
 
   If you are going in for jury selection, then this video will give you some insight into what’s going on behind the scenes.
 categories:
-  - category: Updates
+  - category: Videos
 meta:
   title: What Jurors Need to Know
   description: >-

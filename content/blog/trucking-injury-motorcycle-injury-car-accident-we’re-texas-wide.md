@@ -11,7 +11,7 @@ excerpt: >-
 
   https://youtube.com/watch?v=Ti47bO3wbyM
 categories:
-  - category: Updates
+  - category: Videos
 meta:
   title: Trucking Injury? Motorcycle Injury? Car Accident? We’re Texas WIDE.
   description: >-

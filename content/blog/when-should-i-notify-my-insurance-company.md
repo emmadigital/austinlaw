@@ -8,7 +8,7 @@ excerpt: Two common questions I answer in this video are “Do I need to notify 
   insurance company if I’m not at fault?” and “When should I notify my insurance
   company after an accident?”
 categories:
-  - category: Updates
+  - category: Videos
 meta:
   title: When Should I Notify My Insurance Company
   description: Two common questions I answer in this video are “Do I need to

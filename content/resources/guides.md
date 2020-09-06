@@ -50,7 +50,7 @@ guides:
 
         <!--EndFragment-->
       image: /images/31-tips-to-handling-your-own-personal-injury-settlement.jpg
-      link: /resources/31-tips-to-handling-your-own-personal-injury-settlement/
+      link: /images/31QuickTips.pdf
     - itemheading: How to Choose the Right Personal Injury Attorney
       text: >-
         <!--StartFragment-->
@@ -76,7 +76,7 @@ guides:
 
         <!--EndFragment-->
       image: /images/your-free-vehicle-accident-report-glove-box-companion.jpg
-      link: /resources/your-free vehicle-accident-report-glove-box-companion/
+      link: /images/Accident_Pamphlet.pdf
 meta:
   title: Guides
   description: Free Accident Report, Books, and Guides

@@ -6,7 +6,7 @@ date: 2011-06-20
 featuredImage: /images/animals.jpg
 excerpt: In this video, I discuss the vital things you must do after an accident.
 categories:
-  - category: Updates
+  - category: Videos
 meta:
   title: What to Do After an Accident
   description: In this video, I discuss the vital things you must do after an accident.

@@ -8,7 +8,7 @@ excerpt: Many people ask us what will happen with their health insurance and how
   that will affect their claim – this video discusses one aspect called
   subrogation.
 categories:
-  - category: Updates
+  - category: Videos
 meta:
   title: What is Subrogation?
   description: Many people ask us what will happen with their health insurance and

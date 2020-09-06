@@ -4,6 +4,9 @@ import { graphql } from 'gatsby'
 import PageHeader from '../components/PageHeader'
 import Content from '../components/Content.js'
 import Layout from '../components/Layout.js'
+import GuideGrid from '../components/GuideGrid'
+import '../components/Gallery.css'
+
 
 // Export Template for use in CMS preview
 export const ResourcesPageTemplate = ({
@@ -11,6 +14,7 @@ export const ResourcesPageTemplate = ({
   excerpt,
   featuredImage,
   body,
+  guides,
 }) => (
   <main>
     <PageHeader
@@ -21,6 +25,14 @@ export const ResourcesPageTemplate = ({
     <section className="section">
       <div className="container">
         <Content source={body} />
+      </div>
+    </section>
+    <section className="section">
+      <div className="container">
+    {guides === null ? (
+      <div></div>
+    ) : <GuideGrid gridItems={guides.items} /> 
+    }
       </div>
     </section>
   </main>
@@ -47,6 +59,20 @@ export const pageQuery = graphql`
         template
         featuredImage
         excerpt
+        guides {
+          items {
+            blurbsheading
+            link
+            text
+            image {
+              childImageSharp {
+                fluid {
+                  src
+                }
+              }
+            }
+          }
+        }
       }
     }
   }

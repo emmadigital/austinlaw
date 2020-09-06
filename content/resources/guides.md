@@ -7,7 +7,7 @@ featuredImage: /images/guide.jpg
 excerpt: Free Accident Report, Books, and Guides
 guides:
   items:
-    - itemheading: 7 Deadly Sins that Can Wreck Your Auto Accident Case in Texas
+    - blurbsheading: 7 Deadly Sins that Can Wreck Your Auto Accident Case in Texas
       text: >-
         <!--StartFragment-->
 
@@ -18,7 +18,7 @@ guides:
         <!--EndFragment-->
       link: /resources/free-texas-accident-report/
       image: /images/7-deadly-sins-that-can-wreck-your-auto-accident-case-in-texas.jpg
-    - itemheading: Questions You Shouls Ask the Insurance Adjuster
+    - blurbsheading: Questions You Shouls Ask the Insurance Adjuster
       text: >-
         <!--StartFragment-->
 
@@ -29,7 +29,7 @@ guides:
         <!--EndFragment-->
       image: /images/questions-you-should-ask-the-insurance-adjuster.jpg
       link: /faq/questions-you-should-ask-the-insurance-adjuster/
-    - itemheading: Everything Insurance Companies Know About Truth and Justice
+    - blurbsheading: Everything Insurance Companies Know About Truth and Justice
       text: >-
         <!--StartFragment-->
 
@@ -40,7 +40,7 @@ guides:
         <!--EndFragment-->
       image: /images/everything-iinsurance-companies-know-about-truth-and-justice.jpg
       link: /resources/everything-the-insurance-company-knows-about-truth-and-justice/
-    - itemheading: 31 Tips to Handling Your Own Personal Injury Settlement
+    - blurbsheading: 31 Tips to Handling Your Own Personal Injury Settlement
       text: >-
         <!--StartFragment-->
 
@@ -51,7 +51,7 @@ guides:
         <!--EndFragment-->
       image: /images/31-tips-to-handling-your-own-personal-injury-settlement.jpg
       link: /images/31QuickTips.pdf
-    - itemheading: How to Choose the Right Personal Injury Attorney
+    - blurbsheading: How to Choose the Right Personal Injury Attorney
       text: >-
         <!--StartFragment-->
 
@@ -64,7 +64,7 @@ guides:
         <!--EndFragment-->
       image: /images/how-to-choose-the-right-personal-injury-attorney.jpg
       link: /resources/how-to -choose-the-right-personal-injury-attorney/
-    - itemheading: Your Free Vehicle Accident Report Glove Box Companion
+    - blurbsheading: Your Free Vehicle Accident Report Glove Box Companion
       text: >-
         <!--StartFragment-->
 

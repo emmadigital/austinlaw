@@ -298,7 +298,7 @@ export class Navigation extends Component {
 
   
             <NavLink to="/testimonials/">Testimonials</NavLink>
-            <NavLink to="/contact/">Contact</NavLink>
+            <NavLink to="/contact-us/">Contact</NavLink>
           </div>
          
           <button

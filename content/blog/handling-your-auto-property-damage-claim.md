@@ -7,7 +7,7 @@ featuredImage: /images/animals.jpg
 excerpt: In this video, I’ll talk about what your rights and options are in
   Texas when dealing with the insurance company to repair or replace your car.
 categories:
-  - category: Updates
+  - category: Videos
 meta:
   title: Handling Your Auto Property Damage Claim
   description: In this video, I’ll talk about what your rights and options are in

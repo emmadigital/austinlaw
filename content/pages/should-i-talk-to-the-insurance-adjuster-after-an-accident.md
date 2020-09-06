@@ -3,6 +3,9 @@ title: Should I talk to the insurance adjuster after an accident?
 featuredImage: /images/animals.jpg
 meta:
   title: Should I talk to the insurance adjuster after an accident?
+  description: The insurance adjuster is calling to get you to make statements
+    (usually it is a recorded call) about the events leading up to and including
+    the accident.
 ---
 <!--StartFragment-->
 

@@ -63,7 +63,7 @@ guides:
 
         <!--EndFragment-->
       image: /images/how-to-choose-the-right-personal-injury-attorney.jpg
-      link: /resources/how-to -choose-the-right-personal-injury-attorney/
+      link: /resources/how-to-choose-the-right-personal-injury-attorney/
     - blurbsheading: Your Free Vehicle Accident Report Glove Box Companion
       text: >-
         <!--StartFragment-->

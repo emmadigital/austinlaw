@@ -2,7 +2,7 @@
 template: CaseResultsPage
 title: Trial Report 200k Verdict
 status: Published
-date: 2020-09-07
+date: 2019-11-06
 featuredImage: /images/case-results.jpg
 excerpt: "Our client, a 50 year old Indian American woman, slipped and fell on
   wet paint outside the Ulta Store at the Gateway shopping center near 183/360.

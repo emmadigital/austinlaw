@@ -11,7 +11,7 @@ excerpt: >-
 
   Play the video below to hear the answer.
 categories:
-  - category: Updates
+  - category: Videos
 meta:
   title: " How Long Does an Injury Claim Take?"
   description: >-

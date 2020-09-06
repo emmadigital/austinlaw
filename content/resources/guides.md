@@ -4,10 +4,10 @@ title: Guides
 status: Published
 date: 2011-03-29
 featuredImage: /images/faq.jpg
-excerpt: Guides page listing.
+excerpt: Free Accident Report, Books, and Guides
 meta:
   title: Guides
-  description: Guides Page Listing
+  description: Free Accident Report, Books, and Guides
 ---
 <!--StartFragment-->
 

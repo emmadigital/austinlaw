@@ -4,12 +4,13 @@
   justify-content: flex-start;
   flex-wrap: wrap;
   position: relative;
+  
 }
 
 .PostCategoriesNav > * + * {
   margin-left: -1rem;
   padding: 1.7rem;
-  
+  line-height: 1.8rem!important;
 }
 
 .PostCategoriesNav input[type='text'] {

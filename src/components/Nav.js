@@ -50,9 +50,218 @@ export class Navigation extends Component {
           </Link>
           <div className="Nav--Links">
             <NavLink to="/">Home</NavLink>
-            <NavLink to="/meet-us/">Meet Us</NavLink>
-            <NavLink to="/resources/">Resources</NavLink>
-            <NavLink to="/practice-areas/">Practice Areas</NavLink>
+
+            <div
+              className={`Nav--Group ${
+                this.state.activeSubNav === 'meet-us' ? 'active' : ''
+              }`}
+            >
+              <span
+                className={`NavLink Nav--GroupParent ${
+                  this.props.location.pathname.includes('meetUs') ||
+                  this.props.location.pathname.includes('meetUs') ||
+                  this.props.location.pathname.includes('categories')
+                    ? 'active'
+                    : ''
+                }`}
+                onClick={() => this.toggleSubNav('meet-us')}
+              >
+                Meet Us
+                <div className="Nav--GroupLinks">
+                    <NavLink
+                      to="/meet-us/andrew-traub/"
+                      className="Nav--GroupLink"
+                    >
+                      Andrew Traub
+                    </NavLink>
+                    <NavLink
+                      to="/meet-us/why-us/"
+                      className="Nav--GroupLink"
+                    >
+                      Why Us
+                    </NavLink>
+                    <NavLink
+                      to="/meet-us/what-is-my-case-worth/"
+                      className="Nav--GroupLink"
+                    >
+                     Tell Us About Your Case
+                    </NavLink>
+                    <NavLink
+                      to="/meet-us/free-consultation/"
+                      className="Nav--GroupLink"
+                    >
+                      Free Consultation
+                    </NavLink>
+  
+                </div>
+              </span>
+            </div>
+
+            <div
+              className={`Nav--Group ${
+                this.state.activeSubNav === 'resources' ? 'active' : ''
+              }`}
+            >
+              <span
+                className={`NavLink Nav--GroupParent ${
+                  this.props.location.pathname.includes('resources') ||
+                  this.props.location.pathname.includes('resources') ||
+                  this.props.location.pathname.includes('categories')
+                    ? 'active'
+                    : ''
+                }`}
+                onClick={() => this.toggleSubNav('resources')}
+              >
+                Resources
+                <div className="Nav--GroupLinks">
+                    <NavLink
+                      to="/resources/guides/"
+                      className="Nav--GroupLink"
+                    >
+                      Guides
+                    </NavLink>
+                    <NavLink
+                      to="/resources/car-accident-app/"
+                      className="Nav--GroupLink"
+                    >
+                     Car Accident App
+                    </NavLink>
+                    <NavLink
+                      to="/resources/videos/"
+                      className="Nav--GroupLink"
+                    >
+                      Videos
+                    </NavLink>
+                    <NavLink
+                      to="/faq/"
+                      className="Nav--GroupLink"
+                    >
+                      Questions Answered
+                    </NavLink>
+                </div>
+              </span>
+            </div>
+            <div
+              className={`Nav--Group ${
+                this.state.activeSubNav === 'practiceareas' ? 'active' : ''
+              }`}
+            >
+              <span
+                className={`NavLink Nav--GroupParent ${
+                  this.props.location.pathname.includes('practiceareas') ||
+                  this.props.location.pathname.includes('practiceareas') ||
+                  this.props.location.pathname.includes('categories')
+                    ? 'active'
+                    : ''
+                }`}
+                onClick={() => this.toggleSubNav('practiceareas')}
+              >
+                Negligence
+                <div className="Nav--GroupLinks">
+                    <NavLink
+                      to="/practice-areas/car-accident-lawyers/"
+                      className="Nav--GroupLink"
+                    >
+                      Car Accidents
+                    </NavLink>
+                    <NavLink
+                      to="/practice-areas/truck-accident-lawyer/"
+                      className="Nav--GroupLink"
+                    >
+                     Truck Accidents
+                    </NavLink>
+                    <NavLink
+                      to="/practice-areas/motorcycle-accident-attorney/"
+                      className="Nav--GroupLink"
+                    >
+                    Motorcycle Accidents
+                    </NavLink>
+                    <NavLink
+                      to="/practice-areas/drunk-driving-accident-lawyer/"
+                      className="Nav--GroupLink"
+                    >
+                   Drunk Driving Accidents
+                    </NavLink>
+                    <NavLink
+                      to="/practice-areas/distracted-driver/"
+                      className="Nav--GroupLink"
+                    >
+                   Distracted Driving Accidents
+                    </NavLink>
+                    <NavLink
+                      to="/practice-areas/running-red-light-accident/"
+                      className="Nav--GroupLink"
+                    >
+                   Red Light Accidents
+                    </NavLink>
+                    <NavLink
+                      to="/practice-areas/pedestrian-accident-lawyers/"
+                      className="Nav--GroupLink"
+                    >
+                   Pedestrian Accidents
+                    </NavLink>
+                    <NavLink
+                      to="/practice-areas/slip-and-fall-injury-lawyers/"
+                      className="Nav--GroupLink"
+                    >
+                   Slip and Fall Accidents
+                    </NavLink> 
+                    <NavLink
+                      to="/practice-areas/dog-bite-injury-lawyer/"
+                      className="Nav--GroupLink"
+                    >
+                   Dog Bites
+                    </NavLink>
+                    <NavLink
+                      to="/practice-areas/product-defect-lawyer/"
+                      className="Nav--GroupLink"
+                    >
+                   Product Defects
+                    </NavLink>    
+                    <NavLink
+                      to="/practice-areas/uninsured-and-underinsured-claims/"
+                      className="Nav--GroupLink"
+                    >
+                   Underinsured Claims
+                    </NavLink>  
+                </div>
+              </span>
+            </div>
+
+            <div
+              className={`Nav--Group ${
+                this.state.activeSubNav === 'practice-areas' ? 'active' : ''
+              }`}
+            >
+              <span
+                className={`NavLink Nav--GroupParent ${
+                  this.props.location.pathname.includes('practice-areas') ||
+                  this.props.location.pathname.includes('practice-areas') ||
+                  this.props.location.pathname.includes('categories')
+                    ? 'active'
+                    : ''
+                }`}
+                onClick={() => this.toggleSubNav('practice-areas')}
+              >
+                Injuries
+                <div className="Nav--GroupLinks">
+                    <NavLink
+                      to="/practice-category/serious-personal-injury/"
+                      className="Nav--GroupLink"
+                    >
+                     Serious Personal Injury
+                    </NavLink>
+                    <NavLink
+                      to="/practice-areas/injured-on-the-job/"
+                      className="Nav--GroupLink"
+                    >
+                     Injured on the Job
+                    </NavLink>
+
+  
+                </div>
+              </span>
+            </div>
  
             <div
               className={`Nav--Group ${
@@ -87,10 +296,9 @@ export class Navigation extends Component {
               </span>
             </div>
 
+  
             <NavLink to="/testimonials/">Testimonials</NavLink>
-            <NavLink to="/faq/">Faqs</NavLink>
             <NavLink to="/contact/">Contact</NavLink>
-
           </div>
          
           <button

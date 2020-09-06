@@ -10,7 +10,8 @@
 .Nav--Container {
   display: flex;
   align-items: center;
-  height: 6rem;  
+  height: 6rem;
+  
 }
 
 .Nav--Links {
@@ -42,7 +43,7 @@
   text-decoration: none;
   border-bottom: 2px solid;
   border-bottom-color: transparent;
-  
+  line-height: 4rem;
 }
 .NavLink:focus,
 .NavLink.active{
@@ -79,14 +80,14 @@ background-color: rgb(247, 245, 245);
 .Nav--GroupLinks {
   position: absolute;
   top: 100%;
-  left: -200%;
+  left: -100%;
   width: auto;
   background: white;
   /* opacity: 0; */
   max-height: 0;
   overflow: hidden;
   transition: 0.3s ease all;
-  column-count: 3;
+  column-count: 2;
 }
 
 .Nav--Group.active .Nav--GroupLinks {
@@ -112,12 +113,13 @@ border-radius: 5px;
 .Nav--GroupLink {
   display: block;
   position: relative;
-  width: 15rem;
+  width: 22rem;
 }
 
 @media (max-width: 600px) {
   .Nav--Container {
     display: flex;
+    text-align: center;
   }
 
   .Nav--MenuButton {
@@ -132,15 +134,15 @@ border-radius: 5px;
   .Nav--Links {
     display: none;
     align-items: center;
-    flex-direction: column;
     position: fixed;
     justify-content: center;
-    top: 0;
+    top: 6rem;
     left: 0;
     right: 0;
     bottom: 0;
     background: white;
     animation: Nav--Links 0.2s ease;
+    padding-top: 5rem;
   }
 
   .Nav--Links > * + * {
@@ -150,7 +152,7 @@ border-radius: 5px;
   }
 
   .Nav-active .Nav--Links {
-    display: flex;
+    display: block;
   }
 
   .Nav-active .NavLink {
@@ -161,6 +163,7 @@ border-radius: 5px;
   .Nav .NavLink {
     font-size: 2.5rem;
     font-weight: 300;
+    line-height: 2.5rem!important;
   }
 
   .Nav .NavLink:nth-of-type(2) {
@@ -194,27 +197,29 @@ border-radius: 5px;
   }
 
   .Nav--GroupLinks .NavLink {
-    font-size: 1.5rem;
+    font-size: 1.8rem;
     width: auto;
+    padding-top: 1rem;
+    color: var(--primary);
   }
   .Nav--GroupLinks {
   
     top: 10%;
     left: 0%;
     width: auto;
-    background: white;
+    background: transparent;
     /* opacity: 0; */
     max-height: 0;
     overflow: hidden;
     transition: 0.3s ease all;
-    column-count: 3;
+    column-count: 1;
   }
 
   .Nav--Group.active .Nav--GroupLinks {
     max-height: 100vh;
     opacity: 1;
     transition: 0.6s ease all;
-    box-shadow: 0;
+    box-shadow: none!important;
     border-radius: 0px;
   }
 }
@@ -233,109 +238,5 @@ border-radius: 5px;
 @keyframes Nav--Links {
   from {
     opacity: 0;
-  }
-}
-
-@media only screen and (max-width: 768px) {
-  .Nav--Container {
-    display: flex;
-  }
-
-  .Nav--MenuButton {
-    display: block !important;
-    margin-left: auto;
-    z-index: 1;
-  }
-  .Nav .Logo {
-    z-index: 1;
-  }
-
-  .Nav--Links {
-    display: none;
-    align-items: center;
-    flex-direction: column;
-    position: fixed;
-    justify-content: center;
-    top: 0;
-    left: 0;
-    right: 0;
-    bottom: 0;
-    background: white;
-    animation: Nav--Links 0.2s ease;
-  }
-
-  .Nav--Links > * + * {
-    margin-left: 0;
-    margin-top: 1rem;
-    text-align: center;
-  }
-
-  .Nav-active .Nav--Links {
-    display: flex;
-  }
-
-  .Nav-active .NavLink {
-    animation: Nav--Link 0.3s ease-out;
-    animation-fill-mode: both;
-  }
-
-  .Nav .NavLink {
-    font-size: 2.5rem;
-    font-weight: 300;
-  }
-
-  .Nav .NavLink:nth-of-type(2) {
-    animation-delay: 0.1s;
-  }
-  .Nav .NavLink:nth-of-type(3) {
-    animation-delay: 0.2s;
-  }
-  .Nav .NavLink:nth-of-type(4) {
-    animation-delay: 0.3s;
-  }
-  .Nav .NavLink:nth-of-type(5) {
-    animation-delay: 0.4s;
-  }
-  .Nav .NavLink:nth-of-type(6) {
-    animation-delay: 0.5s;
-  }
-  .Nav .NavLink:nth-of-type(7) {
-    animation-delay: 0.6s;
-  }
-  .Nav .NavLink:nth-of-type(8) {
-    animation-delay: 0.7s;
-  }
-  .Nav .NavLink:nth-of-type(7) {
-    animation-delay: 0.6s;
-  }
-
-  .Nav--GroupLinks {
-    position: relative;
-    text-align: center;
-  }
-
-  .Nav--GroupLinks .NavLink {
-    font-size: 1.5rem;
-    width: auto;
-  }
-  .Nav--GroupLinks {
-  
-    top: 10%;
-    left: 0%;
-    width: auto;
-    background: white;
-    /* opacity: 0; */
-    max-height: 0;
-    overflow: hidden;
-    transition: 0.3s ease all;
-    column-count: 3;
-  }
-
-  .Nav--Group.active .Nav--GroupLinks {
-    max-height: 100vh;
-    opacity: 1;
-    transition: 0.6s ease all;
-    box-shadow: 0;
-    border-radius: 0px;
   }
 }

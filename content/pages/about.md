@@ -13,7 +13,7 @@ There are many, many personal injury lawyers and attorneys to choose from in Aus
 
 ### Lawyers, not Paralegals
 
-When you hire us, you get a lawyer who you can speak to, not a paralegal. [Want to speak to the attorney handling your case?](https://www.austinaccidentlawyer.com/meet-us/index.html) No problem, when weâ€™re not in court weâ€™re in the office. Â Lawyers work on your cases, not paralegals. Attorneys order your medical records, speak to witnesses, speak to your treating physicians, speak to the insurance companies. At all steps of the process you have a lawyer working on your file. Â Not many firms can say that because most use people without any formal legal training to handle their clientsâ€™ claims.
+When you hire us, you get a lawyer who you can speak to, not a paralegal. [Want to speak to the attorney handling your case?](/meet-us/) No problem, when weâ€™re not in court weâ€™re in the office. Â Lawyers work on your cases, not paralegals. Attorneys order your medical records, speak to witnesses, speak to your treating physicians, speak to the insurance companies. At all steps of the process you have a lawyer working on your file. Â Not many firms can say that because most use people without any formal legal training to handle their clientsâ€™ claims.
 
 ### Experience
 

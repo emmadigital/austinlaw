@@ -1,10 +1,15 @@
 ---
 title: Pain and Suffering
 featuredImage: /images/animals.jpg
+meta:
+  title: Pain and Suffering
+  description: In a personal injury case, it can be difficult to determine the
+    amount of pain and suffering inflicted upon you. Every injury, every injured
+    person, every accident, and every case is different
 ---
 <!--StartFragment-->
 
-In a personal injury case, it can be difficult to determine the amount of pain and suffering inflicted upon you.Â Every injury, every injured person, every accident, and every case is different.Â Â There is no formula to â€œmeasureâ€ the amount of pain and suffering in a personal injury case.Â Two people can have the same injury and one can suffer little while the other suffers a great deal; or one offers better proof than the other with more complete documentation or better witnesses; or they can be in two different parts of the country and get completely different settlements or awards.
+In a personal injury case, it can be difficult to determine the amount of pain and suffering inflicted upon you.Â Every injury, every injured person, every accident, and every case is different. There is no formula to â€œmeasureâ€ the amount of pain and suffering in a personal injury case.Â Two people can have the same injury and one can suffer little while the other suffers a great deal; or one offers better proof than the other with more complete documentation or better witnesses; or they can be in two different parts of the country and get completely different settlements or awards.
 
 <!--EndFragment-->
 

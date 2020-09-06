@@ -11,7 +11,7 @@ excerpt: >-
 
   Play the video below to find out what’s your best option in Texas.
 categories:
-  - category: Updates
+  - category: Videos
 meta:
   title: PIP v Medpay
   description: >-

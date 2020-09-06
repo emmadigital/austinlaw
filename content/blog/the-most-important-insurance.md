@@ -11,7 +11,7 @@ excerpt: >-
 
   You can get a Free Insurance Buying Guide prepared by us as well. Enjoy!
 categories:
-  - category: Updates
+  - category: Videos
 meta:
   title: The Most Important Insurance
   description: >-

@@ -2,7 +2,7 @@
 template: CaseResultsPage
 title: Trial Report – $197,000 Verdict
 status: Published
-date: 2020-09-06
+date: 2019-11-06
 featuredImage: /images/case-results.jpg
 excerpt: The at-fault driver was exiting a private driveway onto Lamar which is
   two lanes in either direction. A car was turning left out of that same

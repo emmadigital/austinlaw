@@ -31,7 +31,7 @@ summary: >-
   In the first accident, the gross recovery was $34,000.
 
 
-  In the second accident, the defendant had no insurance, so we made a claim against our client’s un-insured carrier, Amica Insurance. The case settled at mediation for $18,000 (gross) but our client had already used up $5,000 of that money because he had [medpay coverage, rather than the recommended personal injury protection coverage](https://www.austinaccidentlawyer.com/video/pip-v-medpay/ "PIP v Medpay").
+  In the second accident, the defendant had no insurance, so we made a claim against our client’s un-insured carrier, Amica Insurance. The case settled at mediation for $18,000 (gross) but our client had already used up $5,000 of that money because he had [medpay coverage, rather than the recommended personal injury protection coverage.](/blog/pip-v-medpay/)
 
 
   There were a couple of significant takeaways from this case:
@@ -46,15 +46,12 @@ summary: >-
   4. The insurance company claimed that the defendant driver who hit our client was not at fault because, though he hit him from behind, it was due to his sneezing as he put his foot on the gas. While we never got a chance to test this “sneeze defense” in front of a jury, it shows that insurance companies will do anything to get out of paying the full value of a person’s injuries.
 
 
-
-
   <!--EndFragment-->
 result: We fight the insurance companies. It’s what we do, day in and day out,
   because insurance companies have a natural tendency towards evil. If they can
   get away with doing bad things, they will. So when you are in an accident,
   contact us if you want the [best accident lawyer in
-  Austin](https://www.austinaccidentlawyer.com/about-us/staff/andrew-traub/
-  "Andrew Traub").
+  Austin](/meet-us/andrew-traub/).
 amount: NA
 trial: NA
 meta:

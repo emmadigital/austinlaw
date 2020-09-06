@@ -8,7 +8,7 @@ excerpt: Here’s a video I made for fun with After Effects to feature the free
   accident report we send out to people who’ve been hurt in car accident,
   motorcycle accident, or trucking accidents anywhere in Texas.
 categories:
-  - category: Updates
+  - category: Videos
 meta:
   title: " Free Texas Accident Report Intro Video"
   description: Here’s a video I made for fun with After Effects to feature the

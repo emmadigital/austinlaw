@@ -3,7 +3,7 @@ template: PracticaPage
 title: Abogados De Danos A Tejidos Suaves
 status: Published
 date: 2020-09-07
-featuredImage: /images/austin-serious-personal-injury-lawyers.jpg
+featuredImage: /images/back-injury-slider.jpg
 excerpt: Los abogados de lesiones de tejidos blandos de Austin en The Traub Law
   Office, P.C.Â han tenido Ã©xito con casos de lesiÃ³n de tejidos blandos (a
   menudo llamados latigazos).
@@ -41,4 +41,4 @@ Usted no paga honorarios a menos que nosotros recuperemos su compensaciÃ³n.
 
 <!--EndFragment-->
 
-**Read in [English](/practice-areas/serious-personal-injury/)**
+**Read in [English](/practice-areas/soft-tissue-damage-attorneys/)**

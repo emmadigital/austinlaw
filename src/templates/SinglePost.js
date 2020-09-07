@@ -1,7 +1,6 @@
 import React, { Fragment } from 'react'
 import _get from 'lodash/get'
 import { Link, graphql } from 'gatsby'
-import { ChevronLeft } from 'react-feather'
 import author from '../../static/images/author.jpg'
 import { FontAwesomeIcon } from '@fortawesome/react-fontawesome'
 import {

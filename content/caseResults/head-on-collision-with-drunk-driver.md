@@ -6,7 +6,7 @@ date: 2013-06-05
 featuredImage: /images/case-results.jpg
 excerpt: Our client was driving home one night when suddenly, and without
   warning, a car going in the opposite direction turned and came right at her.
-description: >-
+casedescription: >-
   <!--StartFragment-->
 
 

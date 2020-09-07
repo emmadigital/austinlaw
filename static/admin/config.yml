@@ -1683,6 +1683,44 @@ collections: # A list of collections the CMS should be able to edit
                       widget: boolean,
                       required: false,
                     }
+      - file: 'content/pages/areas-de-practica.md'
+        label: 'Areas De Practica Page'
+        name: 'areas-de-practica-page'
+        fields:
+              - {
+                  label: Template,
+                  name: template,
+                  widget: hidden,
+                  default: areasdePracticaIndex,
+                }
+              - { label: Slug, name: slug, widget: hidden, default: 'areas-de-practica' }
+              - { label: Title, name: title, widget: string }
+              - { label: Featured Image, name: featuredImage, widget: image }
+              - { label: Subtitle, name: subtitle, widget: markdown }
+              - label: 'Meta'
+                required: false
+                name: 'meta'
+                widget: 'object'
+                fields:
+                  - { label: Title, name: title, widget: string, required: false }
+                  - {
+                      label: Description,
+                      name: description,
+                      widget: text,
+                      required: false,
+                    }
+                  - {
+                      label: Canonical Link,
+                      name: canonicalLink,
+                      widget: string,
+                      required: false,
+                    }
+                  - {
+                      label: Noindex,
+                      name: noindex,
+                      widget: boolean,
+                      required: false,
+                    }                    
   - name: practiceAreas
     label: Practice Areas
     editor:
@@ -1769,7 +1807,92 @@ collections: # A list of collections the CMS should be able to edit
               required: false,
             }
           - { label: Noindex, name: noindex, widget: boolean, required: false }
-          
+  - name: areasdePractica
+    label: Areas De Practica
+    editor:
+      preview: true
+    folder: content/areasdePractica
+    slug: '{{slug}}'
+    create: true # Allow users to create new documents in this collection
+    fields: # The fields each document in this collection have
+      - { label: Template, name: template, widget: hidden, default: PracticaPage }
+      - { label: Title, name: title, widget: string }
+      - label: 'Status'
+        name: 'status'
+        widget: 'select'
+        options: ['Published', 'Featured', 'Draft']
+        default: 'Published'
+      - { label: Date / Order, name: date, widget: date, format: 'YYYY-MM-DD' }
+      - { label: Featured Images, name: featuredImage, widget: image }
+      - { label: Excerpt, name: excerpt, widget: text }
+      - { label: Content, name: body, widget: markdown }
+      - label: 'Categories'
+        name: 'categories'
+        widget: 'list'
+        required: false
+        fields:
+          - label: 'Category'
+            name: 'category'
+            widget: 'relation'
+            collection: 'areasdePracticaCategory'
+            searchFields: ['title']
+            valueField: 'title'
+      - label: 'Meta'
+        required: false
+        name: 'meta'
+        widget: 'object'
+        fields:
+          - { label: Title, name: title, widget: string, required: false }
+          - {
+              label: Description,
+              name: description,
+              widget: text,
+              required: false,
+            }
+          - {
+              label: Canonical Link,
+              name: canonicalLink,
+              widget: string,
+              required: false,
+            }
+          - { label: Noindex, name: noindex, widget: boolean, required: false }
+
+  - name: areasdePracticaCategory
+    label: Areas De Practica Category
+    editor:
+      preview: false
+    folder: content/areasdePracticaCategory
+    slug: '{{slug}}'
+    create: true # Allow users to create new documents in this collection
+    fields: # The fields each document in this collection have
+      - { label: Template, name: template, widget: hidden, default: AreasDePracticaIndex }
+      - { label: Title, name: title, widget: string }
+      - { label: Subtitle, name: subtitle, widget: string, required: false }
+      - {
+          label: Featured Image,
+          name: featuredImage,
+          widget: image,
+          required: false,
+        }
+      - label: 'Meta'
+        required: false
+        name: 'meta'
+        widget: 'object'
+        fields:
+          - { label: Title, name: title, widget: string, required: false }
+          - {
+              label: Description,
+              name: description,
+              widget: text,
+              required: false,
+            }
+          - {
+              label: Canonical Link,
+              name: canonicalLink,
+              widget: string,
+              required: false,
+            }
+          - { label: Noindex, name: noindex, widget: boolean, required: false }          
   - name: testimonials
     label: Testimonials
     editor:
@@ -2274,7 +2397,7 @@ collections: # A list of collections the CMS should be able to edit
       - { label: Date / Order, name: date, widget: date, format: 'YYYY-MM-DD' }
       - { label: Featured Images, name: featuredImage, widget: image }
       - { label: Excerpt, name: excerpt, widget: text }
-      - { label: Case Description, name: description, widget: markdown }
+      - { label: Case Description, name: casedescription, widget: markdown }
       - { label: Case Image, name: caseImage, widget: image }
       - { label: Trial Summary, name: summary, widget: markdown }
       - { label: Final Result, name: result, widget: markdown }

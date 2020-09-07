@@ -7,7 +7,7 @@ featuredImage: /images/case-results.jpg
 excerpt: The at-fault driver was exiting a private driveway onto Lamar which is
   two lanes in either direction. A car was turning left out of that same
   driveway and she was parked to the right of it.
-description: >-
+casedescription: >-
   <!--StartFragment-->
 
 

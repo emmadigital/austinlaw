@@ -8,7 +8,7 @@ import Layout from '../components/Layout.js'
 import './SinglePost.css'
 
 // Export Template for use in CMS preview
-export const CaseResultsPageTemplate = ({
+export const PracticaPageTemplate = ({
   title,
   excerpt,
   featuredImage,
@@ -17,12 +17,6 @@ export const CaseResultsPageTemplate = ({
   prevPostURL,
   nextPostTitle,
   prevPostTitle,
-  amount,
-  result,
-  summary,
-  casedescription,
-  trial,
-  caseImage
 }) => (
   <main>
     <PageHeader
@@ -30,38 +24,6 @@ export const CaseResultsPageTemplate = ({
       excerpt={excerpt}
       backgroundImage={featuredImage}
     />
-    
-    <section className="section">
-      <div className="container">
-        <h1>- CASE DESCRIPTION</h1>
-      <Content source={casedescription} />
-      </div>
-    </section>
-    <section className="section">
-      <div className="container">
-      <img src={caseImage.childImageSharp.fluid.src}/>
-      </div>
-    </section> 
-    <section className="section">
-      <div className="container">
-      <h1>- TRIAL SUMMARY</h1>  
-      <Content source={summary} />
-      </div>
-    </section>
-    <section className="section">
-      <div className="container">
-      <h1>- FINAL RESULT</h1>  
-      <Content source={result} />
-      </div>
-    </section>
-    <section className="section">
-      <div className="container">
-      <h1>- DOLLARS AWARDED</h1>    
-      <Content source={amount} />
-      <h1>- DAY TRIAL</h1>  
-      <Content source={trial} />      
-      </div>
-    </section>
     <section className="section">
       <div className="container">
         <Content source={body} />
@@ -88,14 +50,14 @@ export const CaseResultsPageTemplate = ({
   </main>
 )
 
-const CaseResultsPage = ({ data: { page, allPosts } }) => {
+const PracticaPage = ({ data: { page, allPosts } }) => {
   const thisEdge = allPosts.edges.find(edge => edge.node.id === page.id)  
   return (
   <Layout
     meta={page.frontmatter.meta || false}
     title={page.frontmatter.title || false}
   >
-    <CaseResultsPageTemplate 
+    <PracticaPageTemplate 
       {...page} 
       {...page.frontmatter} 
       body={page.html} 
@@ -109,10 +71,10 @@ const CaseResultsPage = ({ data: { page, allPosts } }) => {
 )
   }
 
-export default CaseResultsPage
+export default PracticaPage
 
 export const pageQuery = graphql`
-  query CaseResultsPage($id: String!) {
+  query PracticaPage($id: String!) {
     page: markdownRemark(id: { eq: $id }) {
       ...Meta
         html
@@ -123,22 +85,10 @@ export const pageQuery = graphql`
         date(formatString: "MMMM Do, YYYY")
         featuredImage
         excerpt
-        amount
-        result
-        summary
-        casedescription
-        trial
-        caseImage {
-          childImageSharp {
-            fluid {
-              src
-            }
-          }
-        }
       }
     }
     allPosts: allMarkdownRemark(
-      filter: { fields: { contentType: { eq: "caseResults" } } }
+      filter: { fields: { contentType: { eq: "areasdePractica" } } }
       sort: { order: DESC, fields: [frontmatter___date] }
     ) {
       edges {

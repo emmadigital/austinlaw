@@ -8,7 +8,7 @@ excerpt: "Our client, a business owner, was driving home from work on Pecan Park
   Boulevard in Williamson County, Texas. The defendant driver had stopped at an
   intersection which only allowed the driver to turn left if she was in the left
   lane, or right if she was in the right lane. "
-description: >-
+casedescription: >-
   <!--StartFragment-->
 
 

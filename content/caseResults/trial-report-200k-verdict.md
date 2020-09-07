@@ -8,7 +8,7 @@ excerpt: "Our client, a 50 year old Indian American woman, slipped and fell on
   wet paint outside the Ulta Store at the Gateway shopping center near 183/360.
   Gateway denied liability, pointing to a cone with a “wet paint” sign attached
   to it in front of the painted area. "
-description: >-
+casedescription: >-
   <!--StartFragment-->
 
 

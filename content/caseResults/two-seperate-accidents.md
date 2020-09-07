@@ -6,7 +6,7 @@ date: 2013-09-13
 featuredImage: /images/case-results.jpg
 excerpt: Our client was involved in two separate accidents, the first at the end
   of March, 2006 and the second at the end of May, 2007.
-description: >-
+casedescription: >-
   <!--StartFragment-->
 
 

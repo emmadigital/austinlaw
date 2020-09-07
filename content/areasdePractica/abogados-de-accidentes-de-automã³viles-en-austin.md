@@ -8,6 +8,8 @@ excerpt: El chirrido de los neumÃ¡ticos. El crujido de metal. El miedo y el
   repentino momento de terror cuando te das cuenta de que tÃº y tus pasajeros no
   estÃ¡is bien. Si usted ha estado implicado en un accidente de automÃ³vil en
   Texas, usted sabe muy bien lo que se siente.
+categories:
+  - category: Accidentes De Automoviles
 meta:
   title: Abogados de Accidentes de AutomÃ³viles en Austin
   description: El chirrido de los neumÃ¡ticos. El crujido de metal. El miedo y el

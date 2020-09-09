@@ -73,7 +73,7 @@ export default () => (
           © Copyright {new Date().getFullYear()} All rights reserved. &nbsp;
         </span>
         <span>
-        <a href="/sitemap/">Sitemap</a>  <a href="/privacy-policy/">Privacy Policy</a>  <a href="/terms-of-use/">Terms of Use</a>  <a href="/submit-articles/">Submit Articles</a> <a href="/lawyer-referrals/">Lawyer Referrals</a>
+        <a href="/sitemap/">Sitemap</a>  <a href="/privacy-policy/">Privacy Policy</a>  <a href="/terms-of-use/">Terms of Use</a>  <a href="/submit-articles/">Submit Articles</a> <a href="/referrals/">Lawyer Referrals</a>
         </span>
       </div>
     </footer>

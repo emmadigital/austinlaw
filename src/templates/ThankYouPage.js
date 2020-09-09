@@ -6,7 +6,7 @@ import Content from '../components/Content'
 import Layout from '../components/Layout'
 
 // Export Template for use in CMS preview
-export const DefaultPageTemplate = ({
+export const ThankYouTemplate = ({
   title,
   subtitle,
   featuredImage,
@@ -27,18 +27,18 @@ export const DefaultPageTemplate = ({
   </main>
 )
 
-const DefaultPage = ({ data: { page } }) => (
+const ThankYouPage = ({ data: { page } }) => (
   <Layout
     meta={page.frontmatter.meta || false}
     title={page.frontmatter.title || false}
   >
-    <DefaultPageTemplate {...page.frontmatter} body={page.html} />
+    <ThankYouTemplate {...page.frontmatter} body={page.html} />
   </Layout>
 )
-export default DefaultPage
+export default ThankYouPage
 
 export const pageQuery = graphql`
-  query DefaultPage($id: String!) {
+  query ThankYouPage($id: String!) {
     page: markdownRemark(id: { eq: $id }) {
       ...Meta
       html

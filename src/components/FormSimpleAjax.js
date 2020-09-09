@@ -106,13 +106,13 @@ class Form extends React.Component {
           </label>
           <label className="Form--Label">
             <input
-              className="Form--Input Form--InputText"
+              className="Form--Input Form--InputPhone"
               type="phone"
               placeholder="Phone"
               name="phone"
               required
             />
-            <span>Phone Number</span>
+            <span>Phone Number (512) 246-9191</span>
           </label>
 
           <label className="Form--Label has-arrow">

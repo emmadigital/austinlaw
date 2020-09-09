@@ -1,6 +1,6 @@
 ---
 template: SinglePost
-title: " Pedestrian Deaths Up this Year"
+title: "Pedestrian Deaths Up this Year"
 status: Published
 date: 2016-12-23
 featuredImage: /images/animals.jpg
@@ -12,7 +12,7 @@ excerpt: >+
 categories:
   - category: Safety
 meta:
-  title: " Pedestrian Deaths Up this Year"
+  title: "Pedestrian Deaths Up this Year"
   description: >+
     Pedestrian deaths are up this year -a third of the people who have died on
     Austin roadways in 2016 so far were on foot when they were killed, according

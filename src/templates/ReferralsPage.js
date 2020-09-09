@@ -3,10 +3,11 @@ import { graphql } from 'gatsby'
 
 import PageHeader from '../components/PageHeader'
 import Content from '../components/Content'
+import FormReferrals from '../components/FormReferrals'
 import Layout from '../components/Layout'
 
 // Export Template for use in CMS preview
-export const DefaultPageTemplate = ({
+export const ReferralsPageTemplate = ({
   title,
   subtitle,
   featuredImage,
@@ -24,21 +25,26 @@ export const DefaultPageTemplate = ({
         <Content source={body} />
       </div>
     </section>
+    <section className="section">
+      <div className="container">
+        <FormReferrals />
+      </div>
+    </section>
   </main>
 )
 
-const DefaultPage = ({ data: { page } }) => (
+const ReferralsPage = ({ data: { page } }) => (
   <Layout
     meta={page.frontmatter.meta || false}
     title={page.frontmatter.title || false}
   >
-    <DefaultPageTemplate {...page.frontmatter} body={page.html} />
+    <ReferralsPageTemplate {...page.frontmatter} body={page.html} />
   </Layout>
 )
-export default DefaultPage
+export default ReferralsPage
 
 export const pageQuery = graphql`
-  query DefaultPage($id: String!) {
+  query ReferralsPage($id: String!) {
     page: markdownRemark(id: { eq: $id }) {
       ...Meta
       html

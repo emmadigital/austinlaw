@@ -24,7 +24,7 @@ New research on what causes a concussion injury has been conducted that examines
 
 <!--StartFragment-->
 
-A sudden trauma such as when the head hits a hard surface or when an object pierces through the skull is called a [Traumatic Brain Injury or TBI](https://www.austinaccidentlawyer.com/practice-areas/serious-personal-injury/brain-injury-lawyers/traumatic-brain-injuries-tbi/) and also known as a concussion.
+A sudden trauma such as when the head hits a hard surface or when an object pierces through the skull is called a [Traumatic Brain Injury or TBI ](/practice-areas/traumatic-brain-injuries-tbi/)and also known as a concussion.
 
 Back in 2013, TBI injuries accounted for 2.5 million visits to the ER and 56,000 deaths according to the Centers for Disease Control and Prevention.
 
@@ -32,7 +32,7 @@ The new study which was published by the [Journal of Cell Biology](http://jcb.ru
 
 The first author of the study was Chen Gu. Gu and his colleagues found that they could induce swelling in the neurons of the hippocampus, the brain region responsible for creating and storing memories.
 
-In a concussion injury, axons develop small, bead-like swellings along their length much like the neurodegenerations that occurs in Alzheimerâ€™s and Parkinsonâ€™s disease patients.
+In a concussion injury, axons develop small, bead-like swellings along their length much like the neurodegenerations that occurs in Alzheimers and Parkinsons disease patients.
 
 Gu and his team repeatedly induced axonal varicosities (the swellings) imitating the effects of repetitive blows to the head. They compared these to swelling they had induced in mice.
 
@@ -48,6 +48,6 @@ This study is showing that blows to the head activate a protein and the younger 
 
 This process may, therefore, play a key role in neural development and central nervous system function in adults, as well as in chronic brain disorders and various acute brain injuries.” Says Gu.
 
-If you believe you have suffered a brain injury, call the [brain injury lawyers](https://www.austinaccidentlawyer.com/practice-areas/serious-personal-injury/brain-injury-lawyers/) at the Traub Law Office, P.C. today at (512) 246-9191 or fill in the form below.
+If you believe you have suffered a brain injury, call the [brain injury lawyers](/practice-areas/brain-injury-lawyers/) at the Traub Law Office, P.C. today at (512) 246-9191 or fill in the form below.
 
 <!--EndFragment-->

@@ -8,6 +8,7 @@ excerpt: Brain injuries can be devastating for the person injured and their
   caregivers, yet these types of injuries are harder to prove and are often not
   adequately diagnosed.
 categories:
+  - category: Serious Personal Injury
   - category: Brain Injury
 meta:
   title: Brain Injury Lawyers

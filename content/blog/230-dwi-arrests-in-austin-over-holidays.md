@@ -17,7 +17,7 @@ meta:
 ---
 <!--StartFragment-->
 
-Austin police made 230 [drunken driving](https://www.austinaccidentlawyer.com/blog/avoiding-drunk-driver-accidents/) arrests over 19 days this holiday season, compared with 229 arrests over 17 days last year, police officials said Tuesday.
+Austin police made 230 [drunken driving](/blog/avoiding-drunk-driver-accidents/) arrests over 19 days this holiday season, compared with 229 arrests over 17 days last year, police officials said Tuesday.
 
 Of the 230 people arrested from Dec. 15 to Monday, 82 consented to a breath alcohol test and 29 consented to a blood draw. Police had to get a warrant for a blood draw in 118 cases.
 

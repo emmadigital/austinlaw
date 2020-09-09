@@ -17,7 +17,7 @@ meta:
 
 St. David’s Round Rock Medical Center will host a study of a new procedure that could provide patients with alternative to spinal fusions.
 
-The Total Posterior Spine System, or TOPS, is an artificial joint implanted into the spine that can help patients with [severe back and leg pain](https://www.austinaccidentlawyer.com/practice-areas/back-injury-from-a-car-accident/). For patients, like those in [serious car accidents](https://www.austinaccidentlawyer.com/practice-areas/serious-personal-injury/), who are unable to treat their back problems through rehab, a spinal fusion can be the best option.
+The Total Posterior Spine System, or TOPS, is an artificial joint implanted into the spine that can help patients with [severe back and leg pain](/practice-areas/back-injury-from-a-car-accident/). For patients, like those in [serious car accidents](/practice-areas/serious-personal-injury/), who are unable to treat their back problems through rehab, a spinal fusion can be the best option.
 
 Although neurosurgeons consider fusions to be the “gold standard” for dealing with severe spinal issues, one drawback to the procedure is a decrease in motion between the two vertebrae that have been fused together.
 

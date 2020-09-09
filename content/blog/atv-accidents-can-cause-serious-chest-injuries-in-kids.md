@@ -27,7 +27,7 @@ For young people who ride all-terrain vehicles (ATVs) without a helmet, the risk
 
 “Some parents view ATVs as being more similar to bicycles. However, many of the injury patterns are more similar to those sustained in motor vehicle collisions,” she explained.
 
-ATVs are motorized recreational vehicles with three or four tires, designed for off-road use. Because they can weigh 300 to 400 pounds and travel at speeds of up to 75 miles an hour, ATVs can often be [involved in serious accidents](https://www.austinaccidentlawyer.com/practice-areas/serious-personal-injury/), including crashes, rollovers and ejections, the researchers said.
+ATVs are motorized recreational vehicles with three or four tires, designed for off-road use. Because they can weigh 300 to 400 pounds and travel at speeds of up to 75 miles an hour, ATVs can often be [involved in serious accidents](/practice-areas/serious-personal-injury/), including crashes, rollovers and ejections, the researchers said.
 
 In many states, children younger than 16 can drive ATVs designed for adults, according to the U.S. Consumer Product Safety Commission (CPSC). The American Academy of Pediatrics recommends that children under that age be prohibited from riding ATVs.
 

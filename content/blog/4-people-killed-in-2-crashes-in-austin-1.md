@@ -17,7 +17,7 @@ meta:
 
 Four people were killed early Friday after two separate crashes in the Austin area, Austin-Travis County EMS medics said.
 
-The first crash happened just after midnight in South Austin. Medics and Austin police responded at 12:43 a.m. to the 13400 block of Interstate 35, just south of Texas 45 near Buda, for a [collision involving a wrongway driver](https://www.austinaccidentlawyer.com/practice-areas/distracted-driver/).
+The first crash happened just after midnight in South Austin. Medics and Austin police responded at 12:43 a.m. to the 13400 block of Interstate 35, just south of Texas 45 near Buda, for a [collision involving a wrongway driver](/practice-areas/distracted-driver/).
 
 The driver, who was in a small sedan, was going south in the northbound lanes of the highway and collided head on with a truck that was pulling a travel trailer, causing both vehicles to catch fire, police said.
 

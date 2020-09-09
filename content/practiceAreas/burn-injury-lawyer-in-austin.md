@@ -22,7 +22,7 @@ meta:
 
 <!--StartFragment-->
 
-Have you been exposed to severe burns due to an accident or injury? If you have been exposed to severe burn injuries whether in a [car accident](https://www.austinaccidentlawyer.com/practice-areas/car-accident-lawyers/) or other type of accident, then you need to seek medical attention immediately. The cost of treating burns can be very high and you should consider hiring a [burn injury lawyer](https://www.austinaccidentlawyer.com/practice-areas/burn-injury-lawyer/). Do your research and hire the best personal injury lawyer for burns you can find.
+Have you been exposed to severe burns due to an accident or injury? If you have been exposed to severe burn injuries whether in a [car accident](/practice-areas/car-accident-lawyers/) or other type of accident, then you need to seek medical attention immediately. The cost of treating burns can be very high and you should consider hiring a [burn injury lawyer](/practice-areas/burn-injury-lawyer/). Do your research and hire the best personal injury lawyer for burns you can find.
 
 # Burn Injuries
 
@@ -53,7 +53,7 @@ If you leave second-degree burns untreated for long, they can lead to more damag
 
 Seek the services of a medical expert who will bandage the area and apply medication to prevent infections.
 
-Second degree burns can take several weeks to heal. Most heal without scarring but pigment changes to the skin can occur. In extreme cases, skin grafting may be required to fix [scars from burns](https://www.austinaccidentlawyer.com/practice-areas/facial-disfigurement-or-scars/).
+Second degree burns can take several weeks to heal. Most heal without scarring but pigment changes to the skin can occur. In extreme cases, skin grafting may be required to fix [scars from burns](/practice-areas/facial-disfigurement-or-scars/).
 
 ## Third-degree burns
 
@@ -75,7 +75,7 @@ Third-degree burns carry the most risk for complications, including:
 * shock;
 * hypothermia;
 * hypovolemia;
-* and [death](https://www.austinaccidentlawyer.com/practice-areas/wrongful-death-attorney/).
+* and [death](/practice-areas/wrongful-death-attorney/).
 
 ## Fourth-degree burns
 
@@ -83,7 +83,7 @@ The burns bear all the symptoms of the third-degree burns, but they extend to da
 
 Extensive damage from burns can lead to problems in deep skin tissues, bones, and organs. Patients may require:
 
-* [surgery](https://www.austinaccidentlawyer.com/practice-areas/serious-personal-injury/)
+* [surgery](/practice-areas/serious-personal-injury/)
 * physical therapy
 * rehabilitation
 * lifelong assisted care

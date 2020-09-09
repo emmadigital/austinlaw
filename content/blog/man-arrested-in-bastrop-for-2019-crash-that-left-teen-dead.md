@@ -19,9 +19,9 @@ meta:
 ---
 <!--StartFragment-->
 
-Julien White was arrested last week and charged with intoxicated manslaughter for the 2019 death of Francisco Sanchez Jr., who was a senior at Bastrop High School when he was [struck and killed by a speeding vehicle](https://www.austinaccidentlawyer.com/practice-areas/wrongful-death-attorney/) driven by White last August, according to court records.
+Julien White was arrested last week and charged with intoxicated manslaughter for the 2019 death of Francisco Sanchez Jr., who was a senior at Bastrop High School when he was [struck and killed by a speeding vehicle](/practice-areas/wrongful-death-attorney/) driven by White last August, according to court records.
 
-White, 23, was charged with intoxicated manslaughter with a vehicle after lab results showed White was [driving drunk](https://www.austinaccidentlawyer.com/practice-areas/drunk-driving-accident-lawyer/) with a blood-alcohol concentration of .185%, more than twice the legal limit, court records show. The state crime lab returned the results nearly one year after the crash occurred.
+White, 23, was charged with intoxicated manslaughter with a vehicle after lab results showed White was [driving drunk](/practice-areas/drunk-driving-accident-lawyer/) with a blood-alcohol concentration of .185%, more than twice the legal limit, court records show. The state crime lab returned the results nearly one year after the crash occurred.
 
 On Aug. 10, 2019, White was driving eastbound along Texas 21 in a 2006 GMC pickup, speeding and passing multiple vehicles when he verged onto oncoming traffic, according to a police report. White struck Sanchez’s 2011 Hyundai Sonata head-on. Sanchez died at the scene.
 

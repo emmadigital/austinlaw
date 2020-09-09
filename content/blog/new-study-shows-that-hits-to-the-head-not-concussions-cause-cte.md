@@ -19,7 +19,7 @@ meta:
 ---
 <!--StartFragment-->
 
-A new study has found further evidence linking hits to the head rather than concussions to the onset of chronic traumatic encephalopathy, the neurodegenerative disease traced back to the kind of [head trauma](https://www.austinaccidentlawyer.com/practice-areas/concussion-injury/) experienced by football players, other athletes and combat veterans.
+A new study has found further evidence linking hits to the head rather than concussions to the onset of chronic traumatic encephalopathy, the neurodegenerative disease traced back to the kind of [head trauma](/practice-areas/concussion-injury/) experienced by football players, other athletes and combat veterans.
 
 The concussion is really irrelevant for triggering CTE, Dr. Lee Goldstein, an associate professor at Boston University School of Medicine and College of Engineering, and a corresponding author of the study, told The Post. It's really the hit that counts.
 
@@ -39,7 +39,7 @@ When it comes to head injuries and CTE, Goldstein spoke of three categories that
 
 A TBI is different. it is an injury, an event, he said. It's not a syndrome. It's an event and it involves damage to tissue. If you don't have a concussion, you can absolutely have brain injury and the converse is true.
 
-CTE is bonafide neuro-degenerative disease. It will progress independently of whether you have future hits and a lot of people think that the injury is the disease and it's not. [There is an injury and then it goes on to spread in the brain](https://www.austinaccidentlawyer.com/blog/even-mild-traumatic-brain-injuries-can-kill-brain-tissue/), like other neurodegenerative diseases.
+CTE is bonafide neuro-degenerative disease. It will progress independently of whether you have future hits and a lot of people think that the injury is the disease and it's not. [There is an injury and then it goes on to spread in the brain](/blog/even-mild-traumatic-brain-injuries-can-kill-brain-tissue/), like other neurodegenerative diseases.
 
 Which means that the focus on concussion doesn't prevent the development of CTE.
 

@@ -37,7 +37,7 @@ Toyota said if its vehicle is equipped with an ‘engine start/stop’ button, y
 
 Don’t expect a warning light to go off on the dashboard. You might notice that the pedal is getting harder to depress over time or is sluggish when you ease off the gas. Some drivers might notice a rough feeling while using the pedal.
 
-## Which models are affected by this latest [warning and sales suspension](https://www.austinaccidentlawyer.com/blog/toyota-stops-sales-and-recalls-cars-due-to-defective-gas-pedals/)?
+## Which models are affected by this latest [warning and sales suspension](/blog/toyota-stops-sales-and-recalls-cars-due-to-defective-gas-pedals/)?
 
 Toyota said it stopped sales of the following models and years: 2009 and 2010 RAV4, 2009 and 2010 Corolla, 2009 and 2010 Matrix, 2005 to 2010 Avalon, 2010 Highlander 2007 to 2010 Tundra and 2008 to 2010 Sequoia. It also stopped sales of certain 2007 to 2010 Camry sedans, depending on where those vehicles were made; Camry owners should ask their dealer whether their car is affected.
 

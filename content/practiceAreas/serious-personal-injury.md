@@ -35,7 +35,7 @@ Our Austin accident lawyers have handled the most serious injury claims, includi
 
 * [Amputation or loss of use of a limb](/practice-areas/paraplegia-injury-attorney/)
 * [Spinal cord injury](/practice-areas/austin-spinal-cord-injury-lawyers/)
-* [Brain injury](https://www.austinaccidentlawyer.com/personal-injury-services/serious-personal-injury/austin-brain-injury-lawyers/ "Austin Brain Injury Lawyers")
+* [Brain injury](/practice-areas/austin-brain-injury-lawyers/ "Austin Brain Injury Lawyers")
 * Organ damage
 * [Back injury](/practice-areas/austin-back-injury-lawyers/)
 * [Broken bones](/practice-areas/broken-bone-injury-attorneys/)

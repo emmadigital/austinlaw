@@ -49,8 +49,6 @@ export class Navigation extends Component {
             <Logo />
           </Link>
           <div className="Nav--Links">
-            <NavLink to="/">Home</NavLink>
-
             <div
               className={`Nav--Group ${
                 this.state.activeSubNav === 'meet-us' ? 'active' : ''
@@ -58,8 +56,8 @@ export class Navigation extends Component {
             >
               <span
                 className={`NavLink Nav--GroupParent ${
-                  this.props.location.pathname.includes('meetUs') ||
-                  this.props.location.pathname.includes('meetUs') ||
+                  this.props.location.pathname.includes('meetus') ||
+                  this.props.location.pathname.includes('meetus') ||
                   this.props.location.pathname.includes('categories')
                     ? 'active'
                     : ''
@@ -97,6 +95,8 @@ export class Navigation extends Component {
               </span>
             </div>
 
+            <NavLink to="/case-results/">Results</NavLink>
+
             <div
               className={`Nav--Group ${
                 this.state.activeSubNav === 'resources' ? 'active' : ''
@@ -127,7 +127,7 @@ export class Navigation extends Component {
                      Car Accident App
                     </NavLink>
                     <NavLink
-                      to="/resources/videos/"
+                      to="/category/videos/"
                       className="Nav--GroupLink"
                     >
                       Videos
@@ -136,7 +136,7 @@ export class Navigation extends Component {
                       to="/faq/"
                       className="Nav--GroupLink"
                     >
-                      Questions Answered
+                     FAQs
                     </NavLink>
                 </div>
               </span>
@@ -296,8 +296,9 @@ export class Navigation extends Component {
               </span>
             </div>
 
-  
+
             <NavLink to="/testimonials/">Testimonials</NavLink>
+            <NavLink to="/helmet-donations/">Giving Back</NavLink>
             <NavLink to="/contact-us/">Contact</NavLink>
           </div>
          

@@ -1,10 +1,69 @@
 .footer {
-  padding: 2rem 0;
+  padding: 0rem 0;
   background: var(--lightGrey);
-  font-size: 1.2rem;
+  background-image: url("/images/form-bg.jpg");
 }
 
 .footer a {
   color: black;
   text-decoration: none;
+}
+
+.social a{
+  text-decoration: none;
+  display: inline-block;
+  margin: 0.6rem 3rem 1rem 0;
+  height: 1.4rem;
+}
+
+.copyright {
+  padding: 2rem 0;
+  background: var(--midGrey);
+  line-height: 4rem;
+}
+
+.copyright a{
+ font-size: 1.5rem;
+ padding: 1.5rem;
+ font-weight: 600;
+}
+
+.copyright a:hover{
+color: var(--primary);
+ }
+
+.Contact--Details {
+  margin-top: 3rem;
+}
+
+.Contact--Details--Item {
+  display: flex;
+  padding: 2rem 0;
+  /*border-top: 1px solid var(--lightGrey);*/
+  font-weight: 500;
+  text-decoration: none;
+  color: inherit;
+  transition: color 0.2s ease-in-out;
+}
+
+.Contact--Details--Item:hover,
+.Contact--Details--Item:focus {
+  color: var(--primary);
+}
+
+.Contact--Details--Item svg {
+  margin-right: 1.5rem;
+  color: var(--primary);
+}
+
+@media (min-width: 750px) {
+  .Contact--Section1--Container {
+    display: flex;
+    justify-content: space-between;
+    align-items: flex-start;
+  }
+
+  .Contact--Section1--Container > * {
+    width: calc(50% - 2rem);
+  }
 }

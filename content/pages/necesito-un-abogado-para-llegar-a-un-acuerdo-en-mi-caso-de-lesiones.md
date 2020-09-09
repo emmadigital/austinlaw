@@ -1,4 +1,6 @@
 ---
+template: DefaultPage
+slug: necesito-un-abogado-para-llegar-a-un-acuerdo-en-mi-caso-de-lesiones
 title: Necesito un Abogado para LLegar a un Acuerdo en mi Caso de Lesiones
 featuredImage: /images/animals.jpg
 meta:

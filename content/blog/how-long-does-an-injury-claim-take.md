@@ -35,6 +35,6 @@ Play the video below to hear the answer.
 
 
 
-Don’t forget – if you have any questions about the your [Austin auto accident claim](https://www.austinaccidentlawyer.com/practice-areas/car-accident-lawyers/), you can call us at (512) 246-9191 or order our [free guide for car wreck victims](https://www.austinaccidentlawyer.com/resources/guides/).
+Don’t forget – if you have any questions about the your [Austin auto accident claim](/practice-areas/car-accident-lawyers/), you can call us at (512) 246-9191 or order our [free guide for car wreck victims](/resources/guides/).
 
 <!--EndFragment-->

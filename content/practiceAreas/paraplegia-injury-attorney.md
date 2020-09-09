@@ -21,7 +21,7 @@ meta:
 
 <!--StartFragment-->
 
-Hire an experienced paraplegia injury attorney if you or a loved one has been the victim of this devastating, permanent, [life altering serious injury](https://www.austinaccidentlawyer.com/practice-areas/serious-personal-injury/).
+Hire an experienced paraplegia injury attorney if you or a loved one has been the victim of this devastating, permanent, [life altering serious injury](/practice-areas/serious-personal-injury/).
 
 <!--EndFragment-->
 
@@ -31,7 +31,7 @@ Hire an experienced paraplegia injury attorney if you or a loved one has been th
 
 ## Paralysis damages lives in many ways
 
-If an injury resulting in paralysis for you or someone you care about was the result of another person’s carelessness, the paralyzed person may be entitled to seek compensation in the forms of past and future medical care (including assistance with daily living and chores), [lost wages in the past and lost earning capacity in the future](https://www.austinaccidentlawyer.com/lost-wages-due-to-an-injury/), and the inability to enjoy life as the person had before. This type of injury is not only life-changing for the victim, but also for his or her loved ones as well. A full estimate of care needs requires the hiring of expensive experts so that full and adequate compensation can be recovered.
+If an injury resulting in paralysis for you or someone you care about was the result of another person’s carelessness, the paralyzed person may be entitled to seek compensation in the forms of past and future medical care (including assistance with daily living and chores), [lost wages in the past and lost earning capacity in the future](/lost-wages-due-to-an-injury/), and the inability to enjoy life as the person had before. This type of injury is not only life-changing for the victim, but also for his or her loved ones as well. A full estimate of care needs requires the hiring of expensive experts so that full and adequate compensation can be recovered.
 
 ### What is paraplegia?
 

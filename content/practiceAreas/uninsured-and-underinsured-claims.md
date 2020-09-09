@@ -15,7 +15,7 @@ meta:
 ---
 <!--StartFragment-->
 
-Uninsured and underinsured insurance claims (UM/UIM) are a type of first-party [insurance dispute claim](https://www.austinaccidentlawyer.com/personal-injury-services/dealing-with-your-insurance-company/ "Insurance Disputes") that aims to protect you if you are involved in accidents with uninsured or underinsured drivers. The basis for UM/UIM coverage can be found in the Uninsured/Underinsured Motorist Statute under the Texas Insurance Code and in the UM/UIM clause of the Texas Personal Auto Liability Policy.
+Uninsured and underinsured insurance claims (UM/UIM) are a type of first-party [insurance dispute claim](/practice-areas/dealing-with-your-insurance-company/ "Insurance Disputes") that aims to protect you if you are involved in accidents with uninsured or underinsured drivers. The basis for UM/UIM coverage can be found in the Uninsured/Underinsured Motorist Statute under the Texas Insurance Code and in the UM/UIM clause of the Texas Personal Auto Liability Policy.
 
 Here’s a 2018 [underinsured trial verdict](/case-results/trial-report-197000-verdict/) in Travis county.
 

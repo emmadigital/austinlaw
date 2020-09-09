@@ -21,6 +21,6 @@ Two common questions I answer in this video are “Do I need to notify my insura
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/JD0BMiw603E" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-Don’t forget – if you have any questions, you can call us at (512) 246-9191 or order our [free books for accident victims](https://www.austinaccidentlawyer.com/resources/guides/).
+Don’t forget – if you have any questions, you can call us at (512) 246-9191 or order our [free books for accident victims](/resources/guides/).
 
 <!--EndFragment-->

@@ -17,7 +17,7 @@ meta:
 ---
 <!--StartFragment-->
 
-A [deadly crash](https://www.austinaccidentlawyer.com/practice-areas/wrongful-death-attorney/) in eastern Travis County has left two men dead and four people injured after a head-on collision Sunday evening according to Austin-Travis County EMS.
+A [deadly crash](/practice-areas/wrongful-death-attorney/) in eastern Travis County has left two men dead and four people injured after a head-on collision Sunday evening according to Austin-Travis County EMS.
 
 The crash occurred around 9 p.m. near the intersection of Colfax and North Imperial drives in the Imperial Valley subdivision south of Lake Walter E. Long.
 

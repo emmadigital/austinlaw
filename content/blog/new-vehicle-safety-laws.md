@@ -13,7 +13,7 @@ meta:
 ---
 <!--StartFragment-->
 
-The [seat belt law](https://www.austinaccidentlawyer.com/blog/starting-next-month-you-better-buckle-up-even-in-the-back-seat/) is one of several driving that take effect Sept. 1. Others include:
+The [seat belt law](/blog/starting-next-month-you-better-buckle-up-even-in-the-back-seat/) is one of several driving that take effect Sept. 1. Others include:
 
 * Children under 8 have to be in a child safety seat or a booster seat unless they are 4 feet 9 inches tall. Under the current law, only children under 5 and shorter than 36 inches have to he in a child safety seat.Though the law becomes effective September 1, tickets cannot be issued until June 2010.
 * Children under 5 may not ride on a motorcycle, though they may ride in a sidecar.

@@ -19,17 +19,17 @@ meta:
 ---
 <!--StartFragment-->
 
-A pair of deadly car crashes in Austin and two other serious crashes across Central Texas including a fiery scene where bystanders came to the rescue sent several people to hospitals with [serious accident injuries](https://www.austinaccidentlawyer.com/practice-areas/serious-personal-injury/) Tuesday.
+A pair of deadly car crashes in Austin and two other serious crashes across Central Texas including a fiery scene where bystanders came to the rescue sent several people to hospitals with [serious accident injuries](/practice-areas/serious-personal-injury/) Tuesday.
 
-The first [fatal crash](https://www.austinaccidentlawyer.com/practice-areas/wrongful-death-attorney/) was reported about 1:30 a.m. on Interstate 35 south of San Marcos, near the border of Hays and Comal counties. The driver of an 18-wheeler was killed when his [semitractor-trailer rolled over](https://www.austinaccidentlawyer.com/practice-areas/truck-accident-lawyer/), according to the Texas Department of Public Safety.
+The first [fatal crash](/practice-areas/wrongful-death-attorney/) was reported about 1:30 a.m. on Interstate 35 south of San Marcos, near the border of Hays and Comal counties. The driver of an 18-wheeler was killed when his [semitractor-trailer rolled over](/practice-areas/truck-accident-lawyer/), according to the Texas Department of Public Safety.
 
 Authorities shut down multiple southbound lanes for several hours while crews tried to clear debris and clean up liquid that had spilled from the big rig.
 
-In the second [deadly crash](https://www.austinaccidentlawyer.com/practice-areas/wrongful-death-attorney/) Tuesday morning, a man described as in his 60s died after he [crashed his motorcycle](https://www.austinaccidentlawyer.com/practice-areas/motorcycle-accident-attorney/) in southern Travis County.
+In the second [deadly crash](/practice-areas/wrongful-death-attorney/) Tuesday morning, a man described as in his 60s died after he [crashed his motorcycle](/practice-areas/motorcycle-accident-attorney/) in southern Travis County.
 
 According to Austin-Travis County Emergency Medical Services, medics were called out to the scene near FM 1626 and Katy Lane around 5:39 a.m. When first responders arrived, they found a man who had been seriously injured, and pronounced him dead soon after.
 
-Rush hour was underway in Austin when police shut down the northbound lanes of Airport Boulevard at Manor Road in East Austin to investigate a [pedestrian who was critically injured after he was struck by a vehicle](https://www.austinaccidentlawyer.com/practice-areas/pedestrian-accident-lawyers/).
+Rush hour was underway in Austin when police shut down the northbound lanes of Airport Boulevard at Manor Road in East Austin to investigate a [pedestrian who was critically injured after he was struck by a vehicle](/practice-areas/pedestrian-accident-lawyers/).
 
 Officers were called to the scene around 7 a.m., police said, and EMS crews later took the man to University Medical Center Brackenridge.
 

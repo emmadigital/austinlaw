@@ -21,7 +21,7 @@ meta:
 
 <!--StartFragment-->
 
-A “wrongful death” occurs when a person is killed due to the [negligence](https://www.austinaccidentlawyer.com/practice-areas/negligence/) or misconduct of another individual, company or entity. An action for wrongful death belongs to the decedent’s immediate family members (often called “distributees”). The most common distributees are surviving spouses and children, and sometimes parents. A suit for wrongful death may only be brought by the personal representative of the decedent’s estate who will want to hire an experienced **wrongful death attorney**.
+A “wrongful death” occurs when a person is killed due to the [negligence](/practice-areas/negligence/) or misconduct of another individual, company or entity. An action for wrongful death belongs to the decedent’s immediate family members (often called “distributees”). The most common distributees are surviving spouses and children, and sometimes parents. A suit for wrongful death may only be brought by the personal representative of the decedent’s estate who will want to hire an experienced **wrongful death attorney**.
 
 <!--EndFragment-->
 
@@ -43,8 +43,8 @@ In order to bring a successful wrongful death cause of action, the following ele
 Here are the most common situations we see as *wrongful death attorneys*:
 
 * Medical malpractice that results in decedent’s death;
-* [Car accident](https://www.austinaccidentlawyer.com/practice-areas/car-accidents/);
-* [Truck accident](https://www.austinaccidentlawyer.com/practice-areas/truck-accident-lawyer/);
+* [Car accident](/practice-areas/car-accidents/);
+* [Truck accident](/practice-areas/truck-accident-lawyer/);
 * Airplane accident;
 * Occupational exposure to hazardous conditions or substances;
 * Death during a supervised activity.

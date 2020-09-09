@@ -11,7 +11,7 @@ heroslider:
         like to speak to the person with the knowledge of the law and how it
         applies to their case. They want to know that their calls will be
         promptly returned and their emails answered.
-      sliderbuttonlink: https://www.austinaccidentlawyer.com/meet-us/staff/andrew-traub/
+      sliderbuttonlink: /meet-us/andrew-traub/
       sliderbuttontext: Learn More
       image: /images/lawyer.jpg
     - sliderheading: Experience
@@ -21,7 +21,7 @@ heroslider:
         the lawyer you hire has lots of experience with your type of injury,
         injury cause, or preferably both. Andrew has worked exclusively on
         injury claims since 2007.
-      sliderbuttonlink: https://www.austinaccidentlawyer.com/meet-us/
+      sliderbuttonlink: /meet-us/
       sliderbuttontext: Learn More
       image: /images/national-trial-lawyer.png
     - sliderheading: Trial Results
@@ -36,7 +36,7 @@ heroslider:
         of your case? Our firm has obtained a top 100 verdict in all of Texas
         two years in a row (for all trials, not just personal injury)!
       sliderbuttontext: Learn More
-      sliderbuttonlink: https://www.austinaccidentlawyer.com/practice-areas/
+      sliderbuttonlink: /practice-areas/
       image: /images/trial-results.png
     - sliderheading: Settlement Results
       slidertext: Don’t be fooled by high settlement results. If I told you I settled
@@ -52,7 +52,7 @@ heroslider:
         ultimate resolution for our clients being anywhere from 5 times the
         policy limit to 40 times the policy limit.
       sliderbuttontext: Learn More
-      sliderbuttonlink: https://www.austinaccidentlawyer.com/practice-areas/
+      sliderbuttonlink: /practice-areas/
       image: /images/million-dollar-advocates-forum.png
     - sliderheading: Reputation
       slidertext: All of the items above play into a lawyers reputation – experience,
@@ -62,7 +62,7 @@ heroslider:
         have a good reputation. Check out your potential lawyer’s reputation
         online before you hire him or her.
       sliderbuttontext: Learn More
-      sliderbuttonlink: https://www.austinaccidentlawyer.com/meet-us/testimonials/
+      sliderbuttonlink: /testimonials/
       image: /images/avvo-rating.png
 experiencesection:
   slider:
@@ -100,21 +100,21 @@ cover:
         cars, motorcycles, and trucks.
 
 
-        * [Car Accidents](https://www.austinaccidentlawyer.com/practice-areas/truck-accident-lawyer/)
+        * [Car Accidents](/practice-areas/truck-accident-lawyer/)
 
-        * [Trucking Accidents](https://www.austinaccidentlawyer.com/practice-areas/truck-accident-lawyer/)
+        * [Trucking Accidents](/practice-areas/truck-accident-lawyer/)
 
-        * [Motorcycle Accidents](https://www.austinaccidentlawyer.com/practice-areas/truck-accident-lawyer/)
+        * [Motorcycle Accidents](/practice-areas/truck-accident-lawyer/)
 
-        * [Distracted Driver Accidents](https://www.austinaccidentlawyer.com/practice-areas/distracted-driver/)
+        * [Distracted Driver Accidents](/practice-areas/distracted-driver/)
 
-        * [Drunk Driving Accidents](https://www.austinaccidentlawyer.com/practice-areas/drunk-driving-accident-lawyer/)
+        * [Drunk Driving Accidents](/practice-areas/drunk-driving-accident-lawyer/)
 
-        * [Pedestrian Accidents](https://www.austinaccidentlawyer.com/practice-areas/pedestrian-and-car-accidents/)
+        * [Pedestrian Accidents](/practice-areas/pedestrian-and-car-accidents/)
 
-        * [Red Light Accidents](https://www.austinaccidentlawyer.com/practice-areas/distracted-driver/running-red-light-accident/)
+        * [Red Light Accidents](/practice-areas/distracted-driver/running-red-light-accident/)
       sectionlinktext: Learn More
-      sectionlink: https://www.austinaccidentlawyer.com/practice-areas/
+      sectionlink: /practice-areas/
       image: /images/vehicle-accident.png
     - sectionheading: Other Accidents
       sectiontext: >-
@@ -123,17 +123,17 @@ cover:
         or due to defective products.
 
 
-        * [Slip and Fall Accidents](https://www.austinaccidentlawyer.com/practice-areas/austin-slip-and-fall-attorney/)
+        * [Slip and Fall Accidents](/practice-areas/austin-slip-and-fall-attorney/)
 
-        * [Product Defects](https://www.austinaccidentlawyer.com/practice-areas/texas-product-defect-lawyer/)
+        * [Product Defects](/practice-areas/texas-product-defect-lawyer/)
 
-        * [Insurance Disputes](https://www.austinaccidentlawyer.com/practice-areas/dealing-with-your-insurance-company/)
+        * [Insurance Disputes](/practice-areas/dealing-with-your-insurance-company/)
 
-        * [Dog Bites](https://www.austinaccidentlawyer.com/practice-areas/dog-bite-injury-lawyer/)
+        * [Dog Bites](/practice-areas/dog-bite-injury-lawyer/)
 
-        * [On the Job Injuries](https://www.austinaccidentlawyer.com/practice-areas/injured-on-the-job/)
+        * [On the Job Injuries](/practice-areas/injured-on-the-job/)
       sectionlinktext: Learn More
-      sectionlink: https://www.austinaccidentlawyer.com/practice-areas/
+      sectionlink: /practice-areas/
       image: /images/other-accidents.png
     - sectionheading: Spinal Injuries
       sectiontext: >-
@@ -141,19 +141,19 @@ cover:
         last a few months or be with the victim for the rest of their life.
 
 
-        * [Slip and Fall Accidents](https://www.austinaccidentlawyer.com/practice-areas/austin-slip-and-fall-attorney/)
+        * [Slip and Fall Accidents](/practice-areas/austin-slip-and-fall-attorney/)
 
-        * [Neck Injuries](https://www.austinaccidentlawyer.com/practice-areas/neck-injuries/)
+        * [Neck Injuries](/practice-areas/neck-injuries/)
 
-        * [Back Injury](https://www.austinaccidentlawyer.com/practice-areas/serious-personal-injury/back-injury-lawyers/)
+        * [Back Injury](/practice-areas/back-injury-lawyers/)
 
-        * [Shoulder Injury](https://www.austinaccidentlawyer.com/practice-areas/shoulder-injury-lawyer/)
+        * [Shoulder Injury](/practice-areas/shoulder-injury-lawyer/)
 
-        * [Spinal Cord Injury](https://www.austinaccidentlawyer.com/practice-areas/serious-personal-injury/austin-spinal-cord-injury-lawyers/)
+        * [Spinal Cord Injury](/practice-areas/austin-spinal-cord-injury-lawyers/)
 
-        * [Soft Tissue Injuries](https://www.austinaccidentlawyer.com/practice-areas/soft-tissue-damage-attorneys/)
+        * [Soft Tissue Injuries](/practice-areas/soft-tissue-damage-attorneys/)
       sectionlinktext: Learn More
-      sectionlink: https://www.austinaccidentlawyer.com/practice-areas/serious-personal-injury/austin-spinal-cord-injury-lawyers/
+      sectionlink: /practice-areas/serious-personal-injury/austin-spinal-cord-injury-lawyers/
       image: /images/serious-injury.png
     - sectionheading: Serious Injuries
       sectiontext: >-
@@ -162,27 +162,27 @@ cover:
         severe pain, permanent pain, disabling pain.
 
 
-        * [Broken Bone Injury](https://www.austinaccidentlawyer.com/practice-areas/broken-bone-injury-attorneys/)
+        * [Broken Bone Injury](/practice-areas/broken-bone-injury-attorneys/)
 
-        * [Brain Injury](https://www.austinaccidentlawyer.com/practice-areas/serious-personal-injury/brain-injury-lawyers/)
+        * [Brain Injury](/practice-areas/brain-injury-lawyers/)
 
-        * [CRPS / RSD Injury](https://www.austinaccidentlawyer.com/practice-areas/serious-personal-injury/crps-attorney/)
+        * [CRPS / RSD Injury](/practice-areas/crps-attorney/)
 
-        * [Paraplegia Injury](https://www.austinaccidentlawyer.com/practice-areas/serious-personal-injury/paraplegia-injury-attorney/)
+        * [Paraplegia Injury](/practice-areas/serious-personal-injury/paraplegia-injury-attorney/)
 
-        * [Amputation Injury](https://www.austinaccidentlawyer.com/practice-areas/serious-personal-injury/amputation-injury-attorney/)
+        * [Amputation Injury](/practice-areas/amputation-injury-attorney/)
 
-        * [Rib Injuries](https://www.austinaccidentlawyer.com/rib-injuries/)
+        * [Rib Injuries](/rib-injuries/)
 
-        * [Wrongful Death](https://www.austinaccidentlawyer.com/practice-areas/wrongful-death-attorney/)
+        * [Wrongful Death](/practice-areas/wrongful-death-attorney/)
 
-        * [Carpel Tunnel Injuries](https://www.austinaccidentlawyer.com/practice-areas/soft-tissue-damage-attorneys/carpal-tunnel-syndrome/)
+        * [Carpel Tunnel Injuries](/practice-areas/carpal-tunnel-syndrome/)
 
-        * [Knee Injuries](https://www.austinaccidentlawyer.com/practice-areas/knee-injuries/)
+        * [Knee Injuries](/practice-areas/knee-injuries/)
 
-        * [Serious Injuries](https://www.austinaccidentlawyer.com/practice-areas/serious-personal-injury/)
+        * [Serious Injuries](/practice-areas/serious-personal-injury/)
       sectionlinktext: Learn More
-      sectionlink: https://www.austinaccidentlawyer.com/practice-areas/serious-personal-injury/
+      sectionlink: /practice-areas/serious-personal-injury/
       image: /images/spinal-accident.png
 intro:
   blurbs:
@@ -191,7 +191,7 @@ intro:
         in your case, making decisions to help yourself recover.
 
 
-        [Meet Us](https://www.austinaccidentlawyer.com/meet-us/)
+        [Meet Us](/meet-us/)
       blurbsheading: You Work Directly With Your Lawyers
       image: /images/discuss-icon.png
       heading: First
@@ -200,7 +200,7 @@ intro:
         vehicle property damage claim.
 
 
-        [Learn More](https://www.austinaccidentlawyer.com/about/)
+        [Learn More](/about/)
       blurbsheading: Free Property Damage Help
       image: /images/property-icon.png
       heading: Second
@@ -210,7 +210,7 @@ intro:
         car accident lower contingency fees.
 
 
-        [Learn More](https://www.austinaccidentlawyer.com/about/)
+        [Learn More](/about/)
       image: /images/veterans-icon.png
       heading: Third
 accordion:

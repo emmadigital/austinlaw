@@ -1,4 +1,6 @@
 ---
+template: DefaultPage
+slug: do-i-need-an-attorney-to-settle-my-injury-case
 title: Do I Need an Attorney to Settle My Injury Case?
 featuredImage: /images/animals.jpg
 meta:

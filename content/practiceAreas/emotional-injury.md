@@ -23,7 +23,7 @@ meta:
 
 # Emotional Injury from Trauma
 
-Car accidents have the potential to cause [serious physical injury](https://www.austinaccidentlawyer.com/practice-areas/serious-personal-injury/). Crashes can also cause emotional distress to the persons involved – both the driver and the passengers. An emotional injury is not always apparent. Emotional distress can lurk under the surface long after the event. We’re going to discuss mental and emotional distress and how they affect accident victims.
+Car accidents have the potential to cause [serious physical injury](/practice-areas/serious-personal-injury/). Crashes can also cause emotional distress to the persons involved – both the driver and the passengers. An emotional injury is not always apparent. Emotional distress can lurk under the surface long after the event. We’re going to discuss mental and emotional distress and how they affect accident victims.
 
 <!--EndFragment-->
 
@@ -55,7 +55,7 @@ Mild forms of mental and emotional distress go away quickly but the more severe 
 
 Health experts diagnose mental and emotional injuries under such classifications as acute stress disorder or PTSD (Post Traumatic Stress Disorder).
 
-While PTSD is traditionally associated with soldiers who experience extreme violence during battle, it can in fact affect [car accident victims](https://www.austinaccidentlawyer.com/practice-areas/car-accident-lawyers/). In such cases, the victim relives the accident event in their head over and over, causing paralyzing fear and extreme distress.
+While PTSD is traditionally associated with soldiers who experience extreme violence during battle, it can in fact affect [car accident victims](/practice-areas/car-accident-lawyers/). In such cases, the victim relives the accident event in their head over and over, causing paralyzing fear and extreme distress.
 
 PTSD in adults will manifest differently than in children. Adults will re-live the event when a trigger occurs. PTSD in children is much more complex and will manifest later in ways the child or now adult cannot explain.
 
@@ -77,7 +77,7 @@ Evidence of treatment is critical to validate the emotional distress. A professi
 
 Insurers generally accept claims for emotional injuries as long as the claims are consistent with the physical injury and/or severity of the accident.
 
-For example, if you suffered a [mild neck strain](https://www.austinaccidentlawyer.com/practice-areas/neck-injuries/) from being rear ended and claimed a whole range of symptoms including PTSD, a jury might have a hard time believing you and the insurance company won’t accept the claim (or compensate for it), absence evidence of prior instances which might make you more vulnerable to reoccurance. An inflated claim causes a person to lose credibility with the insurance company and the jury.
+For example, if you suffered a [mild neck strain](/practice-areas/neck-injuries/) from being rear ended and claimed a whole range of symptoms including PTSD, a jury might have a hard time believing you and the insurance company won’t accept the claim (or compensate for it), absence evidence of prior instances which might make you more vulnerable to reoccurance. An inflated claim causes a person to lose credibility with the insurance company and the jury.
 
 A jury might be suspicious if the person didn’t seek medical treatment. Even if an accident victim cries for hours on end, or is afraid to get behind the wheel and has lost their appetite, any claims of emotional injury will be challenged by the insurer if medical treatment was not sought.
 

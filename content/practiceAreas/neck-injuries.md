@@ -24,7 +24,7 @@ The neck is the connecting bridge between the spine and the brain. Seven bony ve
 
 <!--StartFragment-->
 
-Injuries most often affect the soft tissue muscles and ligaments. Trauma can damage the soft discs between vertebrae. Larger traumatic forces can damage the bony parts of the vertebra causing an even more [severe injury](https://www.austinaccidentlawyer.com/practice-areas/serious-personal-injury/). Neck injuries are often caused by [motor vehicle accidents](https://www.austinaccidentlawyer.com/practice-areas/car-accident-lawyers/), contact sports, or a [fall injury](https://www.austinaccidentlawyer.com/practice-areas/slip-and-fall-injury-lawyers/). [Head](https://www.austinaccidentlawyer.com/practice-areas/brain-injury-lawyers/), neck and [shoulder injuries](https://www.austinaccidentlawyer.com/practice-areas/austin-shoulder-injury-lawyer/) often occur together.
+Injuries most often affect the soft tissue muscles and ligaments. Trauma can damage the soft discs between vertebrae. Larger traumatic forces can damage the bony parts of the vertebra causing an even more [severe injury](/practice-areas/serious-personal-injury/). Neck injuries are often caused by [motor vehicle accidents](/practice-areas/car-accident-lawyers/), contact sports, or a [fall injury](/practice-areas/slip-and-fall-injury-lawyers/). [Head](/practice-areas/brain-injury-lawyers/), neck and [shoulder injuries](/practice-areas/austin-shoulder-injury-lawyer/) often occur together.
 
 ## Types Of Neck Injury And Pain
 
@@ -40,13 +40,13 @@ A physical examination by your physician, as well as x-rays, ultrasounds, and ev
 
 ## Neck Injuries, Spinal Injuries, and Car Accidents
 
-[Cervical spinal cord injuries](https://www.austinaccidentlawyer.com/practice-areas/austin-spinal-cord-injury-lawyers/) are those that impact the neck area of the spine. The seven vertebrae in the neck connect the head to the body but are the smallest of all the vertebral bones. This means the chances of suffering a cervical spinal cord injury is higher among all other spinal injuries. Car accidents account for almost half of all neck injuries.
+[Cervical spinal cord injuries](/practice-areas/austin-spinal-cord-injury-lawyers/) are those that impact the neck area of the spine. The seven vertebrae in the neck connect the head to the body but are the smallest of all the vertebral bones. This means the chances of suffering a cervical spinal cord injury is higher among all other spinal injuries. Car accidents account for almost half of all neck injuries.
 
 ### Neck Injuries and Strains
 
-It is estimated that each year there are more than 1 million [whiplash injuries](https://www.austinaccidentlawyer.com/faq/whiplash-injuries/). These cervical spinal cord injuries usually affect the lower neck vertebral bones and soft tissues surrounding them.
+It is estimated that each year there are more than 1 million [whiplash injuries](/faq/whiplash-injuries/). These cervical spinal cord injuries usually affect the lower neck vertebral bones and soft tissues surrounding them.
 
-Immediate signs of cervical spinal cord injuries include a headache, stiffness, restriction of motion, and pain. [Severe cervical spinal injuries](https://www.austinaccidentlawyer.com/practice-areas/serious-personal-injury/) can cause tingling in the arms or hands, numbness, [radiating pain](https://www.austinaccidentlawyer.com/practice-areas/radiating-pain/), or [paralysis](https://www.austinaccidentlawyer.com/practice-areas/paraplegia-injury-attorney/) as in cases of [spinal fractures](https://www.austinaccidentlawyer.com/practice-areas/broken-bone-injury-attorneys/).
+Immediate signs of cervical spinal cord injuries include a headache, stiffness, restriction of motion, and pain. [Severe cervical spinal injuries](/practice-areas/serious-personal-injury/) can cause tingling in the arms or hands, numbness, [radiating pain](/practice-areas/radiating-pain/), or [paralysis](/practice-areas/paraplegia-injury-attorney/) as in cases of [spinal fractures](/practice-areas/broken-bone-injury-attorneys/).
 
 <!--EndFragment-->
 
@@ -58,11 +58,11 @@ Cervical spinal cord injuries resulting in massive strain on the neck are common
 
 Insurance companies have historically classified whiplash and cervical cord injuries involving strains as a fabricated injury or a minor/lesser damage. The logic used was that minor vehicle damage means minor physical injuries.
 
-The reality is that whiplash and other neck injuries can occur both at [low speeds and in minor crashes](https://www.austinaccidentlawyer.com/practice-areas/soft-tissue-damage-attorneys/). The disproportionate masses of the head and body to your relatively thin neck cause it to “whip” out of its normal range of motion during most car accidents, regardless of vehicle damage.
+The reality is that whiplash and other neck injuries can occur both at [low speeds and in minor crashes](/practice-areas/soft-tissue-damage-attorneys/). The disproportionate masses of the head and body to your relatively thin neck cause it to “whip” out of its normal range of motion during most car accidents, regardless of vehicle damage.
 
 Women and children are more susceptible to strained neck injuries, and symptoms of milder strains and neck injuries can be delayed. Therefore, victims should always see a doctor help them identify symptoms and to diagnose and treat cervical spinal cord injuries as soon as possible.
 
-It is also common for someone suffering a neck injury due to trauma to also have [back pain](https://www.austinaccidentlawyer.com/practice-areas/austin-back-injury-lawyers/).
+It is also common for someone suffering a neck injury due to trauma to also have [back pain](/practice-areas/austin-back-injury-lawyers/).
 
 <!--EndFragment-->
 
@@ -80,7 +80,7 @@ It is also common for someone suffering a neck injury due to trauma to also have
 
 **Whiplash Injury**: Whiplash-associated disorders is a set of symptoms that occur following any incident where the head is thrown forward, backward, or side-to-side, especially in car accidents.
 
-**Herniated Discs**: Recurrent neck and back pain may be a sign that you have a [herniated disc](https://www.austinaccidentlawyer.com/practice-areas/herniated-disk/). This happens when the soft material covering a spinal disc is damaged, worn, or pushed out.
+**Herniated Discs**: Recurrent neck and back pain may be a sign that you have a [herniated disc](/practice-areas/herniated-disk/). This happens when the soft material covering a spinal disc is damaged, worn, or pushed out.
 
 **Aging**: Simply growing older often causes unexplained neck pain that may be due to arthritis, cervical dislocation, or spinal stenosis. As we age, our bones grow thicker in some places and weaker in others. The elderly are especially vulnerable to trauma induced neck injuries.
 
@@ -90,7 +90,7 @@ It is also common for someone suffering a neck injury due to trauma to also have
 
 ### Causes of Common Neck Injuries
 
-There are few parts of the body more sensitive to injury than the neck. In some ways, our necks are remarkably stable: in many places, people balance heavy jars and baskets on their heads every day. But sudden trauma, such as car accidents and slips and falls, can subject the neck to forces it cannot withstand. Damage to the muscles and tissues of the neck can cause disability, while [damage to the spinal column can be fatal](https://www.austinaccidentlawyer.com/practice-areas/wrongful-death-attorney/) or lead to paralysis.
+There are few parts of the body more sensitive to injury than the neck. In some ways, our necks are remarkably stable: in many places, people balance heavy jars and baskets on their heads every day. But sudden trauma, such as car accidents and slips and falls, can subject the neck to forces it cannot withstand. Damage to the muscles and tissues of the neck can cause disability, while [damage to the spinal column can be fatal](/practice-areas/wrongful-death-attorney/) or lead to paralysis.
 
 Slips, trips, and falls are among the most common causes of neck injuries. Falling on a hard floor, for example, can result in a person’s head and neck hitting the ground forcefully at an unusual angle. Trips and falls, even from short distances, can also cause severe head and neck injuries.
 

@@ -15,7 +15,7 @@ meta:
 ---
 <!--StartFragment-->
 
-Two people were [killed in a crash](https://www.austinaccidentlawyer.com/practice-areas/wrongful-death-attorney/) in San Marcos involving a [dump truck](https://www.austinaccidentlawyer.com/practice-areas/truck-accident-lawyer/) early Thursday, police said.
+Two people were [killed in a crash](/practice-areas/wrongful-death-attorney/) in San Marcos involving a [dump truck](/practice-areas/truck-accident-lawyer/) early Thursday, police said.
 
 Officers responded to the southbound lanes of Interstate 35 near CM Allen Parkway around 2:45 a.m.
 

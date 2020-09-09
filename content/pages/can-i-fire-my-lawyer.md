@@ -1,4 +1,6 @@
 ---
+template: DefaultPage
+slug: can-i-fire-my-lawyer
 title: Can I Fire My Lawyer?
 featuredImage: /images/animals.jpg
 meta:

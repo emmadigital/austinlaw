@@ -1,4 +1,6 @@
 ---
+template: DefaultPage
+slug: pain-and-suffering
 title: Pain and Suffering
 featuredImage: /images/animals.jpg
 meta:

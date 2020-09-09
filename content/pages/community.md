@@ -1,4 +1,6 @@
 ---
+template: DefaultPage
+slug: community
 title: Community
 featuredImage: /images/animals.jpg
 meta:

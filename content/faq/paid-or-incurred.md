@@ -38,6 +38,6 @@ Additionally, what about people with medicare or medicaid? It is common knowledg
 
 This decision **punishes** people who are injured and carry insurance and **rewards** people who don’t carry any insurance? How? Because people who don’t carry insurance will owe the full amount of the bill and be able to recover the full amount.
 
-If you were involved in an **accident in Texas**, we’ll be happy to mail it to you (together with a host of other free stuff.) You can either [email us](https://www.austinaccidentlawyer.com/contact-us/ "Contact Us"), **call us at (512) 343-2572**, or [fill in the form to the right.](https://www.austinaccidentlawyer.com/faq/paid-or-incurred/)
+If you were involved in an **accident in Texas**, we’ll be happy to mail it to you (together with a host of other free stuff.) You can either [email us](/contact-us/ "Contact Us"), **call us at (512) 343-2572**, or [fill in the form to the right.](/faq/paid-or-incurred/)
 
 <!--EndFragment-->

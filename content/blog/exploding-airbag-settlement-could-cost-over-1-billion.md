@@ -17,7 +17,7 @@ meta:
 ---
 <!--StartFragment-->
 
-Japan’s Takata could be close to settlement with the US Department of Justice over its massive [exploding-airbag](https://www.austinaccidentlawyer.com/practice-areas/defective-airbag-lawyer/) recall in what would amount as the largest exploding airbag settlement ever.
+Japan’s Takata could be close to settlement with the US Department of Justice over its massive [exploding-airbag](/practice-areas/defective-airbag-lawyer/) recall in what would amount as the largest exploding airbag settlement ever.
 
 ![](/images/exploding-airbag.jpg)
 
@@ -29,7 +29,7 @@ One point that remains unresolved is whether there will be any guilty plea to cr
 
 Such a plea would be an escalation of punishments against auto companies for defective products. In settlements with General Motors and Toyota Motor, for example, the companies agreed to pay large fines over product defects, but did not plead guilty.
 
-Any broad agreement between Takata and the Justice Department would end one chapter in a long-running saga that has enraged drivers, disrupted the auto industry and brought the company to the brink of bankruptcy. While Takata still faces drawn-out legal battles, including a large [product defect lawsuit](https://www.austinaccidentlawyer.com/practice-areas/product-defect-lawyer/), it would no longer be under the cloud of a government investigation.
+Any broad agreement between Takata and the Justice Department would end one chapter in a long-running saga that has enraged drivers, disrupted the auto industry and brought the company to the brink of bankruptcy. While Takata still faces drawn-out legal battles, including a large [product defect lawsuit](/practice-areas/product-defect-lawyer/), it would no longer be under the cloud of a government investigation.
 
 Takata's exploding airbags have been linked to at least 11 deaths and more than 180 injuries in the United States. Nineteen automakers are recalling 42 million vehicles to replace the airbags' metal inflaters. The inflaters can over pressurize and rupture, shooting metal shards into a car's cabin.
 

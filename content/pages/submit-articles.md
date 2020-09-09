@@ -1,4 +1,6 @@
 ---
+template: DefaultPage
+slug: submit-articles
 title: Submit Articles
 featuredImage: /images/animals.jpg
 meta:
@@ -25,7 +27,7 @@ So, if you are interested in contributing articlesâ€”on a one-time or a reg
 
 1. Articles should be original to the author and **unpublished elsewhere**.Â No spun content.
 2. Don’t submit an article on a topic that has been beaten to death unless you have a unique slant.
-3. Articles should offer readers **clear information, advice, takeaways, and how-to tips** about a specific [personal injury](https://www.austinaccidentlawyer.com/personal-injury-services/serious-personal-injury/ "Austin Serious Personal Injury Attorney") topic (things like car accidents, motorcycle accidents, truck accidents, dog bites, product defects, medical malpractice, injuries, keeping safe as it relates to one of those, etc). Bullet points are good. Meandering text is not.
+3. Articles should offer readers **clear information, advice, takeaways, and how-to tips** about a specific [personal injury](/practice-areas/serious-personal-injury/ "Austin Serious Personal Injury Attorney") topic (things like car accidents, motorcycle accidents, truck accidents, dog bites, product defects, medical malpractice, injuries, keeping safe as it relates to one of those, etc). Bullet points are good. Meandering text is not.
 4. At the beginning of your article, **list two or three bullet points summarizing its key takeaways**â€”the lessons learned and the how-tos contained in the article. They will be published along with the article.
 5. Include a **brief bio** of at most 25 words and a recent **headshot** (make sure your entire head is in the picture).
 6. Include relevant **links in parentheses**, next to the words to be linked (i.e., do not embed the links).Â There must be a **minimum of 4 links to resources which you rely on that are not your own site.**

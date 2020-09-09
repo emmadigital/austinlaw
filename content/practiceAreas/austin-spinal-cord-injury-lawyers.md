@@ -19,9 +19,9 @@ meta:
 
 <!--StartFragment-->
 
-One of the most severe consequences of [traumatic injury](https://www.austinaccidentlawyer.com/practice-areas/serious-personal-injury/) involves spinal cord injuries. These injuries usually result in the loss of mobility and can cause permanent physical, not to mention, [emotional disabilities](https://www.austinaccidentlawyer.com/practice-areas/emotional-injury/). Spinal cord injuries decrease the quality of life through chronic pain and loss of movement. [Minor injuries](https://www.austinaccidentlawyer.com/practice-areas/soft-tissue-damage-attorneys/) affect daily living and [major injuries](https://www.austinaccidentlawyer.com/practice-areas/serious-personal-injury/) can cause paralysis or even [death](https://www.austinaccidentlawyer.com/practice-areas/wrongful-death-attorney/).
+One of the most severe consequences of [traumatic injury](/practice-areas/serious-personal-injury/) involves spinal cord injuries. These injuries usually result in the loss of mobility and can cause permanent physical, not to mention, [emotional disabilities](/practice-areas/emotional-injury/). Spinal cord injuries decrease the quality of life through chronic pain and loss of movement. [Minor injuries](/practice-areas/soft-tissue-damage-attorneys/) affect daily living and [major injuries](/practice-areas/serious-personal-injury/) can cause paralysis or even [death](/practice-areas/wrongful-death-attorney/).
 
-Spinal cord injuries come in different levels including [paraplegia (partial paralysis) and quadriplegia (full paralysis)](https://www.austinaccidentlawyer.com/practice-areas/austin-paraplegia-attorney/).
+Spinal cord injuries come in different levels including [paraplegia (partial paralysis) and quadriplegia (full paralysis)](/practice-areas/austin-paraplegia-attorney/).
 
 <!--EndFragment-->
 
@@ -35,7 +35,7 @@ Spinal cord injuries have a long-lasting impact on every aspect of the victim’
 
 ## Costs of Caring for Spinal Cord Injuries
 
-Specialists, like life care planners, might be needed to calculate the long-term costs of your care and [future lost wages](https://www.austinaccidentlawyer.com/lost-wages-due-to-an-injury/) if you’ve suffered from this type of injury.
+Specialists, like life care planners, might be needed to calculate the long-term costs of your care and [future lost wages](/lost-wages-due-to-an-injury/) if you’ve suffered from this type of injury.
 
 Extensive medical care is necessary for recovery, even though a full recovery may not be possible. Spinal cord injury treatments can be very costly and in some cases, the victim may not be able to return to their occupation. A large concern for many victims is paying for future medical care. As a result, it’s critical to hire experienced spinal cord injury lawyers.
 

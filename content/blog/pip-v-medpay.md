@@ -31,6 +31,6 @@ Play the video below to find out what’s your best option in Texas.
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/LmcbNvsyJVg" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-Don’t forget – if you have any questions, you can call us at (512) 246-9191 or order our [free guides for car accident victims](https://www.austinaccidentlawyer.com/resources/guides/).
+Don’t forget – if you have any questions, you can call us at (512) 246-9191 or order our [free guides for car accident victims](/resources/guides/).
 
 <!--EndFragment-->

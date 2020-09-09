@@ -21,7 +21,7 @@ A motorcycle helmet, also known as a skid lid or brain bucket is designed to do 
 
 ![](/images/helmet.jpg)
 
-What is a hematoma? A hematoma is a localized mass of blood contained within an organ, tissue, or space that has escaped from an artery or vein. Because the brain is contained in the skull, a hemorrhage can't escape which increases the pressure on the brain and can lead to [brain damage](https://www.austinaccidentlawyer.com/practice-areas/brain-injury-lawyers/) or [death](https://www.austinaccidentlawyer.com/practice-areas/wrongful-death-attorney/) if a large enough area of tissue is affected.A fall on the head from a height of six feet can prove to be fatal without a helmet; this would result in an impact speed of 13.4 mph!
+What is a hematoma? A hematoma is a localized mass of blood contained within an organ, tissue, or space that has escaped from an artery or vein. Because the brain is contained in the skull, a hemorrhage can't escape which increases the pressure on the brain and can lead to [brain damage](/practice-areas/brain-injury-lawyers/) or [death](/practice-areas/wrongful-death-attorney/) if a large enough area of tissue is affected.A fall on the head from a height of six feet can prove to be fatal without a helmet; this would result in an impact speed of 13.4 mph!
 
 The most effective way to get people to wear helmets is the universal helmet law. Universal helmet laws, which require that every motorcycle rider and passenger wear a helmet whenever they ride, can increase helmet use and save money, according to a [new CDC study](http://www.cdc.gov/mmwr/preview/mmwrhtml/mm6123a1.htm?s_cid=mm6123a1_w).
 
@@ -43,6 +43,6 @@ Technology for helmets is constantly changing. This means that your new helmet w
 
 If you have any questions about motorcycle safety, or the laws of riding a motorcycle in Texas, you should call the Texas Department of Public Safety.
 
-If you have been [injured in a motorcycle accident](https://www.austinaccidentlawyer.com/practice-areas/motorcycle-accident-attorney/ "Motorcycle Accidents"), you should call us or complete the form below today.
+If you have been [injured in a motorcycle accident](/practice-areas/motorcycle-accident-attorney/ "Motorcycle Accidents"), you should call us or complete the form below today.
 
 <!--EndFragment-->

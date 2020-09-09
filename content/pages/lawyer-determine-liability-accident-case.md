@@ -1,4 +1,6 @@
 ---
+template: DefaultPage
+slug: lawyer-determine-liability-accident-case
 title: How Does Your Lawyer Determine Liability In Your Accident Case?
 featuredImage: /images/animals.jpg
 meta:

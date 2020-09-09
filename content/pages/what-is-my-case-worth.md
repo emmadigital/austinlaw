@@ -1,4 +1,6 @@
 ---
+template: DefaultPage
+slug: what-is-my-case-worth
 title: What is My Case Worth?
 featuredImage: /images/animals.jpg
 meta:

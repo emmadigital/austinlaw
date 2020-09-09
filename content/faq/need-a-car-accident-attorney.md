@@ -41,6 +41,6 @@ If your accident has resulted in more than some property damage or minor injurie
 
 Don't add the stress of handling your own case while you are healing from injuries sustained in an accident. Leave yourself free to concentrate on your family and on getting your life back to normal.
 
-[Contact an Austin car accident attorney](https://www.austinaccidentlawyer.com/about-us/contact-us/) at the Traub Law Office today or call (512) 343-2572.
+[Contact an Austin car accident attorney](/contact-us/) at the Traub Law Office today or call (512) 343-2572.
 
 <!--EndFragment-->

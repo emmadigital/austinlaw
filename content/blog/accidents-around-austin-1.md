@@ -18,7 +18,7 @@ meta:
 
 ## Bicyclist killed after struck on Texas 71 in Travis County
 
-A bicyclist was [killed after being struck in traffic](https://www.austinaccidentlawyer.com/practice-areas/wrongful-death-attorney/) early Monday near Austin-Bergstrom International Airport, Austin-Travis County EMS medics said.
+A bicyclist was [killed after being struck in traffic](/practice-areas/wrongful-death-attorney/) early Monday near Austin-Bergstrom International Airport, Austin-Travis County EMS medics said.
 
 Medics responded at 5:50 a.m. to the westbound lanes of the 1500 block of Texas 71, just east of U.S. 183, for the incident, which involved a vehicle and the bicycle.
 
@@ -42,7 +42,7 @@ Anyone with information on the crash can call police at 512-974-6935. Tipsters c
 
 ## Pedestrian struck in traffic on Rundberg dies
 
-A [pedestrian who was struck](https://www.austinaccidentlawyer.com/practice-areas/pedestrian-accident-lawyers/) while crossing Rundberg Lane in Northeast Austin last month has died, Austin police said.
+A [pedestrian who was struck](/practice-areas/pedestrian-accident-lawyers/) while crossing Rundberg Lane in Northeast Austin last month has died, Austin police said.
 
 Officers responded on July 17 at 9:43 a.m. to the 800 block of East Rundberg Lane, just off of Interstate 35.
 

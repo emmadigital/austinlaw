@@ -17,7 +17,7 @@ meta:
 ---
 <!--StartFragment-->
 
-A [pedestrian](https://www.austinaccidentlawyer.com/practice-areas/pedestrian-accident-lawyers/) was [seriously injured](https://www.austinaccidentlawyer.com/practice-areas/serious-personal-injury/) while crossing the street in East Austin by a vehicle that took off, but not without leaving its front license plate behind, according to the driverâ€™s arrest affidavit.
+A [pedestrian](/practice-areas/pedestrian-accident-lawyers/) was [seriously injured](/practice-areas/serious-personal-injury/) while crossing the street in East Austin by a vehicle that took off, but not without leaving its front license plate behind, according to the driverâ€™s arrest affidavit.
 
 Police responded to a call at about 2:48 a.m. Saturday of a person possibly hit by a car. The victim was crossing E 12th Street on Pleasant Valley Road on a pedestrian right-of-way with a protected walk signal when a vehicle struck his left side, causing him to hit his head on the pavement, the affidavit said.
 

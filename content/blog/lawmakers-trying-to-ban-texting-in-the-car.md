@@ -34,7 +34,7 @@ The Governors Highway Safety Association, which represents state highway safety 
 The proposal follows studies showing the dangers of operating\
 handheld devices while driving.
 
-In a [study on texting while driving dangers](https://www.austinaccidentlawyer.com/blog/texting-while-driving-doubles-reaction-time-state-study-says/) released this week, the Virginia Tech Transportation Institute found that when drivers of heavy trucks texted, their collision risk was 23 times greater than when not texting. Dialing a cell phone and using or reaching for an electronic device increased risk of collision about six times in cars and trucks. The researchers said the risks of texting generally applied to all drivers, not just truckers.
+In a [study on texting while driving dangers](/blog/texting-while-driving-doubles-reaction-time-state-study-says/) released this week, the Virginia Tech Transportation Institute found that when drivers of heavy trucks texted, their collision risk was 23 times greater than when not texting. Dialing a cell phone and using or reaching for an electronic device increased risk of collision about six times in cars and trucks. The researchers said the risks of texting generally applied to all drivers, not just truckers.
 
 Lawmakers also cited a report by Car and Driver magazine that suggested texting and driving is more dangerous than drunken driving.
 

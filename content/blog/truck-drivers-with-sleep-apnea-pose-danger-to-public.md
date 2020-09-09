@@ -29,7 +29,7 @@ The agencies argue that it should be up to railroads and trucking companies to d
 
 The decision to kill the sleep apnea regulation is the latest step in President Donald Trump’s campaign to drastically slash federal regulations. The Trump administration has withdrawn or delayed hundreds of proposed regulations since he took office in January â€” moves the Republican president has said will help bolster economic growth.
 
-Late last year, the FRA issued a safety advisory that was meant as a stopgap measure urging railroads to begin sleep apnea testing while the rules made their way through the regulatory process. Without a regulation mandating testing, which would have needed approval from Congress, regulators couldn’t cite trucking companies or railroads if a train or [truck crashed because the operator fell asleep](https://www.austinaccidentlawyer.com/practice-areas/truck-accident-lawyer/) at the helm.
+Late last year, the FRA issued a safety advisory that was meant as a stopgap measure urging railroads to begin sleep apnea testing while the rules made their way through the regulatory process. Without a regulation mandating testing, which would have needed approval from Congress, regulators couldn’t cite trucking companies or railroads if a train or [truck crashed because the operator fell asleep](/practice-areas/truck-accident-lawyer/) at the helm.
 
 Sleep apnea is especially troubling for the transportation industry because sufferers are repeatedly awakened and robbed of rest as their airway closes and their breathing stops, leading to dangerous daytime drowsiness. Treatments include wearing a pressurized breathing mask, oral appliances or nasal strips to force the airway open while sleeping. Severe cases require surgery.
 

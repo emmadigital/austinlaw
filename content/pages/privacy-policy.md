@@ -1,4 +1,6 @@
 ---
+template: DefaultPage
+slug: privacy-policy
 title: Privacy Policy
 featuredImage: /images/animals.jpg
 meta:

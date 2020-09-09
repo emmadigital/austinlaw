@@ -1,4 +1,6 @@
 ---
+template: DefaultPage
+slug: should-i-talk-to-the-insurance-adjuster-after-an-accident
 title: Should I talk to the insurance adjuster after an accident?
 featuredImage: /images/animals.jpg
 meta:

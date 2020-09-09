@@ -31,9 +31,9 @@ If you are going in for jury selection, then this video will give you some insig
 
 <!--StartFragment-->
 
-You see, the [insurance companies](https://www.austinaccidentlawyer.com/resources/insurance-company-secrets/) have successfully gotten the word “insurance” out of lawsuits where they are not being sued directly.
+You see, the [insurance companies](/resources/insurance-company-secrets/) have successfully gotten the word “insurance” out of lawsuits where they are not being sued directly.
 
-If someone is [injured in a crash](https://www.austinaccidentlawyer.com/practice-areas/serious-personal-injury/) and the insurance company won’t pay full and fair compensation for the medical bills and injuries caused by their insured, the insured, and not the insurance company is sued. So you see Plaintiff Joe v. Defendant Suzy, not Defendant Rip em Off insurance. Then, while you’re listening to the trial, listen for not only what’s said, but what’s not said. What won’t be said is the word insurance.
+If someone is [injured in a crash](/practice-areas/serious-personal-injury/) and the insurance company won’t pay full and fair compensation for the medical bills and injuries caused by their insured, the insured, and not the insurance company is sued. So you see Plaintiff Joe v. Defendant Suzy, not Defendant Rip em Off insurance. Then, while you’re listening to the trial, listen for not only what’s said, but what’s not said. What won’t be said is the word insurance.
 
 You see, even though there are not studies to confirm this, the insurance companies long ago convinced the legislature that if people knew insurance was available, they’d be more willing to give money. No studies confirm this theory, but I the opposite is actually more likely. Juries are more likely to under-award a plaintiff who is injured because they feel sorry for the defendant. They worry about saddling the poor, widowed, retired school teacher with a heavy burden, never finding out that she has a $100,000 insurance policy.
 

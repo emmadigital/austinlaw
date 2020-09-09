@@ -1,4 +1,6 @@
 ---
+template: DefaultPage
+slug: large-personal-injury-firms-may-bad-case
 title: Large Personal Injury Firms May Be Bad for Your Case
 featuredImage: /images/animals.jpg
 meta:
@@ -41,7 +43,7 @@ Cases that benefited from this churn-and-burn process were small claims and had 
 
 ### WHAT YOU SHOULD CONSIDER IN A PERSONAL INJURY LAWYER
 
-If you have a [serious injury](https://www.austinaccidentlawyer.com/practice-areas/serious-personal-injury/), you should consider what you want in a [personal injury lawyer](https://www.austinaccidentlawyer.com/). A quick settlement or full and fair compensation for your injury?Â Large personal injury firms may be bad for your case.
+If you have a [serious injury](/practice-areas/serious-personal-injury/), you should consider what you want in a [personal injury lawyer](https://www.austinaccidentlawyer.com/). A quick settlement or full and fair compensation for your injury?Â Large personal injury firms may be bad for your case.
 
 Contact us if you want a lawyer who will assess your claims based on their own merits.
 

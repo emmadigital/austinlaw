@@ -17,7 +17,6 @@ import './custom.scss';
 
 import { library } from '@fortawesome/fontawesome-svg-core'
 
-
 // Export Template for use in CMS preview
 export const HomePageTemplate = ({ title, subtitle, featuredImage, body, intro, cover, heroslider, accordion, ctaheading, experiencesection, experiencevideo }) => (
   <main className="Home">
@@ -79,16 +78,10 @@ export const HomePageTemplate = ({ title, subtitle, featuredImage, body, intro, 
          <p
          style={{ background: `url('${item.image.childImageSharp.fluid.src}') no-repeat bottom right` }}
          ><Content source={item.sectiontext} /> </p>
- 
-              
-      </div>
-	
-</div>))}  
-
-</div>
-
-      
-    </section>
+         </div>
+      </div>))}  
+     </div>      
+     </section>
 
     <section className="section">
       <div className="container">
@@ -108,7 +101,7 @@ export const HomePageTemplate = ({ title, subtitle, featuredImage, body, intro, 
         <Accordion items={accordion} />
       </div>
     </section>
-  </main>
+   </main>
 )
 
 // Export Default HomePage for front-end

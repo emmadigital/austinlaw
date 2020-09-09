@@ -1,4 +1,6 @@
 ---
+template: DefaultPage
+slug: terms-of-use
 title: Terms of Use
 featuredImage: /images/animals.jpg
 meta:

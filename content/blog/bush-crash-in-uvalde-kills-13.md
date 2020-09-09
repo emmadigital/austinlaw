@@ -20,9 +20,9 @@ meta:
 ---
 <!--StartFragment-->
 
-Texas Department of Public Safety investigators believe the driver of a large, dually pickup truck involved in a [head-on crash](https://www.austinaccidentlawyer.com/practice-areas/car-accident-lawyers/) with a church bus in Uvalde County on Wednesday afternoon crossed into an oncoming lane for an unknown reason just before the crash, authorities confirmed on Thursday.
+Texas Department of Public Safety investigators believe the driver of a large, dually pickup truck involved in a [head-on crash](/practice-areas/car-accident-lawyers/) with a church bus in Uvalde County on Wednesday afternoon crossed into an oncoming lane for an unknown reason just before the crash, authorities confirmed on Thursday.
 
-DPS Sgt. Robbie Barrera said the pickupâ€™s driver and one female passenger in the bus were the only two people to survive the crash. The remaining 13 [passengers died from their injuries](https://www.austinaccidentlawyer.com/practice-areas/wrongful-death-attorney/).
+DPS Sgt. Robbie Barrera said the pickupâ€™s driver and one female passenger in the bus were the only two people to survive the crash. The remaining 13 [passengers died from their injuries](/practice-areas/wrongful-death-attorney/).
 
 The truckâ€™s driver was taken to an area hospital, and was listed in stable condition.
 

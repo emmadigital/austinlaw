@@ -1,4 +1,6 @@
 ---
+template: DefaultPage
+slug: como-determina-su-abogado-la-responsabilidad-en-su-caso-de-accidente
 title: Como Determina su Abogado la Responsabilidad en su Caso de Accidente?
 featuredImage: /images/animals.jpg
 meta:

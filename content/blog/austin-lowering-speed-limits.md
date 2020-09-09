@@ -21,13 +21,13 @@ Over the next several months, Austin drivers will start seeing posted signs aler
 
 The reductions, aimed at improving traffic safety, were unanimously approved by the City Council earlier this month.
 
-Data collected by the Vision Zero program showed that [speeding is the leading cause of a quarter of deadly traffic crashes](https://www.austinaccidentlawyer.com/practice-areas/wrongful-death-attorney/), making it one of the top four behaviors that contribute to most traffic deaths in Austin, along with failure to yield, [distraction](https://www.austinaccidentlawyer.com/practice-areas/distracted-driver/) and [intoxication](https://www.austinaccidentlawyer.com/practice-areas/drunk-driving-accident-lawyer/). In 2018, 74 people died on Austin roads.
+Data collected by the Vision Zero program showed that [speeding is the leading cause of a quarter of deadly traffic crashes](/practice-areas/wrongful-death-attorney/), making it one of the top four behaviors that contribute to most traffic deaths in Austin, along with failure to yield, [distraction](/practice-areas/distracted-driver/) and [intoxication](/practice-areas/drunk-driving-accident-lawyer/). In 2018, 74 people died on Austin roads.
 
 “If you drive more slowly, you are better equipped to respond to conditions, and the more people can pay attention to their driving the safer everybody will be,” said Council Member Leslie Pool, whose District 7 in North Austin includes high-traffic roads such as MoPac Boulevard (Loop 1), Interstate 35 and Parmer Lane. “As our city has grown, we are not really a small town anymore, and we’ve seen an uptick in vehicle accidents, collisions and conflicts, and that’s preventable.”
 
 Traffic patterns and injuries during the coronavirus pandemic indicate that speeding remains an issue, even while average traffic volumes are down about 50% from early this year. Overall crashes are only down about 20% and Austin has seen roughly a 15% increase in serious injuries, according to the city’s Transportation Department.
 
-“One takeaway from this is that people who continue to drive seem to be getting into [serious car crashes](https://www.austinaccidentlawyer.com/practice-areas/serious-personal-injury/) more frequently, which is likely tied to many drivers choosing to go at faster speeds than normal,” Transportation Department spokeswoman Susanne Harm said.
+“One takeaway from this is that people who continue to drive seem to be getting into [serious car crashes](/practice-areas/serious-personal-injury/) more frequently, which is likely tied to many drivers choosing to go at faster speeds than normal,” Transportation Department spokeswoman Susanne Harm said.
 
 The planned changes are based on a yearlong engineering study of speed limits on city roads conducted by the city’s traffic engineer. The changes will affect three kinds of roads:
 

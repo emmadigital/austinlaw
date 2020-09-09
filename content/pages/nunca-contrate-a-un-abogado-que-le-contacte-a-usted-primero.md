@@ -1,4 +1,6 @@
 ---
+template: DefaultPage
+slug: nunca-contrate-a-un-abogado-que-le-contacte-a-usted-primero
 title: Nunca Contrate a un Abogado que le Contacte a Usted Primero
 featuredImage: /images/animals.jpg
 meta:

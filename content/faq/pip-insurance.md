@@ -37,6 +37,6 @@ Our attorneys will help you file for the PIP coverage. We will submit them for t
 
 Processing the PIP claim for our clients is a courtesy service that we provide at no extra charge to our clients if it can be accomplished without litigation.
 
-If you are in an accident, call our law firm at (512) 343-2572 or [contact us online](https://www.austinaccidentlawyer.com/about-us/contact-us/ "Contact Us"). Our attorneys will help you recover your, PIP insurance, medical bills, and lost wages.
+If you are in an accident, call our law firm at (512) 343-2572 or [contact us online](/contact-us/ "Contact Us"). Our attorneys will help you recover your, PIP insurance, medical bills, and lost wages.
 
 <!--EndFragment-->

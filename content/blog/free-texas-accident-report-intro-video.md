@@ -17,7 +17,7 @@ meta:
 ---
 <!--StartFragment-->
 
-Here’s a video I made for fun with After Effects to feature the free accident report we send out to people who’ve been [hurt in car accident](https://www.austinaccidentlawyer.com/practice-areas/car-accident-lawyers/), [motorcycle accident](https://www.austinaccidentlawyer.com/practice-areas/motorcycle-accident-attorney/), or [trucking accidents anywhere in Texas](https://www.austinaccidentlawyer.com/practice-areas/truck-accident-lawyer/). Hope you like it and let me know your thoughts.
+Here’s a video I made for fun with After Effects to feature the free accident report we send out to people who’ve been [hurt in car accident](/practice-areas/car-accident-lawyers/), [motorcycle accident](/practice-areas/motorcycle-accident-attorney/), or [trucking accidents anywhere in Texas](/practice-areas/truck-accident-lawyer/). Hope you like it and let me know your thoughts.
 
 https://youtube.com/watch?v=TxaAsUOPmpg
 

@@ -1,4 +1,6 @@
 ---
+template: DefaultPage
+slug: lost-wages-due-to-an-injury
 title: Lost Wages Due to An Injury
 featuredImage: /images/animals.jpg
 meta:

@@ -1,4 +1,6 @@
 ---
+template: DefaultPage
+slug: informe-gratis-de-accidente-en-texas-revisado-en-2017
 title: Informe Gratis de Accidente en Texas (Revisado en 2017)
 featuredImage: /images/animals.jpg
 meta:

@@ -27,7 +27,7 @@ The ribs are the long curved bones which form the rib cage, and enclose and prot
 
 We have 24 ribs, twelve on each side. Both men and women have the same amount of ribs. The ribs are attached to a spine bone in the back. The first seven pairs of ribs join the breastbone in the center of the chest. The front ends of the eight, ninth, and 10th
 
-A direct blow to the chest from a [car accident](https://www.austinaccidentlawyer.com/practice-areas/car-accident-lawyers/) or a [slip and fall](https://www.austinaccidentlawyer.com/practice-areas/slip-and-fall-injury-lawyers/) situation can cause rib injuries such as a [rib fracture](https://www.austinaccidentlawyer.com/practice-areas/broken-bone-injury-attorneys/). In a car crash, the ribs can become injured in many ways. A side impact collision could push the door or the center console into the driver or passenger. If the car rolls due to the impact, the occupants will roll with it, exposing the people inside to all kinds of injuries. The force of the impact can also cause objects to fly about the interior, even shearing off bolted car parts. Those objects may strike the ribs or other parts of the body at high speed, causing injury. Another common cause of rib injuries in an accident involve the rapid deployment of airbags which can exert a lot of force on the chest leading to rib injuries. The sudden stop of momentum when the seat-belt arrests a moving body can also cause rib injuries.
+A direct blow to the chest from a [car accident](/practice-areas/car-accident-lawyers/) or a [slip and fall](/practice-areas/slip-and-fall-injury-lawyers/) situation can cause rib injuries such as a [rib fracture](/practice-areas/broken-bone-injury-attorneys/). In a car crash, the ribs can become injured in many ways. A side impact collision could push the door or the center console into the driver or passenger. If the car rolls due to the impact, the occupants will roll with it, exposing the people inside to all kinds of injuries. The force of the impact can also cause objects to fly about the interior, even shearing off bolted car parts. Those objects may strike the ribs or other parts of the body at high speed, causing injury. Another common cause of rib injuries in an accident involve the rapid deployment of airbags which can exert a lot of force on the chest leading to rib injuries. The sudden stop of momentum when the seat-belt arrests a moving body can also cause rib injuries.
 
 ## Types of Rib Injuries
 
@@ -61,13 +61,13 @@ Unfortunately, rib fractures do not always show up on imaging or x-rays, so the 
 
 A rib fracture can take up to six weeks to heal. The best treatment is rest, and pain management with aspirin or ibuprofen. It is really important to breath deeply or cough at least once an hour to prevent pneumonia and partial collapse of the lung tissue.
 
-Do not tightly wrap the injury because this will prevent deep breaths increasing the risk for the pneumonia. Sleeping on the injured side will also help with taking those deep breaths. This may seem counter intuitive at first, but it will help. Only sleep on the injured side, if you have not [injured your neck](https://www.austinaccidentlawyer.com/practice-areas/neck-injuries/) or [injured your back](https://www.austinaccidentlawyer.com/practice-areas/serious-personal-injury/austin-back-injury-lawyers/) which may require lying in other positions.
+Do not tightly wrap the injury because this will prevent deep breaths increasing the risk for the pneumonia. Sleeping on the injured side will also help with taking those deep breaths. This may seem counter intuitive at first, but it will help. Only sleep on the injured side, if you have not [injured your neck](/practice-areas/neck-injuries/) or [injured your back](/practice-areas/austin-back-injury-lawyers/) which may require lying in other positions.
 
 Consider contacting an experienced broken rib lawyer if your rib injury was due to the carelessness of someone else.
 
 ## Experienced Broken Rib Lawyer
 
-If you a rib injury due to a car accident, [motorcycle accident](https://www.austinaccidentlawyer.com/practice-areas/motorcycle-accident-attorney/) or slip and fall accident, and want to talk to an experienced broken rib lawyer, please call or text the Traub Law Office at 512-246-9191 or complete the form below for more information.
+If you a rib injury due to a car accident, [motorcycle accident](/practice-areas/motorcycle-accident-attorney/) or slip and fall accident, and want to talk to an experienced broken rib lawyer, please call or text the Traub Law Office at 512-246-9191 or complete the form below for more information.
 
 We look forward to helping you.
 

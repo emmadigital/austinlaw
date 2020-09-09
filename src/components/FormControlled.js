@@ -19,7 +19,7 @@ class Form extends Component {
     _gotcha: '',
     disabled: false,
     alert: '',
-    action: '/contact/',
+    action: '/contact-us/',
     'form-name': this.props.name
   }
 
@@ -77,7 +77,7 @@ class Form extends Component {
       })
       .then(
         this.resetForm({
-          alert: 'Thanks for your enquiry, we will get back to you soon.'
+          alert: 'Thank you for your enquiry, we will get back to you soon.'
         })
       )
       .catch(err => {

@@ -42,6 +42,6 @@ So here’s why someone may hit your car and hurt you and yet still be found to 
 
 If you can prove the other part was negligent, and there’s no argument you were also at fault, you’re halfway there in proving your case. Now comes the hard part – proving your damages.
 
-[Contact us](https://www.austinaccidentlawyer.com/contact-us/ "Contact Us") if you are concerned about whether you can prove the person who hit you was at fault in a court of law.
+[Contact us](/contact-us/ "Contact Us") if you are concerned about whether you can prove the person who hit you was at fault in a court of law.
 
 <!--EndFragment-->

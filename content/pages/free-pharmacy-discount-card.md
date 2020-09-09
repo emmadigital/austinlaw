@@ -1,4 +1,6 @@
 ---
+template: DefaultPage
+slug: free-pharmacy-discount-card
 title: Free Pharmacy Discount Card
 featuredImage: /images/animals.jpg
 meta:

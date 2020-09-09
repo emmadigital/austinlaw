@@ -26,7 +26,7 @@ Traffic deaths surged about 8 percent in the first nine months of last year, con
 
 The sharp increase comes as drivers are putting more miles on the road than ever, the government said. But the rise in deaths is outpacing the increase in travel. Vehicle miles traveled in the first nine months of 2016 rose about 3 percent.
 
-There were 27,875 [traffic accident deaths](https://www.austinaccidentlawyer.com/practice-areas/wrongful-death-attorney/) in the first three quarters of last year, compared to 25,808 deaths in the same period in 2015.
+There were 27,875 [traffic accident deaths](/practice-areas/wrongful-death-attorney/) in the first three quarters of last year, compared to 25,808 deaths in the same period in 2015.
 
 Experts believe the increased travel is mostly a result of an improved economy and low gas prices. But NHTSA’s data experts said increased travel and a better economy alone can’t explain the rise in deaths.
 
@@ -34,7 +34,7 @@ A “We still have to figure out what is underlying those lives lost,” NHTSA A
 
 The increase in traffic deaths is especially concerning because it has happened at time when cars are safer than ever. Nearly all new cars and light trucks now have electronic stability control and rear view cameras, for example. Automakers are also beginning to equip more cars with sophisticated safety technology like adaptive cruise control, automatic emergency-braking and blind-spot monitoring.
 
-But there are also trends that are difficult to measure, such as increased [use of cellphones and other mobile devices behind the wheel](https://www.austinaccidentlawyer.com/practice-areas/distracted-driver/). And researchers are trying to tease out whether legalization of marijuana for recreational or medical use in some states may be leading to more stoned drivers behind the wheel and more crashes. It’s not an easy question to answer, since drivers high on marijuana react differently than drunk drivers, and there haven’t been effective roadside tests for police to determine if a driver is high.
+But there are also trends that are difficult to measure, such as increased [use of cellphones and other mobile devices behind the wheel](/practice-areas/distracted-driver/). And researchers are trying to tease out whether legalization of marijuana for recreational or medical use in some states may be leading to more stoned drivers behind the wheel and more crashes. It’s not an easy question to answer, since drivers high on marijuana react differently than drunk drivers, and there haven’t been effective roadside tests for police to determine if a driver is high.
 
 Weather is also a consideration, NHTSA officials said. Research shows that traffic fatalities go up in warmer weather months when daylight hours are longer and people do more driving. Warmer than normal winters in some areas of the country may be a factor.
 

@@ -17,9 +17,9 @@ meta:
 ---
 <!--StartFragment-->
 
-As Americans toast to Independence Day this Fourth of July, there's another side to the celebrations they may want to avoid: [death by drunk drivers](https://www.austinaccidentlawyer.com/practice-areas/wrongful-death-attorney/).
+As Americans toast to Independence Day this Fourth of July, there's another side to the celebrations they may want to avoid: [death by drunk drivers](/practice-areas/wrongful-death-attorney/).
 
-The Fourth of July is among the deadliest days for [drunk driving](https://www.austinaccidentlawyer.com/practice-areas/drunk-driving-accident-lawyer/) every year, thanks to people both drinking and driving more. According to an analysis by the Insurance Institute for Highway Safety using data from the Fatality Analysis Reporting System, between 2010 and 2014, July 4 had the second highest percent of car crash deaths that were linked to alcohol, and July 3 was also in the top 10. Here's how the 10 deadliest days broke down, with the percentage noting how many of the car crash deaths involved a blood alcohol level of 0.08 g/dL or more:
+The Fourth of July is among the deadliest days for [drunk driving](/practice-areas/drunk-driving-accident-lawyer/) every year, thanks to people both drinking and driving more. According to an analysis by the Insurance Institute for Highway Safety using data from the Fatality Analysis Reporting System, between 2010 and 2014, July 4 had the second highest percent of car crash deaths that were linked to alcohol, and July 3 was also in the top 10. Here's how the 10 deadliest days broke down, with the percentage noting how many of the car crash deaths involved a blood alcohol level of 0.08 g/dL or more:
 
 * January 1: 62 percent (364 of 591 car crash deaths)
 * July 4: 47 percent (278 of 592 car crash deaths)

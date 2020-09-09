@@ -26,11 +26,11 @@ meta:
 
 <!--StartFragment-->
 
-A back injury can be a life-changing [serious personal injury](https://www.austinaccidentlawyer.com/personal-injury-services/serious-personal-injury/ "Austin Serious Personal Injury Attorney") that eventually leads to chronic pain. [Spinal cord injuries](https://www.austinaccidentlawyer.com/practice-areas/austin-spinal-cord-injury-lawyers/) usually occur in the muscles and tendons of the spinal column area, typically in the [cervical](https://www.austinaccidentlawyer.com/practice-areas/neck-injuries/), thoracic, and lumbar regions, but can include injuries to the sacrum and hip. Hire [experienced back injury lawyers](https://www.austinaccidentlawyer.com/practice-areas/serious-personal-injury/austin-back-injury-lawyers/) who can recommend good doctors for your back, help you obtain treatment if you don’t have health insurance, and recover full and fair compensation for your injuries.
+A back injury can be a life-changing [serious personal injury](/practice-areas/serious-personal-injury/ "Austin Serious Personal Injury Attorney") that eventually leads to chronic pain. [Spinal cord injuries](/practice-areas/austin-spinal-cord-injury-lawyers/) usually occur in the muscles and tendons of the spinal column area, typically in the [cervical](/practice-areas/neck-injuries/), thoracic, and lumbar regions, but can include injuries to the sacrum and hip. Hire [experienced back injury lawyers](/practice-areas/austin-back-injury-lawyers/) who can recommend good doctors for your back, help you obtain treatment if you don’t have health insurance, and recover full and fair compensation for your injuries.
 
-A back injury is most severe when the back is injured from trauma, like from a [car accident](https://www.austinaccidentlawyer.com/practice-areas/back-injury-from-a-car-accident/) or a [sudden fall](https://www.austinaccidentlawyer.com/practice-areas/slip-and-fall-injury-lawyers/).
+A back injury is most severe when the back is injured from trauma, like from a [car accident](/practice-areas/back-injury-from-a-car-accident/) or a [sudden fall](/practice-areas/slip-and-fall-injury-lawyers/).
 
-Symptoms of back injuries include [radiating pain](https://www.austinaccidentlawyer.com/radiating-pain/), muscle weakness, lack of muscle coordination, and even [numbness or tingling](https://www.austinaccidentlawyer.com/practice-areas/herniated-disk/) in the hand and feet. Austin back injury lawyers can help you get the correct medical treatment if your back pain was caused by someone else’s carelessness.
+Symptoms of back injuries include [radiating pain](/radiating-pain/), muscle weakness, lack of muscle coordination, and even [numbness or tingling](/practice-areas/herniated-disk/) in the hand and feet. Austin back injury lawyers can help you get the correct medical treatment if your back pain was caused by someone else’s carelessness.
 
 <!--EndFragment-->
 
@@ -41,11 +41,11 @@ Symptoms of back injuries include [radiating pain](https://www.austinaccidentlaw
 Back injury pains can be caused by:
 
 * Crushed vertebrae
-* [Herniated or ruptured discs](https://www.austinaccidentlawyer.com/practice-areas/herniated-disk/)
-* [Fractured or broken bones](https://www.austinaccidentlawyer.com/practice-areas/broken-bone-injury-attorneys/)
-* [Herniated disks](https://www.austinaccidentlawyer.com/practice-areas/herniated-disk/)
+* [Herniated or ruptured discs](/practice-areas/herniated-disk/)
+* [Fractured or broken bones](/practice-areas/broken-bone-injury-attorneys/)
+* [Herniated disks](/practice-areas/herniated-disk/)
 * Ongoing muscle spasms
-* [Sprain and strain](https://www.austinaccidentlawyer.com/practice-areas/soft-tissue-damage-attorneys/)
+* [Sprain and strain](/practice-areas/soft-tissue-damage-attorneys/)
 * Torn ligaments
 
 These conditions are difficult to treat and when a back injury fails to properly heal, there is a risk of permanent loss of mobility and have a severe impact on your quality of life. The quality of life for someone with a back injury is greatly reduced and they are unable to do normal daily activities. In fact, back injuries come in second, after the common cold, as one of the most common reasons for missed days at work. It’s very important to get the right type of treatment soon after the injury occurs. Waiting to get treatment can make it much more difficult to treat.

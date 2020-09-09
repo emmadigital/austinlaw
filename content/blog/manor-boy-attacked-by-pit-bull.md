@@ -15,7 +15,7 @@ meta:
 ---
 <!--StartFragment-->
 
-Manor police say a 7-year-old boy was the victim of an unprovoked [dog attack](https://www.austinaccidentlawyer.com/practice-areas/dog-bite-injury-lawyer/) on Monday night.
+Manor police say a 7-year-old boy was the victim of an unprovoked [dog attack](/practice-areas/dog-bite-injury-lawyer/) on Monday night.
 
 Police said the child was playing in the yard of a home in the 14400 block of Callan Court around 8:08 p.m. when the dog, a pit bull mix, ran out of a residence as its owner opened a door.
 

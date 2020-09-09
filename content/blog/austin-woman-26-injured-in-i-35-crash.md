@@ -16,7 +16,7 @@ meta:
 ---
 <!--StartFragment-->
 
-An Austin woman was rushed to a San Antonio hospital Wednesday morning after [slamming head-on into an 18-wheeler](https://www.austinaccidentlawyer.com/personal-injury-services/truck-accident-lawyer/) on Interstate 35 in New Braunfels.
+An Austin woman was rushed to a San Antonio hospital Wednesday morning after [slamming head-on into an 18-wheeler](/practice-areas/truck-accident-lawyer/) on Interstate 35 in New Braunfels.
 
 Police in New Braunfels said officers received numerous calls about a vehicle headed north in the southbound lanes of the interstate shortly after 3 a.m.
 

@@ -31,7 +31,7 @@ Knee injuries can be debilitating. When you cannot walk properly, you may put mo
 
 <!--StartFragment-->
 
-Although knee pain can occur from everyday wear and tear or over use, the most common cause of knee pain is injury. An injury can be caused by sports, a work related injury, a [slip and fall injury](https://www.austinaccidentlawyer.com/practice-areas/slip-and-fall-injury-lawyers/), or a [car accident](https://www.austinaccidentlawyer.com/practice-areas/car-accident-lawyers/).
+Although knee pain can occur from everyday wear and tear or over use, the most common cause of knee pain is injury. An injury can be caused by sports, a work related injury, a [slip and fall injury](/practice-areas/slip-and-fall-injury-lawyers/), or a [car accident](/practice-areas/car-accident-lawyers/).
 
 Sudden injuries may be caused by a direct hit to the knee from a car dashboard, or from twisting, bending or falling in just the wrong way.
 
@@ -47,9 +47,9 @@ The types of knee injuries are overuse injuries, sprains and strains, ligament t
 
 ## Types of Knee Injuries
 
-A [sprain or strain](https://www.austinaccidentlawyer.com/practice-areas/soft-tissue-damage-attorneys/) is an injury to the ligaments and tendons that connect and support the kneecap. The tendons can either twist or pull, hyper-extend or even go beyond their intended radius depending on the force that a collision occurs between vehicles.
+A [sprain or strain](/practice-areas/soft-tissue-damage-attorneys/) is an injury to the ligaments and tendons that connect and support the kneecap. The tendons can either twist or pull, hyper-extend or even go beyond their intended radius depending on the force that a collision occurs between vehicles.
 
-A [fracture of the kneecap](https://www.austinaccidentlawyer.com/practice-areas/broken-bone-injury-attorneys/) can occur in the lower portion of the femur or upper part of the tibia or fibula. These types of [serious injuries](https://www.austinaccidentlawyer.com/practice-areas/serious-personal-injury/) are most commonly caused by abnormal force such as falling on the knee or a severe twisting motion or when the knee hits an object very hard like the car in a car accident.
+A [fracture of the kneecap](/practice-areas/broken-bone-injury-attorneys/) can occur in the lower portion of the femur or upper part of the tibia or fibula. These types of [serious injuries](/practice-areas/serious-personal-injury/) are most commonly caused by abnormal force such as falling on the knee or a severe twisting motion or when the knee hits an object very hard like the car in a car accident.
 
 Another common type of knee injury that one can get is the tear of the meniscus. The meniscus is said to be a disk-like mass that has cartilage and soft tissues located behind the knee. When an accident occurs, the force created due to the impact can tear or rapture one’s menisci. A slight tear has got a moderate discomfort and pain, unlike a rapture which is very much painful.
 

@@ -17,9 +17,9 @@ meta:
 ---
 <!--StartFragment-->
 
-A woman was [struck and killed by a vehicle](https://www.austinaccidentlawyer.com/?page_id=65) as she tried to cross the southbound lanes of Interstate 35 in New Braunfels on Tuesday, authorities said.
+A woman was [struck and killed by a vehicle](/practice-areas/wrongful-death-attorney/) as she tried to cross the southbound lanes of Interstate 35 in New Braunfels on Tuesday, authorities said.
 
-At 10:54 a.m. New Braunfels police responded to the 300 block of I-35 to reports of a female [pedestrian involved in a hit-and-run](https://www.austinaccidentlawyer.com/?page_id=48).
+At 10:54 a.m. New Braunfels police responded to the 300 block of I-35 to reports of a female [pedestrian involved in a hit-and-run](/practice-areas/pedestrian-accident-lawyers/).
 
 Emergency crews found the woman lying in the roadway and took her to Resolute Health Hospital, where she was pronounced dead. The identity of the woman has not been released, pending notification of her family.
 

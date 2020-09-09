@@ -60,6 +60,6 @@ Some industry officials have complained the guidelines go too far and may stifle
 
 “States are the ones that make the final call on whether automated vehicles should be allowed on the roads,” he said. “We think citizens of those states have the right to take action to keep their roads safe.”
 
-Unfortunately,Â our office handles many [trucking accident injury](https://www.austinaccidentlawyer.com/practice-areas/truck-accident-lawyer/) cases and driver fatigue is a common cause.
+Unfortunately,Â our office handles many [trucking accident injury](/practice-areas/truck-accident-lawyer/) cases and driver fatigue is a common cause.
 
 <!--EndFragment-->

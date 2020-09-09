@@ -19,9 +19,9 @@ meta:
 ---
 <!--StartFragment-->
 
-A 23-year-old Austin man who was [charged with murder after a fatal wrec](https://www.austinaccidentlawyer.com/blog/man-charged-in-fatal-crash/)k Monday had been convicted in three drunken driving cases and had gotten his license back just over a month ago, according to his arrest affidavit and court documents.
+A 23-year-old Austin man who was [charged with murder after a fatal wrec](/blog/man-charged-in-fatal-crash/)k Monday had been convicted in three drunken driving cases and had gotten his license back just over a month ago, according to his arrest affidavit and court documents.
 
-Jaime Bonilla Alvarado, who also goes by Donnie Noel Bonilla, was charged with first-degree murder in the [fatal wreck](https://www.austinaccidentlawyer.com/blog/fleeing-drunk-driver-kills-traveler/).
+Jaime Bonilla Alvarado, who also goes by Donnie Noel Bonilla, was charged with first-degree murder in the [fatal wreck](/blog/fleeing-drunk-driver-kills-traveler/).
 
 His three previous drunken driving offenses occurred in 2006 and 2007 in Travis County and were resolved at the same time.
 

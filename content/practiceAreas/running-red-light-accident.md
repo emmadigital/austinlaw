@@ -19,7 +19,7 @@ meta:
 
 Red-light running is a serious intersection safety issue across the nation. According to the National Highway Traffic Safety Administration’s (NHTSA) *[Traffic Safety Facts 2008 Report](http://www-nrd.nhtsa.dot.gov/Pubs/811170.PDF)*. A red light accident almost always results in a serious injury for the defenseless driver who is t-boned by the red light runner.
 
-[<!--EndFragment-->](http://austinaccidentlawyer.com/wp-content/uploads/sites/2/2016/12/red-traffic-light-1.jpg)
+[<!--EndFragment-->](/images/red-traffic-light.jpg)
 
 ![](/images/red-traffic-light.jpg)
 

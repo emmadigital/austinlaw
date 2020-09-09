@@ -1,4 +1,6 @@
 ---
+template: DefaultPage
+slug: dolor-y-sufrimiento
 title: Dolor y Sufrimiento
 featuredImage: /images/animals.jpg
 meta:

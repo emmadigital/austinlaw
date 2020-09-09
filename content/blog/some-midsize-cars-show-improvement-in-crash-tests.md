@@ -31,6 +31,6 @@ The G35, Altima, Malibu, and Aura received the second-lowest score of “margina
 
 Rear crashes can lead to neck injuries in which there are about 2 million insurance claims a year, costing at least $8.5 billion.
 
-Visit our [car buying tips](https://www.austinaccidentlawyer.com/blog/cars/ "Car Buying Tips") section for more information.
+Visit our [car buying tips](/category/cars/ "Car Buying Tips") section for more information.
 
 <!--EndFragment-->

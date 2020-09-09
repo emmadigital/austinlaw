@@ -27,14 +27,12 @@ meta:
 
 Here’s a good reason why you’ll want an **experienced Austin motorcycle accident attorney** – if you ask emergency room doctors and nurses what type of accidents are responsible for the worst injuries, they will uniformly answer: motorcycle accidents.
 
-[\
-<!--EndFragment-->](http://austinaccidentlawyer.com/wp-content/uploads/sites/2/2016/12/motorcycle-accident.jpg)
 
 ![](/images/motorcycle-accident.jpg)
 
 <!--StartFragment-->
 
-Because motorcycles offer so little protection to riders, motorcycle accidents often involve [extremely serious injuries](/practice-areas/serious-personal-injury/), such as [brain injury](/practice-areas/brain-injury-lawyers/), [spinal cord injury](/practice-areas/austin-spinal-cord-injury-lawyers/), [multiple fractures](https://www.austinaccidentlawyer.com/practice-areas/broken-bone-injury-attorneys/), and internal injuries. Motorcycle riders are 34 times more likely to be [killed in an accident](/practice-areas/wrongful-death-attorney/) than are occupants of a passenger vehicle, according to the National Highway Traffic Safety Administration.
+Because motorcycles offer so little protection to riders, motorcycle accidents often involve [extremely serious injuries](/practice-areas/serious-personal-injury/), such as [brain injury](/practice-areas/brain-injury-lawyers/), [spinal cord injury](/practice-areas/austin-spinal-cord-injury-lawyers/), [multiple fractures](/practice-areas/broken-bone-injury-attorneys/), and internal injuries. Motorcycle riders are 34 times more likely to be [killed in an accident](/practice-areas/wrongful-death-attorney/) than are occupants of a passenger vehicle, according to the National Highway Traffic Safety Administration.
 
 The *motorcycle accident attorneys* at the The Traub Law Office have seen the sometimes devastating injuries that result from motorcycle accidents, and we understand the [pain and debilitation](/faq/pain-and-suffering/). Let us handle your motorcycle insurance claims.
 

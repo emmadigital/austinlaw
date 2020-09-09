@@ -1,4 +1,6 @@
 ---
+template: DefaultPage
+slug: deberia-contactar-a-un-abogado-si-tengo-un-accidente-de-automovil
 title: Deberi­a Contactar a un Abogado si Tengo un Accidente de Automvil?
 featuredImage: /images/animals.jpg
 meta:

@@ -21,7 +21,7 @@ meta:
 ---
 <!--StartFragment-->
 
-A 21-year-old who was riding a Lime scooter when he collided with an Uber vehicle near Sixth Street last week has died, becoming the city’s first [traffic death](https://www.austinaccidentlawyer.com/practice-areas/wrongful-death-attorney/) involving an electric stand-up scooter since the devices began popping up in April, according to Dell Seton Medical Center officials and Austin police.
+A 21-year-old who was riding a Lime scooter when he collided with an Uber vehicle near Sixth Street last week has died, becoming the city’s first [traffic death](/practice-areas/wrongful-death-attorney/) involving an electric stand-up scooter since the devices began popping up in April, according to Dell Seton Medical Center officials and Austin police.
 
 ![](/images/first-scooter-death-in-austin.jpg "Lime Scooters")
 
@@ -35,10 +35,10 @@ The Uber driver remained at the scene and was cooperating with officers in the i
 
 Collin Morgan, Lime’s general manager for Austin and San Antonio, said the scooter company has been in contact with local law enforcement and plans to cooperate.
 
-While Sands’ death marks the first scooter fatality in Austin, other cities have reported similar [deadly crashes](https://www.austinaccidentlawyer.com/practice-areas/wrongful-death-attorney/). A 24-year-old man who died in Dallas after falling off a Lime scooter was most likely the first person to die in such a crash since the devices began showing up in U.S. cities, the Washington Post reported in September. Another man was killed after an SUV hit and dragged him for several yards while he was riding a Lime scooter in Washington, D.C., according to a CNN report.
+While Sands’ death marks the first scooter fatality in Austin, other cities have reported similar [deadly crashes](/practice-areas/wrongful-death-attorney/). A 24-year-old man who died in Dallas after falling off a Lime scooter was most likely the first person to die in such a crash since the devices began showing up in U.S. cities, the Washington Post reported in September. Another man was killed after an SUV hit and dragged him for several yards while he was riding a Lime scooter in Washington, D.C., according to a CNN report.
 
 More than 14,000 electric scooters are available to rent in Austin, and people\
-have taken more than a million rides on them, sometimes resulting in serious injuries and trips to hospitals. Dell Seton Medical Center treated one to two scooter injuries a day between April and August last year, including [broken elbows](https://www.austinaccidentlawyer.com/practice-areas/broken-bone-injury-attorneys/), knees and wrists, cuts and scrapes, and at least four [serious head injuries](https://www.austinaccidentlawyer.com/practice-areas/brain-injury-lawyers/).
+have taken more than a million rides on them, sometimes resulting in serious injuries and trips to hospitals. Dell Seton Medical Center treated one to two scooter injuries a day between April and August last year, including [broken elbows](/practice-areas/broken-bone-injury-attorneys/), knees and wrists, cuts and scrapes, and at least four [serious head injuries](/practice-areas/brain-injury-lawyers/).
 
 U.S. Centers for Disease Control and Prevention officials are working with Austin Public Health and the city’s Transportation Department to conduct a first-ever study of scooter crashes and how they can be prevented.
 

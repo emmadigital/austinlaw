@@ -1,19 +1,21 @@
 .Guide {
     display: grid;
-    grid-template-columns: 32rem 32rem 32rem;
-    grid-template-rows: 60rem 60rem;
-    grid-gap: 60px;  
-    grid-row-gap: 150px;
+    grid-template-columns: 32rem 32rem 32rem!important;
+    grid-template-rows: 60rem 60rem!important;
+    grid-gap: 60px!important;  
 
 }
   
-  @media screen and (max-width: 750px) {
+@media only screen and (min-width: 600px) {
     .Guide {
-      justify-content: center;
-      align-items: center;
-      flex-direction: column;
+      display: grid!important;
+      grid-template-columns: 32rem!important;
+      grid-template-rows: 60rem 60rem 60rem 60rem 60rem 60rem!important;
+      grid-gap: 60px!important;
+      justify-content: center!important;  
     }
   }
+  
   
   .Guide--Item {
     position: relative;
@@ -23,8 +25,7 @@
     cursor: pointer;
     box-shadow: 0 2px 15px rgba(0, 0, 0, 0.1);
     border: 1px solid var(--lightGrey);
-  border-radius: var(--borderRadius);
-
+    border-radius: var(--borderRadius);
   }
 
   .Guide--Item:hover,
@@ -62,10 +63,13 @@
   }
   
   
-  @media screen and (max-width: 750px) {
+  @media only screen and (max-width: 750px) {
+   
     .Guide--Item {
       width: 100%;
-      max-width: 30rem;
+      max-width: 28rem;
+      justify-content: center;
+      margin-left: 5%;
     }
   }
   
@@ -73,7 +77,8 @@
     position: relative;
     width: 100%;
     border: 2px solid #f76707;
-    
+    height: 25rem;
+
   }
   
   .Guide--Item figcaption {
@@ -93,10 +98,80 @@
     }
   }
   
-  @media screen and (max-width: 768px) {
+  @media only screen and (max-width: 768px) {
     .Guide--Item h1{
       padding-bottom: 20px;
-      height: 150px!important;
+      height: 45px!important;
       }
+      .Guide {
+        display: grid!important;
+        grid-template-columns: 32rem 32rem!important;
+        grid-template-rows: 45rem 45rem 45rem!important;
+        grid-gap: 42px!important;
+        font-size: 12px!important;  
+        justify-content: center;
+      }
+    
   }
   
+  @media only screen and (max-width: 1024px) {
+       .Guide {
+        display: grid;
+        grid-template-columns: 32rem 32rem;
+        grid-template-rows: 55rem 55rem 55rem;
+        grid-gap: 52px;
+        justify-content: center;
+      }
+    
+  }
+  
+  @media only screen and (min-width: 992px) {
+    .Guide--Item h1{
+      padding-bottom: 20px;
+      height: 45px!important;
+      }
+      .Guide {
+        display: grid!important;
+        grid-template-columns: 32rem 32rem 32rem!important;
+        grid-template-rows: 45rem 45rem!important;
+        grid-gap: 20px!important;
+        font-size: 12px!important;  
+        justify-content: center;
+      }
+    
+
+  }
+
+  @media only screen and (max-width: 375px) {
+    .Guide--Item h1{
+      padding-bottom: 20px;
+      height: 45px!important;
+      }
+      .Guide {
+        display: grid!important;
+        grid-template-columns: 32rem!important;
+        grid-template-rows: 45rem 45rem 45rem 45rem 45rem 45rem!important;
+        grid-gap: 20px!important;
+        font-size: 12px!important;  
+        justify-content: center;
+      }
+    
+
+  }
+
+  @media only screen and (max-width: 414px) {
+    .Guide--Item h1{
+      padding-bottom: 20px;
+      height: 45px!important;
+      }
+      .Guide {
+        display: grid!important;
+        grid-template-columns: 32rem!important;
+        grid-template-rows: 45rem 45rem 45rem 45rem 45rem 45rem!important;
+        grid-gap: 20px!important;
+        font-size: 12px!important;  
+        justify-content: center;
+      }
+    
+
+  }

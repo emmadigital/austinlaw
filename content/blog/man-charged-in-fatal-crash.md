@@ -16,7 +16,7 @@ meta:
 ---
 <!--StartFragment-->
 
-Austin police have filed murder charges against a 23-year-old man in connection with a [fatal collision](https://www.austinaccidentlawyer.com/blog/fleeing-drunk-driver-kills-traveler/) Monday at Airport Boulevard and Bohn Road.
+Austin police have filed murder charges against a 23-year-old man in connection with a [fatal collision](/blog/fleeing-drunk-driver-kills-traveler/) Monday at Airport Boulevard and Bohn Road.
 
 Jaime Bonilla Alvarado could face up to life in prison if convicted on the first-degree felony charges.
 

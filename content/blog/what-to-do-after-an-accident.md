@@ -21,8 +21,8 @@ In this video, I discuss the vital things you must do after an accident.
 
 
 
-You can get a [Free Accident Pamphlet](https://www.austinaccidentlawyer.com/accident-pamphlet.pdf) to keep in your glove box in case you’re in a wreck. Enjoy!
+You can get a [Free Accident Pamphlet](/accident-pamphlet.pdf/) to keep in your glove box in case you’re in a wreck. Enjoy!
 
-Don’t forget – if you have any questions, you can call us at (512) 246-9191 or order our [free reports and guides for car accident victims](https://www.austinaccidentlawyer.com/resources/guides/).
+Don’t forget – if you have any questions, you can call us at (512) 246-9191 or order our [free reports and guides for car accident victims](/resources/guides/).
 
 <!--EndFragment-->

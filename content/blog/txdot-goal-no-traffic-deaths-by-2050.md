@@ -21,7 +21,7 @@ meta:
 
 Texas Department of Transportation officials have set a goal of eliminating traffic deaths statewide by 2050, with a midpoint goal of reducing deaths by half by 2035.
 
-With 3,641 traffic deaths statewide in 2018, nearly 10 per day, deaths would have to drop by about 120 annually to meet those goals. The last day without a [death on a Texas road](https://www.austinaccidentlawyer.com/practice-areas/wrongful-death-attorney/) was Nov. 7, 2000.
+With 3,641 traffic deaths statewide in 2018, nearly 10 per day, deaths would have to drop by about 120 annually to meet those goals. The last day without a [death on a Texas road](/practice-areas/wrongful-death-attorney/) was Nov. 7, 2000.
 
 The order adopted by the five-person Texas Transportation Commission, which oversees TxDOT, calls on the department to develop a plan to reach that goal. While the commission did not outline specific measures to decrease fatalities, officials flagged possible options the department could pursue.
 
@@ -45,11 +45,11 @@ Part of a successful effort to reduce traffic deaths would be funding law enforc
 
 Part of the effort would involve continuously analyzing possible improvements to roads whenever a stretch is slated for work, Ryan said. TxDOT is currently pursuing a metric that would score a road’s safety.
 
-Technology is also on TxDOT’s side. Structural improvements in vehicles have reduced the severity of injuries from accidents, and advanced driver-assistance systems, which warn or wrest control from drivers, reduce human error like [distracted driving accidents](https://www.austinaccidentlawyer.com/practice-areas/distracted-driver/). Roads will become safer as a higher percentage of cars on the road have these systems.
+Technology is also on TxDOT’s side. Structural improvements in vehicles have reduced the severity of injuries from accidents, and advanced driver-assistance systems, which warn or wrest control from drivers, reduce human error like [distracted driving accidents](/practice-areas/distracted-driver/). Roads will become safer as a higher percentage of cars on the road have these systems.
 
-The adoption of the new goal coincides with the 2019 Traffic Safety Conference, hosted this week in San Antonio by the Texas Transportation Institute. The conference, which runs through Friday, tackles such issues as distracted driving, speeding and [pedestrian accident](https://www.austinaccidentlawyer.com/practice-areas/pedestrian-accident-lawyers/) safety.
+The adoption of the new goal coincides with the 2019 Traffic Safety Conference, hosted this week in San Antonio by the Texas Transportation Institute. The conference, which runs through Friday, tackles such issues as distracted driving, speeding and [pedestrian accident](/practice-areas/pedestrian-accident-lawyers/) safety.
 
-TxDOT also launched a campaign Thursday to remind drivers to be alert for motorcycles. In 2018, 417 fatalities were cause by [motorcycle accidents](https://www.austinaccidentlawyer.com/practice-areas/motorcycle-accident-attorney/) in Texas, down from 501 the year before.
+TxDOT also launched a campaign Thursday to remind drivers to be alert for motorcycles. In 2018, 417 fatalities were cause by [motorcycle accidents](/practice-areas/motorcycle-accident-attorney/) in Texas, down from 501 the year before.
 
 In 2017, Gov. Greg Abbott signed a law banning texting while driving. Laws already prevented drivers under the age of 18 from using a phone, even with a hands-free Bluetooth device.
 

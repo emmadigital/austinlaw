@@ -1,4 +1,6 @@
 ---
+template: DefaultPage
+slug: no-fees-if-no-recovery
 title: No Fees if there is No Recovery
 featuredImage: /images/animals.jpg
 meta:
@@ -24,7 +26,7 @@ In short, we do not get paid our fee or reimbursed for our costs until your case
 
 <!--StartFragment-->
 
-The primary advantage of the contingency fee is that it makes legal representation available to everyone, even people who otherwise could not afford an attorney.Â A person can file a lawsuit without providing any money up front to an attorney. Â This is especially important when someone has [suffered a serious injury](https://www.austinaccidentlawyer.com/practice-areas/serious-personal-injury/) and cannot work, let alone pay for all their legal bills. Â This is also usually advantageous for people with [soft tissue injuries](https://www.austinaccidentlawyer.com/practice-areas/soft-tissue-damage-attorneys/) because the (generally) lower settlement amount makes hiring an hourly lawyer too expensive.
+The primary advantage of the contingency fee is that it makes legal representation available to everyone, even people who otherwise could not afford an attorney.Â A person can file a lawsuit without providing any money up front to an attorney. Â This is especially important when someone has [suffered a serious injury](/practice-areas/serious-personal-injury/) and cannot work, let alone pay for all their legal bills. Â This is also usually advantageous for people with [soft tissue injuries](/practice-areas/soft-tissue-damage-attorneys/) because the (generally) lower settlement amount makes hiring an hourly lawyer too expensive.
 
 ### **Financial Risk for the Attorney with a Contingency Fee** 
 

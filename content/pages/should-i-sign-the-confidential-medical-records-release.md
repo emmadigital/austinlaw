@@ -1,4 +1,6 @@
 ---
+template: DefaultPage
+slug: should-i-sign-the-confidential-medical-records-release
 title: Should I Sign the Confidential Medical Records Release?
 featuredImage: /images/animals.jpg
 meta:

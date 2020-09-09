@@ -1,4 +1,6 @@
 ---
+template: DefaultPage
+slug: contact-attorney-car-accident
 title: Should I Contact an Attorney if I am in a Car Accident?
 featuredImage: /images/animals.jpg
 meta:

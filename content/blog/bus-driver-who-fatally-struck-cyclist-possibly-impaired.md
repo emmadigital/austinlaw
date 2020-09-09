@@ -17,7 +17,7 @@ meta:
 ---
 <!--StartFragment-->
 
-A Capital Metro bus driver who [struck and killed a cyclist](https://www.austinaccidentlawyer.com/practice-areas/wrongful-death-attorney/) on the University of Texas campus last month was driving erratically and might have been [impaired at the time of the crash](https://www.austinaccidentlawyer.com/practice-areas/drunk-driving-accident-lawyer/).
+A Capital Metro bus driver who [struck and killed a cyclist](/practice-areas/wrongful-death-attorney/) on the University of Texas campus last month was driving erratically and might have been [impaired at the time of the crash](/practice-areas/drunk-driving-accident-lawyer/).
 
 According to a search warrant filed in court on Feb. 15, the driver, 40-year-old Mindi Taylor Stafford, failed part of a field sobriety test after the crash and authorities found four prescription medications in her backpack. Each of the drugs — baclofen, a muscle relaxant; gabapentin, a pain reliever and seizure medication; promethazine, an antihistamine often used to treat nausea; and hydroxyzine, an antihistamine that can be used to treat anxiety and nausea — listed dizziness and drowsiness as possible side effects.
 

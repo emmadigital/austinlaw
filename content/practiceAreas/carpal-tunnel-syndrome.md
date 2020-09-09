@@ -27,7 +27,7 @@ Carpal tunnel syndrome causes pain, tingling, and numbness in your hand from pre
 
 Carpal tunnel syndrome occurs when the median nerve, which runs from the forearm into the palm of the hand, becomes pressed or squeezed at the wrist. The carpal tunnel which houses the median nerve and tendons, is a narrow, rigid passageway of ligaments and tendons at the base of the hand. The thickening from irritated tendons or other swelling narrows the tunnel and causes the median nerve to be compressed. This may show up as pain, weakness, or numbness in the hand and wrist. It can also radiate up the arm.
 
-[Car accidents](https://www.austinaccidentlawyer.com/practice-areas/car-accidents/) can cause *trauma induced carpal tunnel syndrome* according to Dr. Elliot L. Ames. Ames is a clinical assistant professor of surgery, division of orthopedic surgery, School of Osteopathic Medicine in Stratford, New Jersey.
+[Car accidents](/practice-areas/car-accidents/) can cause *trauma induced carpal tunnel syndrome* according to Dr. Elliot L. Ames. Ames is a clinical assistant professor of surgery, division of orthopedic surgery, School of Osteopathic Medicine in Stratford, New Jersey.
 
 The injury can occur when the hand is braced on the steering wheel at the time of a front or rear- end collision. The base of the thumb can be injured by the steering wheel and the carpal tunnel is in close proximity to the base of the thumb. It is reasonable to determine that the carpal tunnel takes blunt trauma during impact.
 
@@ -41,6 +41,6 @@ The diagnosis can be confirmed with the use of an electrodiagnostic test or nerv
 
 If you have pain, tingling, and numbness in your wrist or arm **seek medical attention right away**. If you are told it is your back or neck causing this pain, you should **get a second opinion**. It might not be your back at all, but you might have carpal tunnel syndrome caused by a recent car accident.
 
-If you are experiencing carpal tunnel syndrome as a result of a car accident or [slip and fall](https://www.austinaccidentlawyer.com/practice-areas/slip-and-fall-injury-lawyers/), contact us at (512) 246-9191 or fill in the form below.
+If you are experiencing carpal tunnel syndrome as a result of a car accident or [slip and fall](/practice-areas/slip-and-fall-injury-lawyers/), contact us at (512) 246-9191 or fill in the form below.
 
 <!--EndFragment-->

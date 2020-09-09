@@ -15,7 +15,7 @@ meta:
 ---
 <!--StartFragment-->
 
-San Marcos police are working to identify a driver who drove away after [fatally crashing into a pedestrian](https://www.austinaccidentlawyer.com/practice-areas/wrongful-death-attorney/) late Monday.
+San Marcos police are working to identify a driver who drove away after [fatally crashing into a pedestrian](/practice-areas/wrongful-death-attorney/) late Monday.
 
 Police responded to the 1600 block of Post Road about 10 p.m. Monday, according to a statement from authorities. Dwight Garrett Thomas, 41, was walking with another man on the edge of a sidewalk or in a bicycle lane when he was struck by a vehicle, police said.
 

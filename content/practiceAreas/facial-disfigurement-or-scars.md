@@ -35,11 +35,11 @@ In an accident, you may be exposed to deep cuts. For example, you may be cut by 
 
 ## Fractures
 
-The face is made up of several bones which can be broken if you are exposed to trauma during a car crash. If the car does not have airbags or they do not deploy (common in rear-end collisions), the head or face might hit the steering wheel. Bones may not fuse together properly even after treatment which can leave the victim disfigured. If you have any sort of fracture from a car accident, you need to [hire an experienced broken bone attorney](https://www.austinaccidentlawyer.com/practice-areas/broken-bone-injury-attorneys/).
+The face is made up of several bones which can be broken if you are exposed to trauma during a car crash. If the car does not have airbags or they do not deploy (common in rear-end collisions), the head or face might hit the steering wheel. Bones may not fuse together properly even after treatment which can leave the victim disfigured. If you have any sort of fracture from a car accident, you need to [hire an experienced broken bone attorney](/practice-areas/broken-bone-injury-attorneys/).
 
 ## Eye injuries
 
-Flying debris during a car accident might strike the eyes. Eye injuries may lead to blindness or even disfigurement of the face. If you are experiencing sensitivity to light, blurry vision, or nausea, this is often a symptom of a [mild traumatic brain injury or concussion](https://www.austinaccidentlawyer.com/practice-areas/brain-injury-lawyers/), and not an eye injury. However, it would be wise to ask your doctor about the possibility of an eye injury if you remember anything coming into contact with your face. Â Consult with an[ eye-injury attorney](https://www.austinaccidentlawyer.com/practice-areas/eye-injury-or-loss-due-to-trauma/) if you suffer any loss of vision from a crash.
+Flying debris during a car accident might strike the eyes. Eye injuries may lead to blindness or even disfigurement of the face. If you are experiencing sensitivity to light, blurry vision, or nausea, this is often a symptom of a [mild traumatic brain injury or concussion](/practice-areas/brain-injury-lawyers/), and not an eye injury. However, it would be wise to ask your doctor about the possibility of an eye injury if you remember anything coming into contact with your face. Â Consult with an[ eye-injury attorney](/practice-areas/eye-injury-or-loss-due-to-trauma/) if you suffer any loss of vision from a crash.
 
 ## Burns
 
@@ -55,12 +55,12 @@ There are also fourth-degree burns. This type of burn includes all of the sympto
 
 Treatment options which the doctor can apply include skin grafting among other procedures.
 
-Hire a [burn injury lawyer](https://www.austinaccidentlawyer.com/practice-areas/burn-injury-lawyer/) if you suffered a burn due to someone else’s carelessness.
+Hire a [burn injury lawyer](/practice-areas/burn-injury-lawyer/) if you suffered a burn due to someone else’s carelessness.
 
 ## Soft tissue injuries
 
-Muscles, ligaments, cartilage, and tendons can be exposed to injury during an accident. A cut to a facial muscle can leave a victim with impaired facial function and deformities. The [deformities may be permanent](https://www.austinaccidentlawyer.com/practice-areas/serious-personal-injury/) or may be treated with plastic surgery.
+Muscles, ligaments, cartilage, and tendons can be exposed to injury during an accident. A cut to a facial muscle can leave a victim with impaired facial function and deformities. The [deformities may be permanent](/practice-areas/serious-personal-injury/) or may be treated with plastic surgery.
 
-We are [highly rated, experienced personal injury lawyers](https://www.austinaccidentlawyer.com/practice-areas/austin-shoulder-injury-lawyer/). If you have facial disfigurement or scars from an accident, then you should contact us. Complete the form on this page or calling us and we will get back to you right away. We are dedicated to helping you achieve the best compensation possible. We have helped many, many serious accident victims.
+We are [highly rated, experienced personal injury lawyers](/practice-areas/austin-shoulder-injury-lawyer/). If you have facial disfigurement or scars from an accident, then you should contact us. Complete the form on this page or calling us and we will get back to you right away. We are dedicated to helping you achieve the best compensation possible. We have helped many, many serious accident victims.
 
 <!--EndFragment-->

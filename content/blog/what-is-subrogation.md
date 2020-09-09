@@ -23,6 +23,6 @@ Many people ask us what will happen with their health insurance and how that wil
 
 
 
-Don’t forget – if you have any questions, you can call us at (512) 246-9191 or order our [free car accident reports](https://www.austinaccidentlawyer.com/resources/guides/) for consumers.
+Don’t forget – if you have any questions, you can call us at (512) 246-9191 or order our [free car accident reports](/resources/guides/) for consumers.
 
 <!--EndFragment-->

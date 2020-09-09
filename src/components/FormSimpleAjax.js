@@ -7,7 +7,7 @@ import './Form.css'
 
 class Form extends React.Component {
   static defaultProps = {
-    name: 'Simple Form Ajax',
+    name: 'Enquiry Form',
     subject: '', // optional subject of the notification email
     action: '',
     successMessage: 'Thanks for your enquiry, we will get back to you soon',
@@ -81,7 +81,7 @@ class Form extends React.Component {
                 name="firstname"
                 required
               />
-              <span>Firstname</span>
+              <span>First Name</span>
             </label>
             <label className="Form--Label">
               <input
@@ -91,30 +91,9 @@ class Form extends React.Component {
                 name="lastname"
                 required
               />
-              <span>Lastname</span>
+              <span>Last Name</span>
             </label>
           </div>
-          <fieldset>
-            <label className="Form--Label Form--Radio">
-              <input
-                className="Form--RadioInput"
-                type="radio"
-                name="gender"
-                value="male"
-                defaultChecked
-              />
-              <span>Male</span>
-            </label>
-            <label className="Form--Label Form--Radio">
-              <input
-                className="Form--RadioInput"
-                type="radio"
-                name="gender"
-                value="female"
-              />
-              <span>Female</span>
-            </label>
-          </fieldset>
           <label className="Form--Label">
             <input
               className="Form--Input Form--InputText"
@@ -125,6 +104,17 @@ class Form extends React.Component {
             />
             <span>Email address</span>
           </label>
+          <label className="Form--Label">
+            <input
+              className="Form--Input Form--InputText"
+              type="phone"
+              placeholder="Phone"
+              name="phone"
+              required
+            />
+            <span>Phone Number</span>
+          </label>
+
           <label className="Form--Label has-arrow">
             <select
               className="Form--Input Form--Select"
@@ -133,22 +123,23 @@ class Form extends React.Component {
               required
             >
               <option disabled hidden>
-                Type of Enquiry
+                Type of Case
               </option>
-              <option>Need to know more</option>
-              <option>Found a bug</option>
-              <option>Want to say hello</option>
+              <option>Injury Case</option>
+              <option>Accident Case</option>
+              <option>Insurance Claim</option>
+              <option>Other</option>
             </select>
           </label>
           <label className="Form--Label">
             <textarea
               className="Form--Input Form--Textarea Form--InputText"
-              placeholder="Message"
+              placeholder="Describe your case"
               name="message"
               rows="10"
               required
             />
-            <span>Message</span>
+            <span>Describe your case</span>
           </label>
           <label className="Form--Label Form-Checkbox">
             <input

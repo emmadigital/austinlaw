@@ -15,7 +15,7 @@ meta:
 ---
 <!--StartFragment-->
 
-Three people were [killed in a crash](https://www.austinaccidentlawyer.com/practice-areas/wrongful-death-attorney/) in Round Rock late Sunday while four people were injured.
+Three people were [killed in a crash](/practice-areas/wrongful-death-attorney/) in Round Rock late Sunday while four people were injured.
 
 Officers responded to FM 1431 in between Interstate 35 and Stone Oak Drive around 11:25 p.m.
 
@@ -23,7 +23,7 @@ Three vehicles were involved in the crash and FM 1431 was closed until 5:25 a.m.
 
 Police said all three people who died are Round Rock residents.
 
-A 20-year-old man in one car and a 58-year-old woman and a 19-year-old woman in another car [died in the collision](https://www.austinaccidentlawyer.com/practice-areas/wrongful-death-attorney/).
+A 20-year-old man in one car and a 58-year-old woman and a 19-year-old woman in another car [died in the collision](/practice-areas/wrongful-death-attorney/).
 
 Four others were transported to a hospital and treated for non-life threatening injuries.
 

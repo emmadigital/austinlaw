@@ -20,7 +20,7 @@ meta:
 
 <!--StartFragment-->
 
-Amputations injuries are among the worst and most [horrific type of injury](https://www.austinaccidentlawyer.com/practice-areas/serious-personal-injury/) you can sustain. Losing a body part to trauma impacts a person not only physically, but also emotionally, leaving anger, bitterness, and resentment. The psychological injury is usually a consequence of how easily the injury could have been avoided. Â An experienced amputation injury attorney should be contacted to assist with any possible claim.
+Amputations injuries are among the worst and most [horrific type of injury](/practice-areas/serious-personal-injury/) you can sustain. Losing a body part to trauma impacts a person not only physically, but also emotionally, leaving anger, bitterness, and resentment. The psychological injury is usually a consequence of how easily the injury could have been avoided. Â An experienced amputation injury attorney should be contacted to assist with any possible claim.
 
 <!--EndFragment-->
 
@@ -43,11 +43,11 @@ We have the experience and the resources to properly investigate your case, dete
 Among the damages we may seek in your case are:
 
 * Medical care
-* [Lost wages and loss of earning capacity](https://www.austinaccidentlawyer.com/lost-wages-due-to-an-injury/)
+* [Lost wages and loss of earning capacity](/lost-wages-due-to-an-injury/)
 * Medical equipment, including prosthetic limbs
 * Rehabilitation
-* [Emotional distress](https://www.austinaccidentlawyer.com/practice-areas/emotional-injury/)
-* [Pain and suffering](https://www.austinaccidentlawyer.com/faq/pain-and-suffering/)
+* [Emotional distress](/practice-areas/emotional-injury/)
+* [Pain and suffering](/faq/pain-and-suffering/)
 
 - - -
 

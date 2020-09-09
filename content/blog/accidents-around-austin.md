@@ -21,7 +21,7 @@ Two people were taken to the hospital Wednesday after a collision in eastern Tra
 
 Medics responded around 2:35 p.m. to reports of a crash near the intersection of FM 973 North and Webberville Road, adding that it had confirmed that at least one person was pinned inside the wreck.
 
-Within a half-hour, the person had been pulled from the wreckage and taken to Dell Seton Medical Center with potentially [serious injuries](https://www.austinaccidentlawyer.com/practice-areas/serious-personal-injury/). The other person was taken to the hospital with injuries not expected to be life-threatening.
+Within a half-hour, the person had been pulled from the wreckage and taken to Dell Seton Medical Center with potentially [serious injuries](/practice-areas/serious-personal-injury/). The other person was taken to the hospital with injuries not expected to be life-threatening.
 
 ## Police seeking information on fatal hit-and-run in North Austin
 
@@ -31,17 +31,17 @@ Police on Monday identified the victim, Sarah Christina Dabadie, who died at the
 
 Authorities said Dabadie was on the roadway near the 9100 block of Research Boulevard for an unknown reason around 1:34 a.m. July 23 when a driver hit her with their car.
 
-“The driver/vehicle that [struck the pedestrian](https://www.austinaccidentlawyer.com/practice-areas/pedestrian-accident-lawyers/) did not stop and is unknown at this time,” police officials said in a Monday news release regarding the incident.
+“The driver/vehicle that [struck the pedestrian](/practice-areas/pedestrian-accident-lawyers/) did not stop and is unknown at this time,” police officials said in a Monday news release regarding the incident.
 
 Police said witnesses who drove by the area after Dabadie called 911 to report the incident. Officials confirmed Dabadie’s death around 1:56 a.m. later that day.
 
-Austin police officials said 43 [fatal crashes](https://www.austinaccidentlawyer.com/practice-areas/wrongful-death-attorney/) now have been documented this year.
+Austin police officials said 43 [fatal crashes](/practice-areas/wrongful-death-attorney/) now have been documented this year.
 
 People with information on the incident can call the Austin police vehicular homicide unit at 512-974-4278, or submit tips through the Austin police mobile app.
 
 ## One dies after crash in Jarrell
 
-One person has [died after a crash](https://www.austinaccidentlawyer.com/practice-areas/wrongful-death-attorney/) in Jarrell on Monday, according to the Williamson County sheriff’s office.
+One person has [died after a crash](/practice-areas/wrongful-death-attorney/) in Jarrell on Monday, according to the Williamson County sheriff’s office.
 
 Law enforcement officials tweeted around 4:51 p.m. Monday that officers were called out to respond to a major crash and a vehicle fire at the 12200 block of Interstate 35 in Jarrell, located about 30 miles north of Round Rock.
 
@@ -51,7 +51,7 @@ No further details were provided by the sheriff’s office on Monday.
 
 ## Police: 2 killed in wrong-way crash ID’d in Buda
 
-Two people who were [killed in a crash](https://www.austinaccidentlawyer.com/practice-areas/wrongful-death-attorney/) involving a wrongway driver last week have been identified as 27-yearold Jose Martin Zamarripa and 47-year-old Brian Allen Tucker, Austin police said.
+Two people who were [killed in a crash](/practice-areas/wrongful-death-attorney/) involving a wrongway driver last week have been identified as 27-yearold Jose Martin Zamarripa and 47-year-old Brian Allen Tucker, Austin police said.
 
 Police responded around 12:41 a.m. on Friday to the 13700 block of Interstate 35 South, just south of Texas 45 near Buda. Multiple 911 callers reported that a 2017 gray Nissan Altima was going south in the northbound lanes of the highway and had collided into a 2003 gold Chevrolet Silverado.
 
@@ -69,7 +69,7 @@ Anyone with information on the crash can call police at 512-974-4278. Tipsters c
 
 ## Police ID 2 teens killed in collision with truck in Northeast Austin
 
-Austin police on Tuesday identified two teens [killed last week in a crash](https://www.austinaccidentlawyer.com/practice-areas/wrongful-death-attorney/) involving multiple vehicles.
+Austin police on Tuesday identified two teens [killed last week in a crash](/practice-areas/wrongful-death-attorney/) involving multiple vehicles.
 
 Julian Murillo, 15, and Gabriel Marmolejo, 16, were traveling in a black Nissan sedan early Friday when police said they ran a red light and were struck by a box truck at the intersection of Cameron Road and East Anderson Lane.
 
@@ -85,7 +85,7 @@ People with more information about the incident can call Austin police at 512-97
 
 ## Police ID pedestrian hit, killed by car in Southeast Austin
 
-Austin police on Thursday identified a man who [died after being hit by a car](https://www.austinaccidentlawyer.com/practice-areas/wrongful-death-attorney/) last week in Southeast Austin.
+Austin police on Thursday identified a man who [died after being hit by a car](/practice-areas/wrongful-death-attorney/) last week in Southeast Austin.
 
 Police officials said Gilbert Hernandez Cortinas, 69, was in a roadway near the 1000 block of Old Bastrop Highway on July 24 when he was hit and killed by a graycolored Toyota minivan that was driving north on the road. Police received a call about the incident around 11:33 p.m., authorities said.
 

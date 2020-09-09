@@ -24,11 +24,11 @@ Pedestrian deaths are up this year -a third of the people who have died on Austi
 
 ![](/images/broken-glasses.jpg)
 
-The tally of pedestrian deaths steadily rose throughout the year, but a rash of [fatal crashes](https://www.austinaccidentlawyer.com/practice-areas/wrongful-death-attorney/) in November helped push that number closer to where it fell last year, when a record 102 people died in traffic incidents across the city. Pedestrian deaths last year made up 28 percent of all of the city's traffic deaths.
+The tally of pedestrian deaths steadily rose throughout the year, but a rash of [fatal crashes](/practice-areas/wrongful-death-attorney/) in November helped push that number closer to where it fell last year, when a record 102 people died in traffic incidents across the city. Pedestrian deaths last year made up 28 percent of all of the city's traffic deaths.
 
-But this year, despite having 25 fewer total [traffic deaths](https://www.austinaccidentlawyer.com/practice-areas/wrongful-death-attorney/) so far, the proportion of pedestrian deaths has increased to just over 33 percent.
+But this year, despite having 25 fewer total [traffic deaths](/practice-areas/wrongful-death-attorney/) so far, the proportion of pedestrian deaths has increased to just over 33 percent.
 
-Police Detective Patrick Oborski said authorities have recorded 75 fatal crashes in Austin in 2016 that killed 77 people. Of those, 26 were [pedestrians](https://www.austinaccidentlawyer.com/practice-areas/pedestrian-accident-lawyers/), the last of whom died Wednesday afternoon after he was hit at South Congress Avenue and Little Texas Lane just after 4 p.m.
+Police Detective Patrick Oborski said authorities have recorded 75 fatal crashes in Austin in 2016 that killed 77 people. Of those, 26 were [pedestrians](/practice-areas/pedestrian-accident-lawyers/), the last of whom died Wednesday afternoon after he was hit at South Congress Avenue and Little Texas Lane just after 4 p.m.
 
 At least two more pedestrian deaths occurred in the city on Dec. 17 and Dec. 20 one on Texas 71 and another near the Capitol but those cases were investigated by other agencies, a police spokesman said Wednesday.
 

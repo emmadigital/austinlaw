@@ -1,4 +1,6 @@
 ---
+template: DefaultPage
+slug: car-accident-app
 title: Car Accident App
 featuredImage: /images/animals.jpg
 meta:

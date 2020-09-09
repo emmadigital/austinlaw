@@ -1,4 +1,6 @@
 ---
+template: DefaultPage
+slug: deberia-firmar-el-acuerdo-de-liberacion-de-registros-medicos-confidenciales
 title: Deberi­a Firmar el Acuerdo de Liberacion de Registros Medicos Confidenciales?
 featuredImage: /images/animals.jpg
 meta:

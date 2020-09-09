@@ -1,4 +1,6 @@
 ---
+template: DefaultPage
+slug: no-cargos-si-no-hay-compensacion
 title: No Hay Cargos si No Hay Compensacion
 featuredImage: /images/animals.jpg
 meta:

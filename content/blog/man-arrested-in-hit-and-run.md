@@ -17,7 +17,7 @@ meta:
 ---
 <!--StartFragment-->
 
-Austin police have charged David Delacerda, 30, who is accused of [hitting a construction worker last week and leaving the scene](https://www.austinaccidentlawyer.com/blog/worker-killed-in-i-35-hit-and-run/), according to an arrest affidavit. The worker died.
+Austin police have charged David Delacerda, 30, who is accused of [hitting a construction worker last week and leaving the scene](/blog/worker-killed-in-i-35-hit-and-run/), according to an arrest affidavit. The worker died.
 
 Delacerda was arrested after he was released from Brooke Army Medical Center in San Antonio.
 

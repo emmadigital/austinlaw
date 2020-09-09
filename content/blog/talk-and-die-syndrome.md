@@ -23,6 +23,6 @@ The key take-away points are to immediately seek medical assistance if you
 * Headaches, weakness or balance problems
 * nausea or vomiting
 
-And if you need [legal represenation after an accident](https://www.austinaccidentlawyer.com/practice-areas/), call our office at (512) 343-2572.
+And if you need [legal represenation after an accident](/practice-areas/), call our office at (512) 343-2572.
 
 <!--EndFragment-->

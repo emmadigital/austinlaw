@@ -71,6 +71,6 @@ Follow any instructions the 911 operator gives you. Many 911 centers can provide
 
 After you've spoken to the police, you should talk with your insurance company. You may also need to contact a tow company or auto service agency, such as AAA.
 
-If you are the [victim of an auto accident, you may also need legal services](https://www.austinaccidentlawyer.com/about-us/contact-us/ "Contact Us") to protect your rights. Because of statutes of limitations, you have a limited amount of time before your claim expires.
+If you are the [victim of an auto accident, you may also need legal services](/contact-us/ "Contact Us") to protect your rights. Because of statutes of limitations, you have a limited amount of time before your claim expires.
 
 <!--EndFragment-->

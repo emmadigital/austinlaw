@@ -33,6 +33,6 @@ PIP does **not** cover injuries caused by using farm equipment, recreational or 
 
 
 
-If you were involved in an **accident in Texas**, we’ll be happy to mail it to you (together with a host of other free stuff.) You can either [email us](https://www.austinaccidentlawyer.com/contact-us/ "Contact Us"), **call us at (512) 343-2572**, or [fill in the form at right.](https://www.austinaccidentlawyer.com/faq/personal-injury-protection/)
+If you were involved in an **accident in Texas**, we’ll be happy to mail it to you (together with a host of other free stuff.) You can either [email us](/contact-us/ "Contact Us"), **call us at (512) 343-2572**, or [fill in the form at right.](/faq/personal-injury-protection/)
 
 <!--EndFragment-->

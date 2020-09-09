@@ -19,7 +19,7 @@ meta:
 ---
 <!--StartFragment-->
 
-As [attorneys representing drunk driver accident victims](https://www.austinaccidentlawyer.com/personal-injury-services/drunk-driving-accident-victims/ "Drunk Driving Accident Victims"), we see too often the devastation that these kinds of collisions can have on the lives of our clients.So we’ve put together some safety tips to help keep you safe from drunk drivers:
+As [attorneys representing drunk driver accident victims](/practice-areas/drunk-driving-accident-lawyer/ "Drunk Driving Accident Victims"), we see too often the devastation that these kinds of collisions can have on the lives of our clients.So we’ve put together some safety tips to help keep you safe from drunk drivers:
 
 ## How to Spot a Drunk Driver
 
@@ -54,6 +54,6 @@ From the National Highway Traffic Safety Administration, Here are some tips on h
 * Do not attempt to act in the capacity of any police, fire, or medical person unless you are properly trained and authorized to perform that function.
 * Do not attempt to assist any law enforcement officer while he or she is apprehending a drunk driver, unless requested.
 
-If you’ve been [hit by a drunk driver](https://www.austinaccidentlawyer.com/ "hit by a drunk driver"), be sure to contact the police, seek immediate medical attention, and call a [drunk driving accident attorney](https://www.austinaccidentlawyer.com/personal-injury-services/drunk-driving-accident-victims/ "Drunk Driving Accident Victims").
+If you’ve been [hit by a drunk driver](https://www.austinaccidentlawyer.com/ "hit by a drunk driver"), be sure to contact the police, seek immediate medical attention, and call a [drunk driving accident attorney](/practice-areas/drunk-driving-accident-lawyer/ "Drunk Driving Accident Victims").
 
 <!--EndFragment-->

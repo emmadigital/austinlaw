@@ -1,4 +1,6 @@
 ---
+template: DefaultPage
+slug: las-grandes-firmas-de-heridas-personales-pueden-ser-malas-para-su-caso
 title: Las Grandes Firmas de Heridas Personales Pueden Ser Malas para Su Caso
 featuredImage: /images/animals.jpg
 meta:

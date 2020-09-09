@@ -1,4 +1,6 @@
 ---
+template: DefaultPage
+slug: deberia-hablar-con-el-ajustador-de-la-compania-de-seguros-despues-de-un-accidente
 title: Deberia hablar con el ajustador de la compania de seguros despues de un
   accidente?
 featuredImage: /images/animals.jpg

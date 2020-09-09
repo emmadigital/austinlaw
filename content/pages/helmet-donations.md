@@ -1,4 +1,6 @@
 ---
+template: DefaultPage
+slug: helmet-donations
 title: Helmet Donations
 featuredImage: /images/animals.jpg
 meta:
@@ -23,9 +25,9 @@ Currently, Texas does not have a statewide helmet law. As a general matter, it i
 
 According to the U.S. Department of Transportation, based on 2015 data released in June 2017 and still the most recent data:
 
-* Â Â Â Â 818 bicyclists died on US roads in 2015, an increase of 12.2 per cent and the highest number since 1995. (It was 1,003 back in 1975)
-* Â Â Â Â 45,000 bicyclists were injured in traffic 1n 2015, down 10 per cent from 50,000 in 2014 (52,000 in 2010)
-* Â Â Â Â 37 Bicyclists 14 and under (7% of total) were killed in 2015. 5,000 were injured.
+* 818 bicyclists died on US roads in 2015, an increase of 12.2 per cent and the highest number since 1995. (It was 1,003 back in 1975)
+* 45,000 bicyclists were injured in traffic 1n 2015, down 10 per cent from 50,000 in 2014 (52,000 in 2010)
+* 37 Bicyclists 14 and under (7% of total) were killed in 2015. 5,000 were injured.
 
 [Ghisallo Cycling Initiative](http://ghisallo.org/) provides semester-long, after-school Bike Clubs with weekly bicycle maintenance and riding classes as well as an Earn-A-Bike program, Bicycle Rodeos, and maintenance and safety clinics. The majority of their participants are low-income, at-risk students.
 

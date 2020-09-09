@@ -23,7 +23,7 @@ How Do I Avoid a Truck Wreck?
 
 <!--StartFragment-->
 
-A [Texas truck accident attorney](https://www.austinaccidentlawyer.com/personal-injury-services/18-wheeler-and-truck-accidents/ "18 Wheeler and Truck Accidents") can represent you in the event that you’re injured because of negligent driving on the part of a big rig driver. The best thing you can do, however, is to avoid being involved in one of these crashes in the first place. Because of the incredible mass of these vehicles, they are uniquely deadly threats on the road and it’s very likely that anybody who is involved in a passenger car and big rig crash is going to be injured, if not killed.
+A [Texas truck accident attorney](/practice-areas/18-wheeler-and-truck-accidents/ "18 Wheeler and Truck Accidents") can represent you in the event that you’re injured because of negligent driving on the part of a big rig driver. The best thing you can do, however, is to avoid being involved in one of these crashes in the first place. Because of the incredible mass of these vehicles, they are uniquely deadly threats on the road and it’s very likely that anybody who is involved in a passenger car and big rig crash is going to be injured, if not killed.
 
 ### Seeing the Signs
 

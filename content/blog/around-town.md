@@ -17,7 +17,7 @@ meta:
 
 ## Jogger fatally hit by vehicle in Travis County
 
-A [jogger was hit and killed](https://www.austinaccidentlawyer.com/practice-areas/pedestrian-accident-lawyers/) by a vehicle in western Travis County early Wednesday, Austin-Travis County EMS medics said.
+A [jogger was hit and killed](/practice-areas/pedestrian-accident-lawyers/) by a vehicle in western Travis County early Wednesday, Austin-Travis County EMS medics said.
 
 Medics responded to the intersection of Bee Cave Parkway and RM 620 around 5:56 a.m. The area is north of Texas 71 near Hill Country Galleria.
 
@@ -65,6 +65,6 @@ The crash happened at the intersection of RM 620 and Low Water Crossing Road, ju
 
 EMS tweeted that one person was ejected from their vehicle and was taken to St. David’s Round Rock Medical Center with serious injuries. Another person was taken to Dell Seton Medical Center with potentially serious injuries, medics said.
 
-EMS said a third person was involved in the crash but did not appear to have [life-threatening injuries](https://www.austinaccidentlawyer.com/practice-areas/serious-personal-injury/).
+EMS said a third person was involved in the crash but did not appear to have [life-threatening injuries](/practice-areas/serious-personal-injury/).
 
 <!--EndFragment-->

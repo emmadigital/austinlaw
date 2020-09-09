@@ -69,12 +69,12 @@ Trauma, even minor trauma, is the major precipitating factor in CRPS. Surgery, f
 In one study, CRPS began following:
 
 * Surgery (33.5%)
-* [Slip and Fall](https://www.austinaccidentlawyer.com/practice-areas/slip-and-fall-injury-lawyers/) (19.8%)
-* [Fracture](https://www.austinaccidentlawyer.com/practice-areas/broken-bone-injury-attorneys/) (18.8%)
+* [Slip and Fall](/practice-areas/slip-and-fall-injury-lawyers/) (19.8%)
+* [Fracture](/practice-areas/broken-bone-injury-attorneys/) (18.8%)
 * Sprain (14.6%)
 * Crush Injury (14.2%)
 * Contusion (12.3%)
-* [Auto Accident](https://www.austinaccidentlawyer.com/practice-areas/car-accident-lawyers/) (3.9%)
+* [Auto Accident](/practice-areas/car-accident-lawyers/) (3.9%)
 * Other Trauma (3.2%)
 * Lacerations (1.0%)
 

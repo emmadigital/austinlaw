@@ -49,8 +49,8 @@ Here is a list of issues cited by Mr. Dietz on his site:
   * Body Shops rate **Farmers Insurance** worst.
   * Collision repair shops rated **Farmers Insurance** below-average with a grade of D plus or worse.
 
-Visit the site and you’ll also see victim stories, [how to file a complaint against an insurance company](https://www.austinaccidentlawyer.com/blog/how-to-file-a-complaint-against-an-insurance-company/), highlighted complaints, a list of companies affiliated with Farmers Insurance, and more.
+Visit the site and you’ll also see victim stories, [how to file a complaint against an insurance company](/blog/how-to-file-a-complaint-against-an-insurance-company/), highlighted complaints, a list of companies affiliated with Farmers Insurance, and more.
 
-If you’ve been injured and the other driver has Farmer’s Insurance, you’ll want to speak to an [experienced, personal injury trial lawyer](https://www.austinaccidentlawyer.com/meet-us/andrew-traub/) about your options. Call the Traub Law Office, P.C. today at (512) 343-2572 or [contact us online](https://www.austinaccidentlawyer.com/about-us/contact-us/ "Contact Us").
+If you’ve been injured and the other driver has Farmer’s Insurance, you’ll want to speak to an [experienced, personal injury trial lawyer](/meet-us/andrew-traub/) about your options. Call the Traub Law Office, P.C. today at (512) 343-2572 or [contact us online](/contact-us/ "Contact Us").
 
 <!--EndFragment-->

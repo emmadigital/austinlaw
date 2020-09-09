@@ -27,7 +27,7 @@ We offer you a free consultation. If you’ve been hurt, the last thing you need
 
 What is the purpose of the free initial consultation?
 
-[You might wonder, why should I contact an attorney if I am in a car accident?](https://www.austinaccidentlawyer.com/contact-attorney-car-accident/)
+[You might wonder, why should I contact an attorney if I am in a car accident?](/contact-attorney-car-accident/)
 
 The purpose of the free initial consultation is to:
 

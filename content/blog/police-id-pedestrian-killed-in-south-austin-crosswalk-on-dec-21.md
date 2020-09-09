@@ -15,11 +15,11 @@ meta:
 ---
 <!--StartFragment-->
 
-Austin police have identified a 35-year-old [pedestrian who was killed](https://www.austinaccidentlawyer.com/practice-areas/pedestrian-accident-lawyers/) while traveling in a crosswalk in South Austin last week.
+Austin police have identified a 35-year-old [pedestrian who was killed](/practice-areas/pedestrian-accident-lawyers/) while traveling in a crosswalk in South Austin last week.
 
 According to a preliminary police investigation, a white Toyota Prius was heading west on Little Texas Lane and turning south onto South Congress Avenue on Dec. 21 at 4:10 p.m.
 
-Curtis Thomas Grace was [in the crosswalk](https://www.austinaccidentlawyer.com/practice-areas/pedestrian-accident-lawyers/) with a walk signal when he was struck by the Prius making the turn, police said.
+Curtis Thomas Grace was [in the crosswalk](/practice-areas/pedestrian-accident-lawyers/) with a walk signal when he was struck by the Prius making the turn, police said.
 
 Grace was taken to a hospital, where he was pronounced dead.
 

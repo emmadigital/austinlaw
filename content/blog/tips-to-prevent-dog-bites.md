@@ -17,7 +17,7 @@ meta:
 
 Here are some basic facts from the American Veterinary Medical Association:
 
-* Each year, more than 4.5 million people in the United States are [bit by dogs.](https://www.austinaccidentlawyer.com/practice-areas/dog-bite-injury-lawyer/)
+* Each year, more than 4.5 million people in the United States are [bit by dogs.](/practice-areas/dog-bite-injury-lawyer/)
 * One in 5 dog bites require medical attention.
 * Children are the most-often bitten and are also the most likely to be severely injured.
 * Seniors are the second-most-often bitten.
@@ -68,6 +68,6 @@ Even if a dog has never bitten, don’t take it for granted. This might be the d
 
 ## What if You Are Bitten By a Dog
 
-Call 3-1-1 to make a report or 9-1-1 in an emergency. Talk to the owners of the dog and get a current rabies vaccination certificate. Also find out if the dog owners own their home or rent, and if rent, get the landlord’s contact information. Finally, contact an [experienced dog bite attorney](https://www.austinaccidentlawyer.com/practice-areas/dog-bite-injury-lawyer/) at our office by calling us as (512) 343-2572.
+Call 3-1-1 to make a report or 9-1-1 in an emergency. Talk to the owners of the dog and get a current rabies vaccination certificate. Also find out if the dog owners own their home or rent, and if rent, get the landlord’s contact information. Finally, contact an [experienced dog bite attorney](/practice-areas/dog-bite-injury-lawyer/) at our office by calling us as (512) 343-2572.
 
 <!--EndFragment-->

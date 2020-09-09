@@ -19,7 +19,7 @@ meta:
 ---
 <!--StartFragment-->
 
-Austin police have arrested a man who they said was [intoxicated when he crashed](https://www.austinaccidentlawyer.com/practice-areas/drunk-driving-accident-lawyer/) into a car on North Lamar Boulevard on Thursday night, sending another man to the hospital with life-threatening injuries, according to an arrest affidavit.
+Austin police have arrested a man who they said was [intoxicated when he crashed](/practice-areas/drunk-driving-accident-lawyer/) into a car on North Lamar Boulevard on Thursday night, sending another man to the hospital with life-threatening injuries, according to an arrest affidavit.
 
 Tremaine Purnell, 35, faces charges of intoxication assault and aggravated assault causing serious bodily injury, jail records show.
 
@@ -31,7 +31,7 @@ After missing the first vehicle, Purnell slammed into a second car that was wait
 
 Purnell hit the driverâ€™s side of that vehicle, a Honda SUV, the affidavit said. The impact moved the Honda completely off the road and into a utility pole, cracking the base of the pole and causing metal brackets to come off, the document said.
 
-The driver of the SUV was taken to Dell Seton Medical Center with [life-threatening injuries](https://www.austinaccidentlawyer.com/practice-areas/serious-personal-injury/), the affidavit said. Purnell was also taken to Dell Seton with potentially serious injuries, the document said.
+The driver of the SUV was taken to Dell Seton Medical Center with [life-threatening injuries](/practice-areas/serious-personal-injury/), the affidavit said. Purnell was also taken to Dell Seton with potentially serious injuries, the document said.
 
 Police located an open and empty beer bottle in Purnellâ€™s car, the affidavit said.
 

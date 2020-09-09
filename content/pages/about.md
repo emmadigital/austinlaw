@@ -1,4 +1,6 @@
 ---
+template: DefaultPage
+slug: about
 title: About
 featuredImage: /images/animals.jpg
 meta:

@@ -24,7 +24,7 @@ New-model cars are loaded with more driver distractions than ever before, includ
 \
 “It’s a staggering increase in the technology and complexity of the vehicle in the last two to three years,” said David Strayer, lead scientist in the study by the [AAA Foundation for Traffic Safety](https://www.aaafoundation.org/).
 
-Distracted driving is under-reported because many drivers don’t admit to their distraction. In 2015, the [National Highway Traffic Safety Administration](https://www.nhtsa.gov/) recorded that 3,477 people were killed and 391,000 were [injured in vehicle crashes involving distracted drivers](https://www.austinaccidentlawyer.com/practice-areas/distracted-driver/).
+Distracted driving is under-reported because many drivers don’t admit to their distraction. In 2015, the [National Highway Traffic Safety Administration](https://www.nhtsa.gov/) recorded that 3,477 people were killed and 391,000 were [injured in vehicle crashes involving distracted drivers](/practice-areas/distracted-driver/).
 
 The AAA foundation tested the distraction factor in 30 new car models, concluding that 23 had technology on board that demanded the driver pay a high or very high level of attention to it while the car was moving.
 

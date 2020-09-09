@@ -54,6 +54,6 @@ All the various types of subrogation are conceptually the same, but they each ha
 
 If the accident was your fault, you are responsible for the damages caused. If the accident was only partly your fault, you may be only responsible for a portion of the damages. The other driver's insurance company will likely subrogate against you or your insurance company to pay for the damage to their insured's car and/or their medical bills. Keep in mind that often you can negotiate the amount of damages that is being claimed and pay out the amount over time. If you don't have insurance and a claim is being subrogated against you, it is a good idea to contact a car accident lawyer to make sure you are not getting taken.
 
-If you were involved in an **accident in Texas**, we’ll be happy to mail it to you (together with a host of other free stuff.) You can either [email us](https://www.austinaccidentlawyer.com/contact-us/ "Contact Us"), **call us at (512) 343-2572**, or [fill in the form to the right.](https://www.austinaccidentlawyer.com/faq/subrogation/)
+If you were involved in an **accident in Texas**, we’ll be happy to mail it to you (together with a host of other free stuff.) You can either [email us](/contact-us/ "Contact Us"), **call us at (512) 343-2572**, or [fill in the form to the right.](/faq/subrogation/)
 
 <!--EndFragment-->

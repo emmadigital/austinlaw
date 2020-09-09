@@ -38,6 +38,6 @@ What are some defenses to negligence? **Contributory Negligence** is where the p
 
 An example of gross negligence would be driving drunk or texting while driving.
 
-If you have been injured in an accident and would like to know your legal rights, please call our law office at (512) 343-2572 or [contact us online](https://www.austinaccidentlawyer.com/about-us/contact-us/ "Contact Us"). Our lawyers can help you recover medical expenses, lost wages, and money for pain and suffering.
+If you have been injured in an accident and would like to know your legal rights, please call our law office at (512) 343-2572 or [contact us online](/contact-us/ "Contact Us"). Our lawyers can help you recover medical expenses, lost wages, and money for pain and suffering.
 
 <!--EndFragment-->

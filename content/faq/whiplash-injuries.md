@@ -39,6 +39,6 @@ It is important to understand that **injuries pertaining to whiplash are often o
 
 
 
-If you were involved in an **accident in Texas**, we’ll be happy to mail it to you (together with a host of other free stuff.) You can either [email us](https://www.austinaccidentlawyer.com/contact-us/ "Contact Us"), **call us at (512) 343-2572**, or [fill in the form to the right.](https://www.austinaccidentlawyer.com/faq/whiplash-injuries/)
+If you were involved in an **accident in Texas**, we’ll be happy to mail it to you (together with a host of other free stuff.) You can either [email us](/contact-us/ "Contact Us"), **call us at (512) 343-2572**, or [fill in the form to the right.](/faq/whiplash-injuries/)
 
 <!--EndFragment-->

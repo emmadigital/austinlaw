@@ -7,6 +7,8 @@ featuredImage: /images/distracted-driving-accidents-lawyers.jpg
 excerpt: A distracted driving accident is completely avoidable, yet occurs far
   too often. Studies show that drivers who are distracted can be as or more
   dangerous than drunk drivers.
+categories:
+  - category: Negligence
 meta:
   description: A distracted driving accident is completely avoidable, yet occurs
     far too often. Studies show that drivers who are distracted can be as or

@@ -7,6 +7,8 @@ featuredImage: /images/pedestrian-accident-lawyers.jpg
 excerpt: According to the CDC, In 2015, 5,376 pedestrians were killed in traffic
   crashes in the United States. This averages to one crash-related pedestrian
   death every 1.6 hours.
+categories:
+  - category: Negligence
 meta:
   description: According to the CDC, In 2015, 5,376 pedestrians were killed in
     traffic crashes in the United States. This averages to one crash-related

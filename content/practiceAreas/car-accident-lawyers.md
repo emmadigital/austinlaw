@@ -8,6 +8,8 @@ excerpt: The screeching of tires. The crunching of metal. The fear and the
   sudden moment of terror when you realize you and your passengers aren’t okay.
   If you’ve been involved in a Texas car accident, you know what this feels like
   all too well.
+categories:
+  - category: Negligence
 meta:
   title: Car Accident Lawyers in Austin
   description: The screeching of tires. The crunching of metal. The fear and the

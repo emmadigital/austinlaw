@@ -142,7 +142,7 @@ export const pageQuery = graphql`
         wwcsubheading
         accordion {
           title
-          description
+          contentheading
           content
         }
         experiencesection {

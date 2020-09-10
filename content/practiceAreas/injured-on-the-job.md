@@ -7,6 +7,8 @@ featuredImage: /images/case-results.jpg
 excerpt: Texas is the only state that allows employers to opt out of having
   workers’ compensation. Even though having workers’ compensation insurance is
   in the best interest of an employer’s business, some choose not to have it.
+categories:
+  - category: Injured on the Job
 meta:
   title: Injured On The Job
   description: Texas is the only state that allows employers to opt out of having

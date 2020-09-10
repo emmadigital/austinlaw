@@ -8,6 +8,8 @@ excerpt: "A slip and fall injury can be devastating: fractures, serious injury,
   injuries that are likely to become serious like a back or neck injury with
   radiating pain in to the extremities indicative of disc involvement and even
   chronic regional pain syndrome also called CRPS or RSD."
+categories:
+  - category: Negligence
 meta:
   title: Slip and Fall Injury Lawyers
   description: "A slip and fall injury can be devastating: fractures, serious

@@ -7,7 +7,7 @@ featuredImage: /images/accident-arround-austin.jpg
 excerpt: A “wrongful death” occurs when a person is killed due to the negligence
   or misconduct of another individual, company or entity.
 categories:
-  - category: Negligence
+  - category: Serious Personal Injury
 meta:
   title: Wrongful Death Attorney
   description: A “wrongful death” occurs when a person is killed due to the

@@ -8,6 +8,8 @@ excerpt: >
   A dog bite injury lawyer will be your best friend if you are bitten by a dog.
   Dogs are man’s best friend. Except when they’re not. Sometimes a careless
   owner, combined with the dangerous nature of certain dogs, leads to tragedy.
+categories:
+  - category: Negligence
 meta:
   title: Dog Bite Injury Lawyer
   description: >

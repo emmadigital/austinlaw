@@ -7,6 +7,8 @@ featuredImage: /images/underinsured-claims.jpg
 excerpt: Uninsured and underinsured insurance claims (UM/UIM) are a type of
   first-party insurance dispute claim that aims to protect you if you are
   involved in accidents with uninsured or underinsured drivers.
+categories:
+  - category: Negligence
 meta:
   description: Uninsured and underinsured insurance claims (UM/UIM) are a type of
     first-party insurance dispute claim that aims to protect you if you are

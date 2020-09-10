@@ -7,6 +7,8 @@ featuredImage: /images/defective-airbag-lawyer.jpg
 excerpt: When airbags work correctly they can play an important role in saving
   your life during an accident. However, airbags can also be dangerous which
   makes hiring the right defective airbag lawyer important.
+categories:
+  - category: Negligence
 meta:
   title: Defective Airbag Lawyer
   description: When airbags work correctly they can play an important role in

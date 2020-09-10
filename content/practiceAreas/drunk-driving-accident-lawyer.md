@@ -7,6 +7,8 @@ featuredImage: /images/austin-drunk-driving-lawyers.jpg
 excerpt: We are drunk driving accident lawyers who represent the victims in a
   civil suit to recover for their lost wages, property damage, medical bills,
   pain and suffering, and the emotional pain from almost being killed.
+categories:
+  - category: Negligence
 meta:
   description: We are drunk driving accident lawyers who represent the victims in
     a civil suit to recover for their lost wages, property damage, medical

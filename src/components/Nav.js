@@ -85,6 +85,12 @@ export class Navigation extends Component {
                      Tell Us About Your Case
                     </NavLink>
                     <NavLink
+                      to="/community/"
+                      className="Nav--GroupLink"
+                    >
+                      Community Work
+                    </NavLink>
+                    <NavLink
                       to="/meet-us/free-consultation/"
                       className="Nav--GroupLink"
                     >

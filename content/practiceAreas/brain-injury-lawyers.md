@@ -9,7 +9,6 @@ excerpt: Brain injuries can be devastating for the person injured and their
   adequately diagnosed.
 categories:
   - category: Serious Personal Injury
-  - category: Brain Injury
 meta:
   title: Brain Injury Lawyers
   description: Brain injuries can be devastating for the person injured and their

@@ -7,6 +7,8 @@ featuredImage: /images/austin-running-red-light-accident-lawyer.jpg
 excerpt: Red-light running is a serious intersection safety issue across the
   nation. According to the National Highway Traffic Safety Administration’s
   (NHTSA) Traffic Safety Facts 2008 Report.
+categories:
+  - category: Negligence
 meta:
   description: Red-light running is a serious intersection safety issue across the
     nation. According to the National Highway Traffic Safety Administration’s

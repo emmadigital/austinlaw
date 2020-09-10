@@ -7,6 +7,8 @@ featuredImage: /images/back-injury-slider.jpg
 excerpt: We are experienced soft tissue damage attorneys who represent car
   accident and truck accident victims in Travis County, Williamson County, Hays
   County, and neighboring communities throughout central Texas.
+categories:
+  - category: Spinal Cord Injuries
 meta:
   title: Soft Tissue Damage Attorneys
   description: We are experienced soft tissue damage attorneys who represent car

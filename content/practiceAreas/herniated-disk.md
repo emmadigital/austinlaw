@@ -6,6 +6,8 @@ date: 2020-09-05
 featuredImage: /images/serious-personal-injury.jpg
 excerpt: A disk is a donut shaped rubbery cushion between each of the individual
   bones or vertebrae that stack up to make up your spine.
+categories:
+  - category: Spinal Cord Injuries
 meta:
   title: Herniated Disk (Ruptured Disk or Slipped Disk)
   description: A disk is a donut shaped rubbery cushion between each of the

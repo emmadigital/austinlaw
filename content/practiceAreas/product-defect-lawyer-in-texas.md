@@ -7,6 +7,8 @@ featuredImage: /images/austin-product-defect-lawyer.jpg
 excerpt: If you have been injured or suffered other damages because of a product
   you used, you may have a defective product liability claim and will want to
   contact an experienced product defect lawyer.
+categories:
+  - category: Negligence
 meta:
   title: Product Defect Lawyer in Texas
   description: If you have been injured or suffered other damages because of a

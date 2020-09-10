@@ -8,6 +8,8 @@ excerpt: The motorcycle accident attorneys at the The Traub Law Office have seen
   the sometimes devastating injuries that result from motorcycle accidents, and
   we understand the pain and debilitation. Let us handle your motorcycle
   insurance claims.
+categories:
+  - category: Negligence
 meta:
   description: The motorcycle accident attorneys at the The Traub Law Office have
     seen the sometimes devastating injuries that result from motorcycle

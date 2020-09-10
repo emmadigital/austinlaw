@@ -7,8 +7,7 @@ featuredImage: /images/brain-injury-lawyer.jpg
 excerpt: New research on what causes a concussion injury has been conducted that
   examines how the neurons axon is affected by blows to the head.
 categories:
-  - category: Serious Personal Injury
-  - category: Brain Injury
+  - category: Spinal Cord Injuries
 meta:
   title: Concussion Injury Mechanism
   description: New research on what causes a concussion injury has been conducted

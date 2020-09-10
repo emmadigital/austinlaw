@@ -7,6 +7,8 @@ featuredImage: /images/car-maintenance.jpg
 excerpt: Regular preventative maintenance will keep your car operating optimally
   and prolong its life. However, keeping up to date with maintenance is easier
   said than done.
+categories:
+  - category: Negligence
 meta:
   title: Improperly Maintained Cars
   description: Regular preventative maintenance will keep your car operating

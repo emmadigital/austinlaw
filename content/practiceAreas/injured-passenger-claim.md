@@ -6,7 +6,8 @@ date: 2020-09-06
 featuredImage: /images/passenger-injury-lawyer.jpg
 excerpt: Do you have any rights to compensation if you are the injured passenger
   in a car accident? Who would you seek compensation from?
-categories: []
+categories:
+  - category: Negligence
 meta:
   description: Do you have any rights to compensation if you are the injured
     passenger in a car accident? Who would you seek compensation from?

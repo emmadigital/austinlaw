@@ -1,6 +1,7 @@
 import React from 'react'
 import _get from 'lodash/get'
 import { Link, graphql } from 'gatsby'
+import { ChevronLeft } from 'react-feather'
 
 import PageHeader from '../components/PageHeader'
 import Content from '../components/Content.js'
@@ -26,6 +27,10 @@ export const TestimonialsPageTemplate = ({
     />
     <section className="section">
       <div className="container">
+      <Link className="SinglePost--BackButton" to="/testimonials/">
+          <ChevronLeft /> BACK
+        </Link>
+        <br />   
       <img src={featuredImage.replace(new RegExp("../../static"), '')} alt="rating"
       style={{
         borderRadius: '50%',

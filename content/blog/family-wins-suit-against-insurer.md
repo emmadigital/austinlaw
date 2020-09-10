@@ -27,6 +27,6 @@ In an 8-1 decision, the Supreme Court correctly ruled that Gibbons would have vo
 
 Justice Willett, writing for the majority, pointed out that Nationwide’s position would jeopardize insurance coverage for common accidents, such as when a driver intentionally runs a red light or speeds to save time.
 
-If you’ve been injured in a [car accident in Texas](https://www.austinaccidentlawyer.com/), please call our office at (512) 343-2572.
+If you’ve been injured in a [car accident in Texas](/), please call our office at (512) 343-2572.
 
 <!--EndFragment-->

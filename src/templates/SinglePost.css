@@ -74,6 +74,8 @@
   font-size: 1.2rem;
   font-weight: 600;
   text-decoration: none;
+  max-width: 250px;
+  word-break: normal;
 }
 
 
@@ -118,9 +120,6 @@
  
 }
 
-
-
-
 .media-center {
 display: block;
 margin-bottom: 1rem;
@@ -132,4 +131,11 @@ margin-bottom: 1rem;
   font-size: 1.7rem;
   margin-top: 2rem;
 
+}
+
+.catLink{
+
+}
+.catLink:hover{
+  text-decoration: underline;
 }

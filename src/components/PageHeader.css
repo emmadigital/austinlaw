@@ -38,4 +38,7 @@
   .PageHeader-large {
     padding: 12.5rem 0;
   }
+  .PageHeader--Title {
+    font-size: 4rem;
+  }
 }

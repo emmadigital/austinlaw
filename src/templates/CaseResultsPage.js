@@ -1,6 +1,7 @@
 import React from 'react'
 import _get from 'lodash/get'
 import { Link, graphql } from 'gatsby'
+import { ChevronLeft } from 'react-feather'
 
 import CountUp from 'react-countup';
 import Fade from 'react-reveal/Fade';
@@ -32,10 +33,14 @@ export const CaseResultsPageTemplate = ({
       excerpt={excerpt}
       backgroundImage={featuredImage}
     />
-
+      
       <Fade top>
       <section className="section">
       <div className="container">
+      <Link className="SinglePost--BackButton" to="/case-results/">
+          <ChevronLeft /> BACK
+        </Link>
+        <br />  
       <h1 style={{textAlign: 'center', fontSize: '44px'}}><Content source={body} /></h1>
       </div>
       </section>

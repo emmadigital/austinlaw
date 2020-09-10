@@ -11,6 +11,7 @@ import Slide from 'react-reveal/Slide';
 import Content from '../components/Content'
 import Layout from '../components/Layout'
 import PageHeader from '../components/PageHeader'
+import { ChevronLeft } from 'react-feather'
 
 import './SinglePost.css'
 
@@ -37,11 +38,15 @@ export const SinglePostTemplate = ({
       itemType="http://schema.org/BlogPosting"
     >
       <div className="container skinny">
+      <Link className="SinglePost--BackButton" to="/blog/">
+          <ChevronLeft /> BACK
+        </Link>
+        <br />
         <div className="SinglePost--Content relative">
         <div className="media-center">
         <Slide bottom><img src={author} className="author-image" alt="Andrew Traub" /> </Slide>
         </div>
-        <div className="media-content"><strong style={{color:'maroon'}}><FontAwesomeIcon icon={faUserCircle} size="1x" /></strong> Andrew Traub</div>
+        <div className="media-content"><strong style={{color:'maroon'}}><FontAwesomeIcon icon={faUserCircle} size="1x" /></strong><Link className="catLink" to="/meet-us/andrew-traub"> Andrew Traub</Link></div>
           <div className="SinglePost--Meta">
          
           {date && (
@@ -57,6 +62,9 @@ export const SinglePostTemplate = ({
               <Fragment>
                 <span>|</span><FontAwesomeIcon icon={faTags} size="1x" />
                 {categories.map((cat, index) => (
+                  <Link 
+                  className="catLink"
+                  to={`/category/${cat.category.replace(/\s+/g, '-').toLowerCase()}`}>
                   <span
                     key={cat.category}
                     className="SinglePost--Meta--Category"
@@ -65,6 +73,7 @@ export const SinglePostTemplate = ({
                     {/* Add a comma on all but last category */}
                     {index !== categories.length - 1 ? ',' : ''}
                   </span>
+                  </Link>
                 ))}
               </Fragment>
             )}

@@ -3,8 +3,8 @@ template: PracticeAreasIndex
 slug: practice-areas
 title: Practice Areas
 featuredImage: /images/practiceAreas.jpg
-subtitle: This is the practice areas page subtitle.
+subtitle: From car accidents to slip and fall injuries, we’ve got you covered.
 meta:
-  description: This is a meta description.
-  title: Practice Areas
+  description: From car accidents to slip and fall injuries, we’ve got you covered.
+  title: Austin Accident Lawyers Practice Areas
 ---

@@ -95,7 +95,7 @@
   resize: none;
   width: 100%;
   transition: 0.3s ease all;
-  background: url('../../static/images/usaFlag.jpg') no-repeat right 45px center;
+  background: url('../../static/images/usaFlag.jpg') no-repeat right 32px center;
 }
 
 .Form--Select {

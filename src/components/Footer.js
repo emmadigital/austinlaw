@@ -2,10 +2,12 @@ import React from 'react'
 import './Footer.css'
 import FormSimpleAjax from '../components/FormSimpleAjax'
 import { MapPin, Smartphone, Mail, Clock, Facebook, Twitter, Linkedin, Youtube } from 'react-feather'
+import Fade from 'react-reveal/Fade';
 
 const address= "The Traub Law Office, P.C. 8701 Shoal Creek Blvd Suite 401, Austin, TX 78757"
 
 export default () => (
+ <Fade> 
   <div>
   
     <footer className="footer">
@@ -78,4 +80,5 @@ export default () => (
       </div>
     </footer>
   </div>
+</Fade>  
 )

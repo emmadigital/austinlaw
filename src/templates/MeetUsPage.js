@@ -1,5 +1,6 @@
 import React from 'react'
-import { graphql } from 'gatsby'
+import { graphql, Link } from 'gatsby'
+import { ChevronLeft } from 'react-feather'
 
 import PageHeader from '../components/PageHeader'
 import Content from '../components/Content'
@@ -21,6 +22,10 @@ export const MeetUsPageTemplate = ({
 
     <section className="section">
       <div className="container">
+      <Link className="SinglePost--BackButton" to="/meet-us/">
+          <ChevronLeft /> BACK
+        </Link>
+        <br /> 
         <Content source={body} />
       </div>
     </section>

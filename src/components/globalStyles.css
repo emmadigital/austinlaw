@@ -99,10 +99,11 @@ pre code:after {
 blockquote {
   margin-left: 0;
   padding-left: 1em;
-  line-height: 1.1;
-  font-size: 1em;
+  line-height: 1.7em;
+  font-size: 1.5em;
   font-style: italic;
-  border-left: 2px solid var(--primary);
+  border-left: 10px solid var(--primary);
+
 }
 
 /* Utility Classes */

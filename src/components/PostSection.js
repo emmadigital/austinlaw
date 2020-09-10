@@ -28,6 +28,8 @@ class PostSection extends React.Component {
       visiblePosts = blog.slice(0, limit || blog.length)
 
     return (
+      visiblePosts.length === 0 ? (<div><p>No Content available for this Category at the moment, please check later.</p></div>
+        ) : (
       <div className="PostSection">
         {title && <h2 className="PostSection--Title">{title}</h2>}
         {!!visiblePosts.length && (
@@ -45,6 +47,7 @@ class PostSection extends React.Component {
           </div>
         )}
       </div>
+        )
     )
   }
 }

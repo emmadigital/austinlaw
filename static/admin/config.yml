@@ -39,6 +39,8 @@ collections: # A list of collections the CMS should be able to edit
           - { label: Body, name: body, widget: markdown }
           - { label: Address, name: address, widget: text }
           - { label: Phone, name: phone, widget: string }
+          - { label: Secondary Phone, name: secphone, widget: string }
+          - { label: Fax, name: fax, widget: string }
           - { label: Email Address, name: email, widget: string }
           - name: locations
             label: locations
@@ -1759,6 +1761,45 @@ collections: # A list of collections the CMS should be able to edit
                       widget: boolean,
                       required: false,
                     }                                        
+      - file: 'content/pages/thank-you.md'
+        label: 'Thank You Page'
+        name: 'thank-you-page'
+        fields:
+              - {
+                  label: Template,
+                  name: template,
+                  widget: hidden,
+                  default: ThankYouPage,
+                }
+              - { label: Slug, name: slug, widget: hidden, default: 'thank-you' }
+              - { label: Title, name: title, widget: string }
+              - { label: Featured Image, name: featuredImage, widget: image }
+              - { label: Content, name: body, widget: markdown }
+              - label: 'Meta'
+                required: false
+                name: 'meta'
+                widget: 'object'
+                fields:
+                  - { label: Title, name: title, widget: string, required: false }
+                  - {
+                      label: Description,
+                      name: description,
+                      widget: text,
+                      required: false,
+                    }
+                  - {
+                      label: Canonical Link,
+                      name: canonicalLink,
+                      widget: string,
+                      required: false,
+                    }
+                  - {
+                      label: Noindex,
+                      name: noindex,
+                      widget: boolean,
+                      required: false,
+                    }                                        
+
   - name: practiceAreas
     label: Practice Areas
     editor:
@@ -2021,7 +2062,7 @@ collections: # A list of collections the CMS should be able to edit
     label: Meet Us
     editor:
       preview: true
-    folder: content/meetus
+    folder: content/meet-us
     slug: '{{slug}}'
     create: true # Allow users to create new documents in this collection
     fields: # The fields each document in this collection have

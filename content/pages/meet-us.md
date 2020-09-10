@@ -3,10 +3,10 @@ template: MeetUsPage
 slug: meet-us
 title: Meet Us
 featuredImage: /images/animals.jpg
-subtitle: This is the meet us page subtitle.
+subtitle: When you hire us, you get a lawyer who you can speak to, not a paralegal.
 meta:
-  description: This is a meta description.
-  title: Meet Us Page
+  description: When you hire us, you get a lawyer who you can speak to, not a paralegal.
+  title: Meet Us, Austin Accident Lawyers
 ---
 ![](/images/author.jpg)
 

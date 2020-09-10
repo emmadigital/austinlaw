@@ -9,6 +9,7 @@ import Slider from 'react-animated-slider';
 import 'react-animated-slider/build/horizontal.css';
 import Features from '../components/Features'
 import Flip from 'react-reveal/Flip';
+import Fade from 'react-reveal/Fade';
 import AliceCarousel from "react-alice-carousel";
 import "react-alice-carousel/lib/alice-carousel.css";
 
@@ -18,7 +19,7 @@ import './custom.scss';
 import { library } from '@fortawesome/fontawesome-svg-core'
 
 // Export Template for use in CMS preview
-export const HomePageTemplate = ({ title, subtitle, featuredImage, body, intro, cover, heroslider, accordion, ctaheading, experiencesection, experiencevideo }) => (
+export const HomePageTemplate = ({ title, subtitle, featuredImage, body, intro, cover, wwcheading, wwcsubheading, heroslider, accordion, ctaheading, experiencesection, experiencevideo }) => (
   <main className="Home">
     <Slider className="slider-wrapper" autoplay={3000}>
 			{heroslider.slider.map((item, index) => (
@@ -45,7 +46,7 @@ export const HomePageTemplate = ({ title, subtitle, featuredImage, body, intro, 
       <Features gridItems={intro.blurbs} />
       </div>
     </section>
-
+    <Fade left cascade>
   <section>
  <div class="group">
     <div class="left2">
@@ -60,15 +61,23 @@ export const HomePageTemplate = ({ title, subtitle, featuredImage, body, intro, 
     <div class="right2">
     <Content source={experiencevideo} />    </div>
 </div>
-
  </section>
+ </Fade>
  <br />
  <br />
  <br />
     <section className="section">
     <div class="container">
+    <div className="taCenter">
+    <Flip bottom>  
+    <h1>{wwcheading}</h1>
+    <p>{wwcsubheading}</p>
+    </Flip>
+    </div>
+    <Fade bottom cascade>
+    <div>    
     {cover.coversection.map((item, index) => (
-
+    
     <div class="items">
         <div class="items-head">
           <p>{item.sectionheading}</p>
@@ -80,9 +89,11 @@ export const HomePageTemplate = ({ title, subtitle, featuredImage, body, intro, 
          ><Content source={item.sectiontext} /> </p>
          </div>
       </div>))}  
+      </div>
+      </Fade>
      </div>      
      </section>
-
+     <Fade bottom>
     <section className="section">
       <div className="container">
         <div className="section_3">
@@ -90,7 +101,7 @@ export const HomePageTemplate = ({ title, subtitle, featuredImage, body, intro, 
         </div>
         </div>
     </section>
-
+    </Fade>
     <Flip top>
     <div className="ctaheading2">
     <h1>Frequently Asked Questions</h1><br />
@@ -127,6 +138,8 @@ export const pageQuery = graphql`
         subtitle
         featuredImage
         ctaheading
+        wwcheading
+        wwcsubheading
         accordion {
           title
           description

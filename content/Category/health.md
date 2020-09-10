@@ -2,5 +2,5 @@
 template: BlogIndex
 title: Health
 subtitle: ''
-featuredImage: /images/animals.jpg
+featuredImage: /images/medical-malpractice.jpg
 ---

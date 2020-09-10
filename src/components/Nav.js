@@ -121,7 +121,7 @@ export class Navigation extends Component {
                       Guides
                     </NavLink>
                     <NavLink
-                      to="/resources/car-accident-app/"
+                      to="/car-accident-app/"
                       className="Nav--GroupLink"
                     >
                      Car Accident App
@@ -228,75 +228,8 @@ export class Navigation extends Component {
               </span>
             </div>
 
-            <div
-              className={`Nav--Group ${
-                this.state.activeSubNav === 'practice-areas' ? 'active' : ''
-              }`}
-            >
-              <span
-                className={`NavLink Nav--GroupParent ${
-                  this.props.location.pathname.includes('practice-areas') ||
-                  this.props.location.pathname.includes('practice-areas') ||
-                  this.props.location.pathname.includes('categories')
-                    ? 'active'
-                    : ''
-                }`}
-                onClick={() => this.toggleSubNav('practice-areas')}
-              >
-                Injuries
-                <div className="Nav--GroupLinks">
-                    <NavLink
-                      to="/practice-category/serious-personal-injury/"
-                      className="Nav--GroupLink"
-                    >
-                     Serious Personal Injury
-                    </NavLink>
-                    <NavLink
-                      to="/practice-areas/injured-on-the-job/"
-                      className="Nav--GroupLink"
-                    >
-                     Injured on the Job
-                    </NavLink>
-
-  
-                </div>
-              </span>
-            </div>
- 
-            <div
-              className={`Nav--Group ${
-                this.state.activeSubNav === 'blog' ? 'active' : ''
-              }`}
-            >
-              <span
-                className={`NavLink Nav--GroupParent ${
-                  this.props.location.pathname.includes('blog') ||
-                  this.props.location.pathname.includes('blog') ||
-                  this.props.location.pathname.includes('categories')
-                    ? 'active'
-                    : ''
-                }`}
-                onClick={() => this.toggleSubNav('blog')}
-              >
-                Blog
-                <div className="Nav--GroupLinks">
-                  <NavLink to="/blog/" className="Nav--GroupLink">
-                    All Posts
-                  </NavLink>
-                  {subNav.blog.map((link, index) => (
-                    <NavLink
-                      to={link.slug}
-                      key={'blog-subnav-link-' + index}
-                      className="Nav--GroupLink"
-                    >
-                      {link.title}
-                    </NavLink>
-                  ))}
-                </div>
-              </span>
-            </div>
-
-
+            <NavLink to="/practice-areas/">Injuries</NavLink>
+            <NavLink to="/blog/">Blog</NavLink>         
             <NavLink to="/testimonials/">Testimonials</NavLink>
             <NavLink to="/helmet-donations/">Giving Back</NavLink>
             <NavLink to="/contact-us/">Contact</NavLink>

@@ -7,6 +7,8 @@ featuredImage: /images/austin-truck-accident-lawyers-.jpg
 excerpt: As experienced truck accident lawyers practicing in Austin, Texas,
   we’ve seen firsthand the catastrophic injuries our clients have suffered
   because the truck driver was not paying attention, tired, or even drunk.
+categories:
+  - category: Negligence
 meta:
   description: As experienced truck accident lawyers practicing in Austin, Texas,
     we’ve seen firsthand the catastrophic injuries our clients have suffered

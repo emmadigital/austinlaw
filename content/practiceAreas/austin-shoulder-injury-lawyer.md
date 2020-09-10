@@ -9,7 +9,7 @@ excerpt: A shoulder injury is a serious injury, especially if the rotator cuff
   during the rebound phase (in a rear-end accident) or when a motorcyclist has
   to lay down his bike to avoid a worse motorcycle collision.
 categories:
-  - category: Serious Personal Injury
+  - category: Spinal Cord Injuries
 meta:
   description: A shoulder injury is a serious injury, especially if the rotator
     cuff is torn which can occur in a car when the seat-belt catches the

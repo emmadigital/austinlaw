@@ -3,7 +3,7 @@ template: SinglePost
 title: New study shows technology can prevent truck wrecks
 status: Published
 date: 2020-09-04
-featuredImage: /images/animals.jpg
+featuredImage: /images/austin-truck-accident-lawyers-.jpg
 excerpt: Safety features such as automatic emergency braking and forward
   collision warnings could prevent more than 40% of crashes in which semis
   rear-end other vehicles, a new study has found.

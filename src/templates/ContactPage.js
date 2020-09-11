@@ -1,7 +1,6 @@
 import React from 'react'
 import { graphql } from 'gatsby'
 
-import FormReferrals from '../components/FormReferrals'
 import PageHeader from '../components/PageHeader'
 import Content from '../components/Content'
 import GoogleMap from '../components/GoogleMap'

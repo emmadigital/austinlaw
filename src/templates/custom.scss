@@ -636,6 +636,13 @@ button {
   .Content li{
     margin-left: -12%!important;
   }  
+  .CaseResult {
+    display: block!important;
+    column-count: 1!important;
+    column-gap: 10px;
+  }
+
+
 }
 
 /* Extra small devices (phones, 600px and down) */
@@ -694,7 +701,7 @@ button {
  
  /* Small devices (portrait tablets and large phones, 600px and up) */
  @media only screen and (min-width: 600px) {
-   
+
  }
  
  /* Medium devices (landscape tablets, 768px and up) */
@@ -794,7 +801,6 @@ button {
   display: flex;
   column-count: 2;
   column-gap: 20px;
-
 }
 
 .slick-prev:before, .slick-next:before {
@@ -802,16 +808,16 @@ color: var(--primary)!important;
 }
 
 .slick-prev:before {
-  padding-left: 8px;
+  margin-left: 20%;
   }
 
 .slick-next:before {
-margin-left: -15%;}  
+margin-left: -100%;
+}  
 
 
 .RecentPosts{
- padding-left: 12px;
- padding-right: 12px;
+ margin:0 5%;
 }
 
 .RecentPosts a{
@@ -843,18 +849,18 @@ margin-left: -15%;}
 
 .RecentPosts img{
   width: 100%;
-  max-width: 270px;
+  max-width: 290px;
   height: auto;
 }
 
 .RecentPosts p{
   width: 100%;
-  max-width: 270px;
+  max-width: 290px;
   vertical-align: middle;
   font-size: 0.95em;
 }
 
 .RecentPosts h4{
   vertical-align: middle;
-  max-width: 260px;
+  max-width: 280px;
 }

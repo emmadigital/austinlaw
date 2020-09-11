@@ -15,6 +15,9 @@ exports.createPages = ({ actions, graphql }) => {
             frontmatter {
               template
               title
+              categories {
+                category
+              }
             }
             fields {
               slug
@@ -45,6 +48,7 @@ exports.createPages = ({ actions, graphql }) => {
 
       pagesToCreate.forEach((page, index) => {
         const id = page.node.id
+           
         createPage({
           // page slug set in md frontmatter
           path: page.node.fields.slug,

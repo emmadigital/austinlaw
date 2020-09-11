@@ -94,7 +94,7 @@ export default () => (
         allMarkdownRemark(
           sort: { order: DESC, fields: [frontmatter___date] }
           filter: { fields: { contentType: { eq: "blog" } } }
-          limit: 5
+          limit: 6
         ) {
           edges {
             node {

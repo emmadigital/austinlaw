@@ -13,7 +13,11 @@ import Layout from '../components/Layout'
 import PageHeader from '../components/PageHeader'
 import { ChevronLeft } from 'react-feather'
 import { DiscussionEmbed } from 'disqus-react'
+import { Helmet } from 'react-helmet'
+import { HelmetProvider } from 'react-helmet-async'
+
 import './SinglePost.css'
+
 
 export const SinglePostTemplate = ({
   title,
@@ -142,6 +146,30 @@ const SinglePost = ({ data: { post, allPosts } }) => {
       meta={post.frontmatter.meta || false}
       title={post.frontmatter.title || false}
     >
+       <HelmetProvider>
+         <Helmet titleTemplate="%s | Blog">
+            <title>{`${post.frontmatter.title}`}</title>
+            <meta
+              name="description"
+              content={`${post.frontmatter.excerpt}`}
+            />
+             <meta name="image" content={`${post.frontmatter.featuredImage.replace(new RegExp("../../static"), '')}`} />
+             <meta property="og:image" content={`${post.frontmatter.featuredImage.replace(new RegExp("../../static"), '')}`} />
+             <meta property="og:title" content={`${post.frontmatter.title}`} />
+             <meta property="og:description" content={`${post.frontmatter.excerpt}`} />
+             <meta property="og:url" content={`https://autinlaw.netlify.app` + `${_get(thisEdge, 'node.fields.slug')}`} />
+             <meta property="og:site_name" content="https://autinlaw.netlify.app" />
+             <meta property="article:author" content="Andrew Traub" />
+             <meta name="twitter:title" content={`${post.frontmatter.title}`} />
+             <meta name="twitter:url" content={`https://autinlaw.netlify.app` + `${_get(thisEdge, 'node.fields.slug')}`} />
+             <meta name="twitter:description" content={`${post.frontmatter.excerpt}`} />
+             <meta name="twitter:card" content="summary_large_image" />
+	        	 <meta name="twitter:image" content={`${post.frontmatter.featuredImage.replace(new RegExp("../../static"), '')}`} />
+             <meta property="og:type" content="blog" />          
+             <meta property="og:image:alt" content={`${post.frontmatter.title}`} />          
+             <meta property="og:locale" content="en_US" />     
+          </Helmet>
+          </HelmetProvider>
       <SinglePostTemplate
         {...post}
         {...post.frontmatter}
@@ -169,9 +197,13 @@ export const pageQuery = graphql`
       ...Meta
       html
       id
+      fields {
+        slug
+      }
       frontmatter {
         title
         template
+        excerpt
         subtitle
         date(formatString: "MMMM Do, YYYY")
         featuredImage

@@ -183,6 +183,11 @@ blockquote {
   .section.thin {
     padding: 1.5rem 0;
   }
+  #myBtn {
+     bottom: 40px!important;
+    right: 15%;
+    left: 80%!important;
+  }
 }
 
 .container {
@@ -257,4 +262,9 @@ blockquote {
 /*On Hover Color Change*/
 #myBtn:hover {
   background-color: var(--primary);
+}
+
+#sliderPhone{
+  color: white;
+  padding-top: 5px;
 }

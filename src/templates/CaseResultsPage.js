@@ -3,6 +3,8 @@ import _get from 'lodash/get'
 import { Link, graphql } from 'gatsby'
 import { ChevronLeft } from 'react-feather'
 
+import { Helmet } from 'react-helmet'
+import { HelmetProvider } from 'react-helmet-async'
 import CountUp from 'react-countup';
 import Fade from 'react-reveal/Fade';
 import PageHeader from '../components/PageHeader'
@@ -133,6 +135,30 @@ const CaseResultsPage = ({ data: { page, allPosts } }) => {
     meta={page.frontmatter.meta || false}
     title={page.frontmatter.title || false}
   >
+        <HelmetProvider>
+         <Helmet titleTemplate="%s | Page">
+            <title>{`${page.frontmatter.title}`}</title>
+            <meta
+              name="description"
+              content={`${page.frontmatter.excerpt}`}
+            />
+             <meta name="image" content={`${page.frontmatter.featuredImage.replace(new RegExp("../../static"), '')}`} />
+             <meta property="og:image" content={`${page.frontmatter.featuredImage.replace(new RegExp("../../static"), '')}`} />
+             <meta property="og:title" content={`${page.frontmatter.title}`} />
+             <meta property="og:description" content={`${page.frontmatter.excerpt}`} />
+             <meta property="og:url" content={`https://autinlaw.netlify.app` + `${_get(thisEdge, 'node.fields.slug')}`} />
+             <meta property="og:site_name" content="https://autinlaw.netlify.app" />
+             <meta property="article:author" content="Andrew Traub" />
+             <meta name="twitter:title" content={`${page.frontmatter.title}`} />
+             <meta name="twitter:url" content={`https://autinlaw.netlify.app` + `${_get(thisEdge, 'node.fields.slug')}`} />
+             <meta name="twitter:description" content={`${page.frontmatter.excerpt}`} />
+             <meta name="twitter:card" content="summary_large_image" />
+	        	 <meta name="twitter:image" content={`${page.frontmatter.featuredImage.replace(new RegExp("../../static"), '')}`} />
+             <meta property="og:type" content="page" />          
+             <meta property="og:image:alt" content={`${page.frontmatter.title}`} />          
+             <meta property="og:locale" content="en_US" />     
+          </Helmet>
+          </HelmetProvider>
     <CaseResultsPageTemplate 
       {...page} 
       {...page.frontmatter} 
@@ -182,6 +208,9 @@ export const pageQuery = graphql`
       edges {
         node {
           id
+          fields {
+            slug
+          }
         }
         next {
           fields {

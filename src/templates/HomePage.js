@@ -33,6 +33,9 @@ export const HomePageTemplate = ({ title, subtitle, featuredImage, body, intro, 
 						<h1>{item.sliderheading}</h1>
 						<p>{item.slidertext}</p>
 						<a href={item.sliderbuttonlink}><button>{item.sliderbuttontext}</button></a>
+            <h2 style={{color: 'white', fontSize: '34px'}}>
+            <a id="sliderPhone" href={`tel:${"512246-9191"}`}>(512) 246-9191</a>  
+            </h2>
 					</div>
 				</div>
 			))}

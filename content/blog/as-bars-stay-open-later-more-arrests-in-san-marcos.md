@@ -3,7 +3,7 @@ template: SinglePost
 title: As bars stay open later, more arrests in San Marcos
 status: Published
 date: 2010-01-25
-featuredImage: /images/animals.jpg
+featuredImage: /images/arrest.jpg
 excerpt: Last year, the bars in San Marcos started closing at 2 a.m. instead of
   midnight, a change appreciated by residents, business owners, tourists, and
   Texas State University students.

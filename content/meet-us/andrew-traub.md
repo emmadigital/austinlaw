@@ -98,3 +98,5 @@ Texas
 ### Honors and Awards
 
 <!--EndFragment-->
+
+![](/images/bar-awards.jpg)

@@ -1,8 +1,6 @@
 import React from "react"
 import PropTypes from "prop-types"
 
-document.getElementById("app").innerHTML = ``;
-
 export default function HTML(props) {
   return (
     <html {...props.htmlAttributes}>

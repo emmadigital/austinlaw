@@ -100,11 +100,11 @@ cover:
         cars, motorcycles, and trucks.
 
 
-        * [Car Accidents](/practice-areas/truck-accident-lawyer/)
+        * [Car Accidents](/practice-areas/car-accident-lawyers/)
 
         * [Trucking Accidents](/practice-areas/truck-accident-lawyer/)
 
-        * [Motorcycle Accidents](/practice-areas/truck-accident-lawyer/)
+        * [Motorcycle Accidents](/practice-areas/motorcycle-accident-attorney/)
 
         * [Distracted Driver Accidents](/practice-areas/distracted-driver/)
 
@@ -112,7 +112,7 @@ cover:
 
         * [Pedestrian Accidents](/practice-areas/pedestrian-and-car-accidents/)
 
-        * [Red Light Accidents](/practice-areas/distracted-driver/running-red-light-accident/)
+        * [Red Light Accidents](/practice-areas/running-red-light-accident/)
       sectionlinktext: Learn More
       sectionlink: /practice-areas/
       image: /images/vehicle-accident.png
@@ -123,9 +123,9 @@ cover:
         or due to defective products.
 
 
-        * [Slip and Fall Accidents](/practice-areas/austin-slip-and-fall-attorney/)
+        * [Slip and Fall Accidents](/practice-areas/slip-and-fall-injury-lawyers/)
 
-        * [Product Defects](/practice-areas/texas-product-defect-lawyer/)
+        * [Product Defects](/practice-areas/product-defect-lawyer-in-texas/)
 
         * [Insurance Disputes](/practice-areas/dealing-with-your-insurance-company/)
 
@@ -141,13 +141,13 @@ cover:
         last a few months or be with the victim for the rest of their life.
 
 
-        * [Slip and Fall Accidents](/practice-areas/austin-slip-and-fall-attorney/)
+        * [Slip and Fall Accidents](/practice-areas/slip-and-fall-injury-lawyers/)
 
         * [Neck Injuries](/practice-areas/neck-injuries/)
 
-        * [Back Injury](/practice-areas/back-injury-lawyers/)
+        * [Back Injury](/practice-areas/austin-back-injury-lawyers/)
 
-        * [Shoulder Injury](/practice-areas/shoulder-injury-lawyer/)
+        * [Shoulder Injury](/practice-areas/austin-shoulder-injury-lawyer/)
 
         * [Spinal Cord Injury](/practice-areas/austin-spinal-cord-injury-lawyers/)
 
@@ -162,23 +162,23 @@ cover:
         severe pain, permanent pain, disabling pain.
 
 
-        * [Broken Bone Injury](/practice-areas/broken-bone-injury-attorneys/)
+        * [Broken Bone Injury](/practice-areas/austin-broken-bone-injury-attorneys/)
 
         * [Brain Injury](/practice-areas/brain-injury-lawyers/)
 
         * [CRPS / RSD Injury](/practice-areas/crps-attorney/)
 
-        * [Paraplegia Injury](/practice-areas/serious-personal-injury/paraplegia-injury-attorney/)
+        * [Paraplegia Injury](/practice-areas/paraplegia-injury-attorney/)
 
-        * [Amputation Injury](/practice-areas/amputation-injury-attorney/)
+        * [Amputation Injury](/practice-areas/amuptation-injury-attorney/)
 
-        * [Rib Injuries](/rib-injuries/)
+        * [Rib Injuries](/practice-areas/broken-rib-lawyer/)
 
         * [Wrongful Death](/practice-areas/wrongful-death-attorney/)
 
         * [Carpel Tunnel Injuries](/practice-areas/carpal-tunnel-syndrome/)
 
-        * [Knee Injuries](/practice-areas/knee-injuries/)
+        * [Knee Injuries](/practice-areas/knee-injuries-lawyers-in-austin/)
 
         * [Serious Injuries](/practice-areas/serious-personal-injury/)
       sectionlinktext: Learn More

@@ -16,6 +16,17 @@
   height: 1.4rem;
 }
 
+.disclaimer{
+  padding: 2rem 0;
+  background: var(--darkGrey);
+  line-height: 1.6rem;
+  color: whitesmoke;
+  font-size: 12px;
+  font-weight: lighter;
+  vertical-align: top;
+  padding-left: 5rem;
+  padding-right: 5rem;
+}
 .copyright {
   padding: 2rem 0;
   background: var(--midGrey);

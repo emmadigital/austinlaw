@@ -18,7 +18,10 @@ const PostCategoriesNav = ({ categories, enableSearch }) => (
         {category.title}
       </Link>
     ))}
-    <div> 
+ 
+    <div style={{paddingTop:'20px'}}>
+    <br />
+    <br />
     {enableSearch && <BlogSearch />}
     </div>
   </div>

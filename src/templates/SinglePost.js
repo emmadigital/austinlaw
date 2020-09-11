@@ -12,21 +12,34 @@ import Content from '../components/Content'
 import Layout from '../components/Layout'
 import PageHeader from '../components/PageHeader'
 import { ChevronLeft } from 'react-feather'
-
+import { DiscussionEmbed } from 'disqus-react'
 import './SinglePost.css'
 
 export const SinglePostTemplate = ({
   title,
   date,
   body,
+  slug,
   nextPostURL,
   prevPostURL,
   nextPostTitle,
   prevPostTitle,
   featuredImage,
   categories = []
-}) =>  (
+}) =>  {
 
+  const siteUrl = 'https://austinlaw.netlify.app' + slug
+    const disqusprops = {
+      shortname: `austinlaw-netlify-app`,
+      config: { 
+        url: siteUrl,
+        identifier: title,
+        title: title,    
+      },
+    };
+    console.log(siteUrl)
+
+return(
   <main>
     <PageHeader
        title={title}
@@ -108,15 +121,23 @@ export const SinglePostTemplate = ({
             )}
           </div>
         </div>
+        <br />
+        <DiscussionEmbed
+    shortname={disqusprops.shortname}
+    config={disqusprops.config}
+    />
       </div>
+      
     </article>
   </main>
 )
+            }
 
 // Export Default SinglePost for front-end
 const SinglePost = ({ data: { post, allPosts } }) => {
   const thisEdge = allPosts.edges.find(edge => edge.node.id === post.id)
   return (
+    
     <Layout
       meta={post.frontmatter.meta || false}
       title={post.frontmatter.title || false}
@@ -129,6 +150,7 @@ const SinglePost = ({ data: { post, allPosts } }) => {
         prevPostURL={_get(thisEdge, 'previous.fields.slug')}
         nextPostTitle={_get(thisEdge, 'next.frontmatter.title')}
         prevPostTitle={_get(thisEdge, 'previous.frontmatter.title')}
+        slug={_get(thisEdge, 'node.fields.slug')}
         featuredImage={post.frontmatter.featuredImage}
       />
     </Layout>
@@ -166,6 +188,9 @@ export const pageQuery = graphql`
       edges {
         node {
           id
+          fields {
+            slug
+          }
         }
         next {
           fields {

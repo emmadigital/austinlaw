@@ -376,3 +376,9 @@ border-radius: 5px;
 
 
 }
+
+@media (max-width: 1024px) {
+  .Nav--Container {
+    display: -webkit-box;
+  }
+}

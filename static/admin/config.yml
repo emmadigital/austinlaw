@@ -12,7 +12,7 @@ collections: # A list of collections the CMS should be able to edit
   - name: 'pages'
     label: 'Page'
     delete: false # Prevent users from deleting documents in this collection
-    create: true # Allow users to create new documents in this collection
+    create: false # Allow users to create new documents in this collection
     editor:
       preview: true
     files:
@@ -1743,7 +1743,82 @@ collections: # A list of collections the CMS should be able to edit
                       widget: boolean,
                       required: false,
                     }                                        
-
+      - file: 'content/pages/sitemap.md'
+        label: 'Sitemap Page'
+        name: 'sitemap-page'
+        fields:
+              - {
+                  label: Template,
+                  name: template,
+                  widget: hidden,
+                  default: SitemapPage,
+                }
+              - { label: Slug, name: slug, widget: hidden, default: 'sitemap' }
+              - { label: Title, name: title, widget: string }
+              - { label: Featured Image, name: featuredImage, widget: image }
+              - { label: Content, name: body, widget: markdown }
+              - label: 'Meta'
+                required: false
+                name: 'meta'
+                widget: 'object'
+                fields:
+                  - { label: Title, name: title, widget: string, required: false }
+                  - {
+                      label: Description,
+                      name: description,
+                      widget: text,
+                      required: false,
+                    }
+                  - {
+                      label: Canonical Link,
+                      name: canonicalLink,
+                      widget: string,
+                      required: false,
+                    }
+                  - {
+                      label: Noindex,
+                      name: noindex,
+                      widget: boolean,
+                      required: false,
+                    }                                
+      - file: 'content/pages/what-is-my-texas-personal-injury-claim-worth.md'
+        label: 'What Is My Texas Personal Injury Claim Worth'
+        name: 'what-is-my-texas-personal-injury-claim-worth'
+        fields:
+              - {
+                  label: Template,
+                  name: template,
+                  widget: hidden,
+                  default: SitemapPage,
+                }
+              - { label: Slug, name: slug, widget: hidden, default: 'what-is-my-texas-personal-injury-claim-worth' }
+              - { label: Title, name: title, widget: string }
+              - { label: Featured Image, name: featuredImage, widget: image }
+              - { label: Content, name: body, widget: markdown }
+              - label: 'Meta'
+                required: false
+                name: 'meta'
+                widget: 'object'
+                fields:
+                  - { label: Title, name: title, widget: string, required: false }
+                  - {
+                      label: Description,
+                      name: description,
+                      widget: text,
+                      required: false,
+                    }
+                  - {
+                      label: Canonical Link,
+                      name: canonicalLink,
+                      widget: string,
+                      required: false,
+                    }
+                  - {
+                      label: Noindex,
+                      name: noindex,
+                      widget: boolean,
+                      required: false,
+                    }                                                    
   - name: practiceAreas
     label: Practice Areas
     editor:

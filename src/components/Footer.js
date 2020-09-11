@@ -1,6 +1,6 @@
 import React from 'react'
 import './Footer.css'
-import FormSimpleAjax from '../components/FormSimpleAjax'
+import FormEnquiry from '../components/FormEnquiry'
 import { MapPin, Smartphone, Mail, Clock, Facebook, Twitter, Linkedin, Youtube } from 'react-feather'
 import Fade from 'react-reveal/Fade';
 
@@ -50,22 +50,26 @@ export default () => (
 
           </div>
           <div className="social">
-          <a className="Contact--Details--Item" href="https://www.facebook.com/Austin-Accident-Attorney-203836909648652/">
+          <a className="Contact--Details--Item" href="https://www.facebook.com/Austin-Accident-Attorney-203836909648652/" target="_blank"
+                rel="noopener noreferrer">
           <Facebook /> 
           </a>
-          <a className="Contact--Details--Item" href="https://twitter.com/AustinAttorney">
+          <a className="Contact--Details--Item" href="https://twitter.com/AustinAttorney" target="_blank"
+                rel="noopener noreferrer">
           <Twitter /> 
           </a>
-          <a className="Contact--Details--Item" href="https://www.linkedin.com/in/andrewtraub">
+          <a className="Contact--Details--Item" href="https://www.linkedin.com/in/andrewtraub" target="_blank"
+                rel="noopener noreferrer">
           <Linkedin /> 
           </a>
-          <a className="Contact--Details--Item" href="https://www.youtube.com/c/AndrewTraub/">
+          <a className="Contact--Details--Item" href="https://www.youtube.com/c/AndrewTraub/" target="_blank"
+                rel="noopener noreferrer">
           <Youtube /> 
           </a></div>
         </div>
 
         <div>
-          <FormSimpleAjax name="Enquiry" />
+        <FormEnquiry />
         </div>
       </div>
     </section>
@@ -78,6 +82,9 @@ export default () => (
         <a href="/sitemap/">Sitemap</a>  <a href="/privacy-policy/">Privacy Policy</a>  <a href="/terms-of-use/">Terms of Use</a>  <a href="/submit-articles/">Submit Articles</a> <a href="/referrals/">Lawyer Referrals</a>
         </span>
       </div>
+      <div className="disclaimer taCenter"> 
+      <span>While most of our clients hail from Austin, Round Rock, Cedar Park, Georgetown, and Pflugerville in Travis and Williamson Counties, we have also worked with clients in Dallas, Houston, and San Antonio. Other clients have come from Lakeway, Jollyville, Anderson Mill, Kyle, and Leander. If your accident was in Texas, we can help you.
+      The information on this website is for general information purposes only. Nothing on this site should be taken as legal advice for any individual case or situation. This information is not intended to create, and receipt or viewing does not constitute, an attorney-client relationship.</span></div>
     </footer>
   </div>
 </Fade>  

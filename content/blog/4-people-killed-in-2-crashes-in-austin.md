@@ -3,7 +3,7 @@ template: SinglePost
 title: 4 People Killed in 2 Crashes in Austin
 status: Published
 date: 2020-07-27
-featuredImage: /images/accident-arround-austin.jpg
+featuredImage: /images/4-people-killed-in-2-crashes-in-austin.jpg
 excerpt: Four people were killed early Friday after two separate crashes in the
   Austin area, Austin-Travis County EMS medics said.
 categories:

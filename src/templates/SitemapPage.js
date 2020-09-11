@@ -1,20 +1,20 @@
 import React from 'react'
-import { graphql } from 'gatsby'
+import { graphql, Link } from 'gatsby'
 
 import PageHeader from '../components/PageHeader'
 import Content from '../components/Content'
-import FormReferrals from '../components/FormReferrals'
-
 import Layout from '../components/Layout'
+import Sitemap from '../components/Sitemap'
+
 
 // Export Template for use in CMS preview
-export const ReferralsPageTemplate = ({
+export const SitemapPageTemplate = ({
   title,
   subtitle,
   featuredImage,
   body
 }) => (
-  <main className="DefaultPage">
+  <main className="MeetUsPage">
     <PageHeader
       title={title}
       subtitle={subtitle}
@@ -22,30 +22,31 @@ export const ReferralsPageTemplate = ({
     />
 
     <section className="section">
-      <div className="container">
+      <div className="container">      
         <Content source={body} />
       </div>
     </section>
+
     <section className="section">
       <div className="container">
-        <FormReferrals />
+      <Sitemap />
       </div>
     </section>
   </main>
 )
 
-const ReferralsPage = ({ data: { page } }) => (
+const SitemapPage = ({ data: { page } }) => (
   <Layout
     meta={page.frontmatter.meta || false}
     title={page.frontmatter.title || false}
   >
-    <ReferralsPageTemplate {...page.frontmatter} body={page.html} />
+    <SitemapPageTemplate {...page.frontmatter} body={page.html} />
   </Layout>
 )
-export default ReferralsPage
+export default SitemapPage
 
 export const pageQuery = graphql`
-  query ReferralsPage($id: String!) {
+  query SitemapPage($id: String!) {
     page: markdownRemark(id: { eq: $id }) {
       ...Meta
       html

@@ -59,6 +59,14 @@
   background: transparent;
 }
 
+.Form--InputDate:valid,
+.Form--InputDate:invalid:not(:empty),
+.Form--InputDate:active,
+.Form--InputDate:focus,
+.Form--InputPhone:valid,
+.Form--InputPhone:invalid:not(:empty),
+.Form--InputPhone:active,
+.Form--InputPhone:focus,
 .Form--InputText:valid,
 .Form--InputText:invalid:not(:empty),
 .Form--InputText:active,
@@ -67,6 +75,16 @@
   padding-top: 2.5rem;
 }
 
+.Form--InputDate:valid + span,
+.Form--InputDate:not(:empty) + span,
+.Form--InputDate:invalid:not(:empty) + span,
+.Form--InputDate:active + span,
+.Form--InputDate:focus + span,
+.Form--InputPhone:valid + span,
+.Form--InputPhone:not(:empty) + span,
+.Form--InputPhone:invalid:not(:empty) + span,
+.Form--InputPhone:active + span,
+.Form--InputPhone:focus + span,
 .Form--InputText:valid + span,
 .Form--InputText:not(:empty) + span,
 .Form--InputText:invalid:not(:empty) + span,
@@ -97,6 +115,7 @@
   transition: 0.3s ease all;
   background: url('../../static/images/usaFlag.jpg') no-repeat right 32px center;
 }
+
 
 .Form--Select {
   background: none;

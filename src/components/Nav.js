@@ -96,6 +96,12 @@ export class Navigation extends Component {
                     >
                       Free Consultation
                     </NavLink>
+                    <NavLink
+                      to="/what-is-my-texas-personal-injury-claim-worth/"
+                      className="Nav--GroupLink"
+                    >
+                      My Injury Claim Worth
+                    </NavLink>
   
                 </div>
               </span>

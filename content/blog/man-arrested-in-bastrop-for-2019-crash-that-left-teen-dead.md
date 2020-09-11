@@ -3,7 +3,7 @@ template: SinglePost
 title: Man arrested in Bastrop for 2019 crash that left teen dead
 status: Published
 date: 2020-07-15
-featuredImage: /images/accident-arround-austin.jpg
+featuredImage: /images/arrest.jpg
 excerpt: Julien White was arrested last week and charged with intoxicated
   manslaughter for the 2019 death of Francisco Sanchez Jr., who was a senior at
   Bastrop High School when he was struck and killed by a speeding vehicle driven

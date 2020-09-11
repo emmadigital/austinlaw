@@ -137,7 +137,7 @@ export const pageQuery = graphql`
     }
 
     meetus: allMarkdownRemark(
-      filter: { fields: { contentType: { eq: "meetus" } } }
+      filter: { fields: { contentType: { eq: "meet-us" } } }
       sort: { order: DESC, fields: [frontmatter___date] }
     ) {
       edges {

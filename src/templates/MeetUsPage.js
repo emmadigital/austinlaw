@@ -5,6 +5,7 @@ import { ChevronLeft } from 'react-feather'
 import PageHeader from '../components/PageHeader'
 import Content from '../components/Content'
 import Layout from '../components/Layout'
+import FormConsultation from '../components/FormConsultation'
 
 // Export Template for use in CMS preview
 export const MeetUsPageTemplate = ({
@@ -27,6 +28,12 @@ export const MeetUsPageTemplate = ({
         </Link>
         <br /> 
         <Content source={body} />
+      </div>
+    </section>
+
+    <section className="section">
+      <div className="container">
+        <FormConsultation />
       </div>
     </section>
   </main>

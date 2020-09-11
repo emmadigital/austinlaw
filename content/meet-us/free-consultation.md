@@ -45,6 +45,4 @@ Essentially, we will ask questions about your accident to determine if we can he
 
 As long as it needs to. We do not limit you to a small time frame which only adds pressure to the consultation. Most consultations last as little as thirty minutes, but some have gone as long as two hours. Generally, we will allocate one hour, and if time is not available due to another appointment, we will reschedule and continue the consultation at a later date.
 
-### To Schedule Your Free Initial Consultation Call Us at (512) 246-9191 or Fill out the Form Below.
-
 <!--EndFragment-->

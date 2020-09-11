@@ -51,6 +51,7 @@ export default ({ children, meta, title }) => {
 
         return (
           <Fragment>
+                       
             <Helmet
               defaultTitle={siteTitle}
               titleTemplate={`%s | ${siteTitle}`}
@@ -58,6 +59,7 @@ export default ({ children, meta, title }) => {
               {title}
               <link href="https://ucarecdn.com" rel="preconnect" crossorigin />
               <link rel="dns-prefetch" href="https://ucarecdn.com" />
+              <link rel="stylesheet" type="text/css" href="https://cdn.jsdelivr.net/npm/cookieconsent@3/build/cookieconsent.min.css" />
               {/* Add font link tags here */}
               <link rel="stylesheet" 
               href="https://use.fontawesome.com/releases/v5.13.0/css/all.css" />
@@ -75,11 +77,8 @@ export default ({ children, meta, title }) => {
             />
 
          
-
             <Nav subNav={subNav} />
-
             <Fragment>{children}</Fragment>
-
             <Footer />
           </Fragment>
         )

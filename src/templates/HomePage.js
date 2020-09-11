@@ -4,6 +4,7 @@ import { graphql } from 'gatsby'
 import PageHeader from '../components/PageHeader'
 import Content from '../components/Content'
 import Layout from '../components/Layout'
+import RecentPosts from '../components/RecentPosts'
 import Accordion from '../components/Accordion'
 import Slider from 'react-animated-slider';
 import 'react-animated-slider/build/horizontal.css';
@@ -36,11 +37,11 @@ export const HomePageTemplate = ({ title, subtitle, featuredImage, body, intro, 
 				</div>
 			))}
 		</Slider>
-    <Flip top>
+    <Fade bottom>
     <div className="ctaheading">
     <h1>{ctaheading}</h1><br />
     </div>
-    </Flip>
+    </Fade>
     <section className="section">
       <div className="container">
       <Features gridItems={intro.blurbs} />
@@ -74,7 +75,7 @@ export const HomePageTemplate = ({ title, subtitle, featuredImage, body, intro, 
     <p>{wwcsubheading}</p>
     </Flip>
     </div>
-    <Fade bottom cascade>
+    <Fade>
     <div>    
     {cover.coversection.map((item, index) => (
     
@@ -102,14 +103,19 @@ export const HomePageTemplate = ({ title, subtitle, featuredImage, body, intro, 
         </div>
     </section>
     </Fade>
-    <Flip top>
+    <Fade top>
     <div className="ctaheading2">
     <h1>Frequently Asked Questions</h1><br />
     </div>
-    </Flip>
+    </Fade>
     <section className="section">
       <div className="container">
         <Accordion items={accordion} />
+      </div>
+    </section>
+    <section className="section">
+      <div className="container">
+       <RecentPosts />
       </div>
     </section>
    </main>

@@ -266,7 +266,11 @@ accordion:
     title: Can I fire my lawyer?
     contentheading: It can be difficult with a signed agreement
 meta:
-  description: This is a meta description.
+  description: The Traub Law Office was established in 2003. We are a personal
+    injury law firm in Austin, and we concentrate on helping people that have
+    been injured in car, truck, motorcycle, bicycle accidents. We also help
+    people who have been attacked by a dog and who have fallen in an unsafe area
+    open to the public.
   title: Austin Accident Lawyer - Austin Accident Lawyer
 featuredImage: https://ucarecdn.com/159203d3-881d-4218-baa1-ca4427b48d0d/
 subtitle: "## How to Choose Your Austin Accident Lawyer"

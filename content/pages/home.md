@@ -110,7 +110,7 @@ cover:
 
         * [Drunk Driving Accidents](/practice-areas/drunk-driving-accident-lawyer/)
 
-        * [Pedestrian Accidents](/practice-areas/pedestrian-and-car-accidents/)
+        * [Pedestrian Accidents](/practice-areas/pedestrian-accident-lawyers/)
 
         * [Red Light Accidents](/practice-areas/running-red-light-accident/)
       sectionlinktext: Learn More

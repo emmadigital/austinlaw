@@ -3,13 +3,17 @@ import './Footer.css'
 import FormEnquiry from '../components/FormEnquiry'
 import { MapPin, Smartphone, Mail, Clock, Facebook, Twitter, Linkedin, Youtube } from 'react-feather'
 import Fade from 'react-reveal/Fade';
-
+import YelpTestimonials from './YelpTestimonials'
 const address= "The Traub Law Office, P.C. 8701 Shoal Creek Blvd Suite 401, Austin, TX 78757"
 
 export default () => (
  <Fade> 
   <div>
-  
+    <section className="section">
+      <div className="container">
+      <YelpTestimonials />  
+      </div>
+    </section>
     <footer className="footer">
     <div className="taCenter"> 
         <br />       
@@ -39,7 +43,7 @@ export default () => (
                 <Smartphone />  (512) 246-9191
               </a>
               <a className="Contact--Details--Item" href={`mailto:${"andrew@austinaccidentlawyer.com"}`}>
-                <Mail /> andrew@austinaccidentlawyer.com
+                <Mail /> info@austinaccidentlawyer.com
               </a>
               <a className="Contact--Details--Item" href={`#`}>
                 <Clock /> 9 a.m. to 5 p.m. Monday - Friday
@@ -66,6 +70,16 @@ export default () => (
                 rel="noopener noreferrer">
           <Youtube /> 
           </a></div>
+          <br />
+          <div>
+            <h2>Leave A Review</h2>
+            <a href="https://www.yelp.com/biz/the-traub-law-office-austin-2"
+            target="_blank"
+            rel="noopener noreferrer">
+            <img src="/images/yelpReviews.png" alt="yelp review" width="200px" />  
+            </a>
+          </div>
+
         </div>
 
         <div>

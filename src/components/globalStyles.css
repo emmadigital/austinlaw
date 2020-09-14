@@ -268,3 +268,65 @@ blockquote {
   color: white;
   padding-top: 5px;
 }
+
+
+ .yelptestimonial blockquote {
+  margin: 10px 10px 0;
+  background: #efefef;
+  padding: 20px 60px;
+  position: relative;
+  border: none;
+  border-radius: 8px;
+  font-style: italic;
+}
+
+.yelptestimonial blockquote:before,
+.yelptestimonial blockquote:after {
+  content: "\201C";
+  position: absolute;
+  font-size: 80px;
+  line-height: 1;
+  color: #757f9a;
+  font-style: normal;
+}
+
+.yelptestimonial blockquote:before {
+  top: 0;
+  left: 10px;
+}
+
+.yelptestimonial blockquote:after {
+  content: "\201D";
+  right: 10px;
+  bottom: -0.5em;
+}
+
+.yelptestimonial div {
+  width: 0;
+  height: 0;
+  border-left: 0 solid transparent;
+  border-right: 20px solid transparent;
+  border-top: 20px solid #efefef;
+  margin: 0 0 0 60px;
+}
+
+.yelptestimonial p {
+  margin: 8px 0 0 20px;
+  text-align: left;
+  color: #000;
+  font-weight: 700;
+}
+
+
+.yelp{
+  border-radius: 50%;
+  margin: 0 40%;
+  width: 150px; /* width of container */
+  height: 150px; /* height of container */
+  object-fit: cover;
+}
+
+.fa-star:before {
+  content: url('../../static/images/star.png')!important;
+  padding: 2px!important;
+}

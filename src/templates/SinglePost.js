@@ -15,7 +15,6 @@ import { ChevronLeft } from 'react-feather'
 import { DiscussionEmbed } from 'disqus-react'
 import { Helmet } from 'react-helmet'
 import { HelmetProvider } from 'react-helmet-async'
-
 import './SinglePost.css'
 
 
@@ -131,7 +130,7 @@ return(
     config={disqusprops.config}
     />
       </div>
-      
+
     </article>
   </main>
 )
@@ -243,5 +242,6 @@ export const pageQuery = graphql`
         }
       }
     }
+ 
   }
 `

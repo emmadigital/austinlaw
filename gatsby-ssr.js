@@ -52,6 +52,17 @@ setPostBodyComponents([
      type="text/javascript"
      src="src/html.js"
    />,
+
+   <div dangerouslySetInnerHTML={{__html: `
+<div class="fb-customerchat"
+  attribution=setup_tool
+  page_id="203836909648652"
+  theme_color="#21dbec"
+  logged_in_greeting="Hi! If you have questions... I'm here"
+  logged_out_greeting="Hi! If you have questions... I'm here">
+</div>
+`}}/>
+
         
 ]);
 

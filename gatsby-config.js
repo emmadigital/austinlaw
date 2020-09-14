@@ -73,6 +73,14 @@ module.exports = {
       }
     },
 
+    {
+      resolve: `@leomanlapera/gatsby-source-yelp`,
+      options: {
+        id: 'the-traub-law-office-austin-2',
+        apiKey: 'LQrbEgs2PjEzE8Q331Quln5SfMDb7zsZpUBGWjKQPjKrogI0r9Ev82GHp1egfzmk3DeBeEi5EIC6r1WDPTXuAQO0-Cf6C81aDo1p7yaCkc1b6f4PVMtEbb3Ew4FbX3Yx'
+      }
+    },
+
     // images
     'gatsby-plugin-sharp',
     'gatsby-transformer-sharp',

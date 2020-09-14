@@ -1,8 +1,6 @@
 import React from 'react'
 import PropTypes from 'prop-types'
-import PreviewCompatibleImage from './PreviewCompatibleImage'
 import './Guide.css'
-import Img from 'gatsby-image'
 import Flip from 'react-reveal/Flip';
 import Fade from 'react-reveal/Fade';
 import { Link } from 'gatsby'
@@ -29,7 +27,7 @@ const GuideGrid = ({ gridItems }) => (
             <figure>
             <Flip top>
             <div style={{height: '200px'}}>
-                    <img src={item.image.childImageSharp.fluid.src}/>
+                    <img src={item.image.childImageSharp.fluid.src} alt={item.blurbsheading} />
                   </div> 
           </Flip>      
            </figure>

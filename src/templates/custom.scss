@@ -664,7 +664,6 @@ button {
    .ctaheading, .ctaheading2 {
      }
      .ctaheading h1{
-       border-bottom: #fea70a solid 4px;
        margin-top: 25px;
        text-align: center!important;
        font-size: 30px;
@@ -858,9 +857,12 @@ margin-left: -100%;
   max-width: 290px;
   vertical-align: middle;
   font-size: 0.95em;
+  word-break: break-word;
 }
 
 .RecentPosts h4{
   vertical-align: middle;
   max-width: 280px;
 }
+
+

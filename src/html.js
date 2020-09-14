@@ -26,7 +26,6 @@ export default function HTML(props) {
         <button id="myBtn"><a href="#top" style={{color: 'white'}}>Top</a></button>
         <div id="app"></div>
 	    <div id="cookieconsent"></div>
-        
       </body>
     </html>
   )

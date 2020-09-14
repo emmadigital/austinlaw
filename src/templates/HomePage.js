@@ -1,7 +1,6 @@
 import React from 'react'
 import { graphql } from 'gatsby'
 
-import PageHeader from '../components/PageHeader'
 import Content from '../components/Content'
 import Layout from '../components/Layout'
 import RecentPosts from '../components/RecentPosts'
@@ -17,14 +16,15 @@ import "react-alice-carousel/lib/alice-carousel.css";
 import '../components/Gallery.css'
 import './custom.scss';
 
-import { library } from '@fortawesome/fontawesome-svg-core'
 
 // Export Template for use in CMS preview
 export const HomePageTemplate = ({ title, subtitle, featuredImage, body, intro, cover, wwcheading, wwcsubheading, heroslider, accordion, ctaheading, experiencesection, experiencevideo }) => (
   <main className="Home">
     <Slider className="slider-wrapper" autoplay={3000}>
-			{heroslider.slider.map((item, index) => (
-				<div
+      {heroslider.slider &&
+      heroslider.slider.map((item, index) => (
+				
+        <div
 					key={index}
 					className="slider-content"
 					style={{ background: `url('${item.image.childImageSharp.fluid.src}') no-repeat center center / cover` }}
@@ -74,7 +74,7 @@ export const HomePageTemplate = ({ title, subtitle, featuredImage, body, intro, 
     <div class="container">
     <div className="taCenter">
     <Flip bottom>  
-    <h1>{wwcheading}</h1>
+    <h1 className="ctaheading2">{wwcheading}</h1>
     <p>{wwcsubheading}</p>
     </Flip>
     </div>
@@ -169,8 +169,8 @@ export const pageQuery = graphql`
             sliderbuttonlink
             image {
               childImageSharp {
-                fluid {
-                  src
+                fluid(maxWidth: 1600, quality: 64) {
+                  ...GatsbyImageSharpFluid
                 }
               }
             }

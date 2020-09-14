@@ -11,7 +11,7 @@ meta:
 ---
 <!--StartFragment-->
 
-We are partnering with Ghisello’s Bike Initiative to give free bicycle helmets to kids in need. Â You can make a donation by clicking on the button below:
+We are partnering with Ghisello’s Bike Initiative to give free bicycle helmets to kids in need.  You can make a donation by clicking on the button below:
 
 <!--StartFragment-->
 
@@ -19,7 +19,7 @@ We are partnering with Ghisello’s Bike Initiative to give free bicycle helmets
 
 <!--EndFragment-->
 
-Every helmet can keep a child safe from a head injury. â€œItâ€™s our hope that these helmets will reduce or eliminate the risk of head injuries in children on a bicycle,â€ said Andrew.
+Every helmet can keep a child safe from a head injury. Our hope that these helmets will reduce or eliminate the risk of head injuries in children on a bicycle, said Andrew.
 
 According to the American Association of Neurological Surgeons, Cycling was the top sport for head injuries for kids under ages 14 and under.
 
@@ -33,6 +33,6 @@ According to the U.S. Department of Transportation, based on 2015 data released 
 
 [Ghisallo Cycling Initiative](http://ghisallo.org/) provides semester-long, after-school Bike Clubs with weekly bicycle maintenance and riding classes as well as an Earn-A-Bike program, Bicycle Rodeos, and maintenance and safety clinics. The majority of their participants are low-income, at-risk students.
 
-Letâ€™s keep kids safe!!!
+Let's keep kids safe!!!
 
 <!--EndFragment-->

@@ -13,9 +13,11 @@ meta:
 
 We are partnering with Ghisello’s Bike Initiative to give free bicycle helmets to kids in need. Â You can make a donation by clicking on the button below:
 
-\
-\
-![PayPal - The safer, easier way to pay online!](https://www.paypalobjects.com/en_US/i/btn/btn_donateCC_LG.gif)![](https://www.paypalobjects.com/en_US/i/scr/pixel.gif)
+<!--StartFragment-->
+
+[![](https://lh6.googleusercontent.com/HrqeYskgxcFm8xspsxe4FR9dyPmaxCslYFm4pexsO4AYgBaS7Jr80Ulz_HgZ3ooybs2NP8lAnPKFJL1dTFcCQc5D7kFxNUpRtKXruDzWxg_2BmePnFQ1w081Ho8EYQoufnyG_eSC)](https://www.paypal.com/donate?token=mylJTtZi0BcIZJlQV9KJAWBsNJ0zRD-EfKhysLJ_XMouyzNkI95zpGoGjqeT7mGg-NCEcwr1u_GjRTGc)
+
+<!--EndFragment-->
 
 Every helmet can keep a child safe from a head injury. â€œItâ€™s our hope that these helmets will reduce or eliminate the risk of head injuries in children on a bicycle,â€ said Andrew.
 

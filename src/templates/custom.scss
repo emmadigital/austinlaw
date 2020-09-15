@@ -699,8 +699,14 @@ button {
  }
  
  /* Small devices (portrait tablets and large phones, 600px and up) */
- @media only screen and (min-width: 600px) {
-
+ @media only screen and (min-width: 667px) {
+  .alice-carousel__wrapper {
+    height: 297px!important;
+    } 
+    
+    .Content li{
+      margin-left: -7%!important;
+    }     
  }
  
  /* Medium devices (landscape tablets, 768px and up) */

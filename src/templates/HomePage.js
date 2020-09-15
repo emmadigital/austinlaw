@@ -20,14 +20,26 @@ import './custom.scss';
 // Export Template for use in CMS preview
 export const HomePageTemplate = ({ title, subtitle, featuredImage, body, intro, cover, wwcheading, wwcsubheading, heroslider, accordion, ctaheading, experiencesection, experiencevideo }) => (
   <main className="Home">
+  <Fade bottom>
+    <div className="ctaheading">
+    <h1>{ctaheading}</h1><br />
+    </div>
+    </Fade>
+    <section className="section">
+      <div className="container">
+      <Features gridItems={intro.blurbs} />
+      </div>
+    </section>
+
     <Slider className="slider-wrapper" autoplay={3000}>
-      {heroslider.slider &&
-      heroslider.slider.map((item, index) => (
-				
+      {heroslider.slider.map((item, index) => (				
         <div
 					key={index}
 					className="slider-content"
-					style={{ background: `url('${item.image.childImageSharp.fluid.src}') no-repeat center center / cover` }}
+					style={{ background: `url('${
+            !!item.image.childImageSharp ? item.image.childImageSharp.fluid.src :  item.image
+          }') no-repeat center center / cover` 
+        }}
 				>
 					<div className="inner">
 						<h1>{item.sliderheading}</h1>
@@ -40,16 +52,7 @@ export const HomePageTemplate = ({ title, subtitle, featuredImage, body, intro, 
 				</div>
 			))}
 		</Slider>
-    <Fade bottom>
-    <div className="ctaheading">
-    <h1>{ctaheading}</h1><br />
-    </div>
-    </Fade>
-    <section className="section">
-      <div className="container">
-      <Features gridItems={intro.blurbs} />
-      </div>
-    </section>
+     
     <Fade left cascade>
   <section>
  <div class="group">
@@ -89,7 +92,9 @@ export const HomePageTemplate = ({ title, subtitle, featuredImage, body, intro, 
         </div>    
         <div class="items-body">
          <p
-         style={{ background: `url('${item.image.childImageSharp.fluid.src}') no-repeat bottom right` }}
+         style={{ background: `url('${
+          !!item.image.childImageSharp ? item.image.childImageSharp.fluid.src : item.image
+          }') no-repeat bottom right` }}
          ><Content source={item.sectiontext} /> </p>
          </div>
       </div>))}  

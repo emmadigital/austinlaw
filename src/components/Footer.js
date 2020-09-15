@@ -1,7 +1,7 @@
 import React from 'react'
 import './Footer.css'
 import FormEnquiry from '../components/FormEnquiry'
-import { MapPin, Smartphone, Mail, Clock, Facebook, Twitter, Linkedin, Youtube } from 'react-feather'
+import { MapPin, Smartphone, Clock, Facebook, Twitter, Linkedin, Youtube } from 'react-feather'
 import Fade from 'react-reveal/Fade';
 import YelpTestimonials from './YelpTestimonials'
 const address= "The Traub Law Office, P.C. 8701 Shoal Creek Blvd Suite 401, Austin, TX 78757"
@@ -42,10 +42,7 @@ export default () => (
              <a className="Contact--Details--Item" href={`tel:${"512246-9191"}`}>
                 <Smartphone />  (512) 246-9191
               </a>
-              <a className="Contact--Details--Item" href={`mailto:${"andrew@austinaccidentlawyer.com"}`}>
-                <Mail /> info@austinaccidentlawyer.com
-              </a>
-              <a className="Contact--Details--Item" href={`#`}>
+             <a className="Contact--Details--Item" href={`#`}>
                 <Clock /> 9 a.m. to 5 p.m. Monday - Friday
               </a>
               <span style={{fontSize: '1.4rem', fontWeight: '600', fontStyle: 'italic', color: '#497070'}}>After Office Hours Appointments Available Upon Request</span>

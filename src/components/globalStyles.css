@@ -44,6 +44,7 @@ body {
   letter-spacing: 0.01em;
   line-height: 1.6;
   -webkit-font-smoothing: antialiased;
+  overflow-x: hidden;
 }
 
 a {
@@ -184,11 +185,20 @@ blockquote {
     padding: 1.5rem 0;
   }
   #myBtn {
-     bottom: 40px!important;
-    right: 15%;
-    left: 80%!important;
+     bottom: 100px!important;
+    right: 16%;
+    left: 84%!important;
   }
 }
+
+@media (max-width: 700px) {
+  #myBtn {
+     bottom: 150px!important;
+    right: 16%;
+    left: 84%!important;
+  }
+}
+
 
 .container {
   max-width: 1111px;
@@ -246,10 +256,10 @@ blockquote {
 /*Floating Back-To-Top Button*/
 #myBtn {
   position: fixed;
-  bottom: 30px;
+  bottom: 80px;
   float: right;
-  right: 5%;
-  left: 95%;
+  right: 8%;
+  left: 92%;
   max-width: 40px;
   width: 100%;
   font-size: 12px;

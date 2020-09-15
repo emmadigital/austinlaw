@@ -48,11 +48,6 @@ exports.createPages = ({ actions, graphql }) => {
 
       pagesToCreate.forEach((page, index) => {
         const id = page.node.id
-        const categoryList =  page.node.frontmatter.categories !== null ? 
-        (page.node.frontmatter.categories.map(category=>category.id)) 
-        : ("NA")
-        const uniqueCategories = [...new Set(categoryList)]; 
-        console.log(uniqueCategories)   
         createPage({
           // page slug set in md frontmatter
           path: page.node.fields.slug,
@@ -61,9 +56,7 @@ exports.createPages = ({ actions, graphql }) => {
           ),
           // additional data can be passed via context
           context: {
-            id,
-            uniqueCategories
-          }
+            id          }
         })
       })
     })

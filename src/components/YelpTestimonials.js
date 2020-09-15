@@ -54,7 +54,7 @@ class YelpTestimonials extends React.Component {
         <div className="ctaheading2"><h1>Client Reviews and Ratings</h1> </div>
         </Fade>    
         <br />
-        <Fade left>
+        <Fade bottom>
         <Slider {...settings}>
         {posts &&
           posts.map(({ node: post }) => (

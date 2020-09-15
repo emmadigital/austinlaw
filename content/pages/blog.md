@@ -1,10 +1,10 @@
 ---
 template: BlogIndex
 slug: blog
-title: Blog Page
+title: Blog
 featuredImage: /images/animals.jpg
-subtitle: This is the blog page subtitle.
+subtitle: 
 meta:
-  description: This is a meta description.
-  title: Blog Page
+  description: Austin Accident Lawyer, blog posts
+  title: Blog
 ---

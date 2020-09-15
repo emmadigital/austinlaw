@@ -52,7 +52,7 @@ class RecentPosts extends React.Component {
         <div className="ctaheading2"><h1> Recent News Updates and Articles </h1></div>
         </Fade>    
         <br />
-        <Fade left>
+        <Fade top>
         <Slider {...settings}>
         {posts &&
           posts.map(({ node: post }) => (

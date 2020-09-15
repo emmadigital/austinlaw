@@ -127,7 +127,7 @@ cover:
 
         * [Product Defects](/practice-areas/product-defect-lawyer-in-texas/)
 
-        * [Insurance Disputes](/practice-areas/dealing-with-your-insurance-company/)
+        * [Insurance Disputes](/practice-areas/uninsured-and-underinsured-claims/)
 
         * [Dog Bites](/practice-areas/dog-bite-injury-lawyer/)
 

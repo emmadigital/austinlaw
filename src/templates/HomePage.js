@@ -5,17 +5,17 @@ import Content from '../components/Content'
 import Layout from '../components/Layout'
 import RecentPosts from '../components/RecentPosts'
 import Accordion from '../components/Accordion'
-import Slider from 'react-animated-slider';
 import 'react-animated-slider/build/horizontal.css';
 import Features from '../components/Features'
 import Flip from 'react-reveal/Flip';
 import Fade from 'react-reveal/Fade';
 import AliceCarousel from "react-alice-carousel";
 import "react-alice-carousel/lib/alice-carousel.css";
+import HeroSlider from '../components/HeroSlider'
+import CoverSection from '../components/CoverSection'
 
 import '../components/Gallery.css'
 import './custom.scss';
-
 
 // Export Template for use in CMS preview
 export const HomePageTemplate = ({ title, subtitle, featuredImage, body, intro, cover, wwcheading, wwcsubheading, heroslider, accordion, ctaheading, experiencesection, experiencevideo }) => (
@@ -30,30 +30,8 @@ export const HomePageTemplate = ({ title, subtitle, featuredImage, body, intro, 
       <Features gridItems={intro.blurbs} />
       </div>
     </section>
-
-    <Slider className="slider-wrapper" autoplay={3000}>
-      {heroslider.slider.map((item, index) => (				
-        <div
-					key={index}
-					className="slider-content"
-					style={{ background: `url('${
-            !!item.image.childImageSharp ? item.image.childImageSharp.fluid.src :  item.image
-          }') no-repeat center center / cover` 
-        }}
-				>
-					<div className="inner">
-						<h1>{item.sliderheading}</h1>
-						<p>{item.slidertext}</p>
-						<a href={item.sliderbuttonlink}><button>{item.sliderbuttontext}</button></a>
-            <h2 style={{color: 'white', fontSize: '34px'}}>
-            <a id="sliderPhone" href={`tel:${"512246-9191"}`}>(512) 246-9191</a>  
-            </h2>
-					</div>
-				</div>
-			))}
-		</Slider>
-     
-    <Fade left cascade>
+     <HeroSlider heroItems={heroslider.slider} /> 
+    <Fade bottom cascade>
   <section>
  <div class="group">
     <div class="left2">
@@ -82,23 +60,8 @@ export const HomePageTemplate = ({ title, subtitle, featuredImage, body, intro, 
     </Flip>
     </div>
     <Fade>
-    <div>    
-    {cover.coversection.map((item, index) => (
+    <CoverSection coverItems={cover.coversection} />  
     
-    <div class="items">
-        <div class="items-head">
-          <p>{item.sectionheading}</p>
-          <hr />
-        </div>    
-        <div class="items-body">
-         <p
-         style={{ background: `url('${
-          !!item.image.childImageSharp ? item.image.childImageSharp.fluid.src : item.image
-          }') no-repeat bottom right` }}
-         ><Content source={item.sectiontext} /> </p>
-         </div>
-      </div>))}  
-      </div>
       </Fade>
      </div>      
      </section>

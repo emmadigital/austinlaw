@@ -11,13 +11,15 @@ meta:
 ---
 <!--StartFragment-->
 
-We are partnering with Ghisello’s Bike Initiative to give free bicycle helmets to kids in need. Â You can make a donation by clicking on the button below:
+We are partnering with Ghisello’s Bike Initiative to give free bicycle helmets to kids in need. You can make a donation by clicking on the button below:
 
-\
-\
-![PayPal - The safer, easier way to pay online!](https://www.paypalobjects.com/en_US/i/btn/btn_donateCC_LG.gif)![](https://www.paypalobjects.com/en_US/i/scr/pixel.gif)
+<!--StartFragment-->
 
-Every helmet can keep a child safe from a head injury. â€œItâ€™s our hope that these helmets will reduce or eliminate the risk of head injuries in children on a bicycle,â€ said Andrew.
+[![](https://lh6.googleusercontent.com/HrqeYskgxcFm8xspsxe4FR9dyPmaxCslYFm4pexsO4AYgBaS7Jr80Ulz_HgZ3ooybs2NP8lAnPKFJL1dTFcCQc5D7kFxNUpRtKXruDzWxg_2BmePnFQ1w081Ho8EYQoufnyG_eSC)](https://www.paypal.com/donate?token=mylJTtZi0BcIZJlQV9KJAWBsNJ0zRD-EfKhysLJ_XMouyzNkI95zpGoGjqeT7mGg-NCEcwr1u_GjRTGc)
+
+<!--EndFragment-->
+
+Every helmet can keep a child safe from a head injury. Our hope that these helmets will reduce or eliminate the risk of head injuries in children on a bicycle, said Andrew.
 
 According to the American Association of Neurological Surgeons, Cycling was the top sport for head injuries for kids under ages 14 and under.
 
@@ -31,6 +33,6 @@ According to the U.S. Department of Transportation, based on 2015 data released 
 
 [Ghisallo Cycling Initiative](http://ghisallo.org/) provides semester-long, after-school Bike Clubs with weekly bicycle maintenance and riding classes as well as an Earn-A-Bike program, Bicycle Rodeos, and maintenance and safety clinics. The majority of their participants are low-income, at-risk students.
 
-Letâ€™s keep kids safe!!!
+Let's keep kids safe!!!
 
 <!--EndFragment-->

@@ -5,15 +5,16 @@ import Slider from 'react-animated-slider';
 const HeroSlider = ({ heroItems }) => (
     <Slider className="slider-wrapper" autoplay={3000}>
       {!!heroItems &&
-      heroItems.map((item, index) => (				
+      heroItems.map((item, index) => (	        
+        
         <div
 					key={index}
 					className="slider-content"
 					style={{ background: `url('${
-            !!item.image.childImageSharp ? item.image.childImageSharp.fluid.src :  item.image
-          }') no-repeat center center / cover` 
-        }}
+            item.image && (item.image.childImageSharp.fluid.src)}') no-repeat center center / cover` 
+             }}
 				>
+        
 					<div className="inner">
 						<h1>{item.sliderheading}</h1>
 						<p>{item.slidertext}</p>

@@ -26,8 +26,9 @@ const FeatureGrid = ({ gridItems }) => (
             <figure>
             <Flip top>
             <div style={{height: '150px'}}>
-                    <img src={item.image.childImageSharp.fluid.src} alt={item.blurbsheading} />
-                  </div> 
+            {item.image && (    
+            <img src={item.image.childImageSharp.fluid.src} alt={item.blurbsheading} />
+            )}     </div> 
           </Flip>      
            </figure>
           </div>

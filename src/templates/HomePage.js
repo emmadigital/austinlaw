@@ -27,8 +27,10 @@ export const HomePageTemplate = ({ title, subtitle, body, intro, cover, wwcheadi
     </Fade>
     <section className="section">
       <div className="container">
+      <Features gridItems={intro.blurbs} />
       </div>
     </section>
+     <HeroSlider heroItems={heroslider.slider} /> 
     <Fade bottom cascade>
   <section>
  <div class="group">

@@ -3,6 +3,7 @@ import PropTypes from 'prop-types'
 import './Gallery.css'
 import Flip from 'react-reveal/Flip';
 import Fade from 'react-reveal/Fade';
+import Image from './Image'
 
 const ReactMarkdown = require('react-markdown/with-html')
 
@@ -26,10 +27,16 @@ const FeatureGrid = ({ gridItems }) => (
             <figure>
             <Flip top>
             <div style={{height: '150px'}}>
-            {item.image && 
-            item.image.length > 0 && (    
-            <img src={item.image.childImageSharp.fluid.src} alt={item.blurbsheading} />
-            )}     </div> 
+            {!!item.image && 
+             (    
+              <Image
+              resolutions="small"
+              src={item.image.childImageSharp.fluid.src}
+              alt={item.blurbsheading}
+            />           
+            )}    
+                       
+            </div> 
           </Flip>      
            </figure>
           </div>

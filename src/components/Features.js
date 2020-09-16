@@ -9,7 +9,8 @@ const ReactMarkdown = require('react-markdown/with-html')
 const FeatureGrid = ({ gridItems }) => (
  
   <div className="Gallery">
-    {gridItems.map((item) => (
+    {!!gridItems && 
+    gridItems.map((item) => (
       <div key={item.text} className="Gallery--Item">
         <section>       
           <div>

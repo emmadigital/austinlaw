@@ -18,7 +18,7 @@ import '../components/Gallery.css'
 import './custom.scss';
 
 // Export Template for use in CMS preview
-export const HomePageTemplate = ({ title, subtitle, featuredImage, body, intro, cover, wwcheading, wwcsubheading, heroslider, accordion, ctaheading, experiencesection, experiencevideo }) => (
+export const HomePageTemplate = ({ title, subtitle, body, intro, cover, wwcheading, wwcsubheading, heroslider, accordion, ctaheading, experiencesection, experiencevideo }) => (
   <main className="Home">
   <Fade bottom>
     <div className="ctaheading">
@@ -61,8 +61,7 @@ export const HomePageTemplate = ({ title, subtitle, featuredImage, body, intro, 
     </div>
     <Fade>
     <CoverSection coverItems={cover.coversection} />  
-    
-      </Fade>
+    </Fade>
      </div>      
      </section>
      <Fade bottom>
@@ -113,7 +112,6 @@ export const pageQuery = graphql`
       frontmatter {
         title
         subtitle
-        featuredImage
         ctaheading
         wwcheading
         wwcsubheading

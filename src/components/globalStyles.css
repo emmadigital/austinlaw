@@ -318,6 +318,8 @@ blockquote {
   border-right: 20px solid transparent;
   border-top: 20px solid #efefef;
   margin: 0 0 0 60px;
+  display: block;
+
 }
 
 .yelptestimonial p {

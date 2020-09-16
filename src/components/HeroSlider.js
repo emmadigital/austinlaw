@@ -4,7 +4,8 @@ import Slider from 'react-animated-slider';
 
 const HeroSlider = ({ heroItems }) => (
     <Slider className="slider-wrapper" autoplay={3000}>
-      {heroItems.map((item, index) => (				
+      {!!heroItems &&
+      heroItems.map((item, index) => (				
         <div
 					key={index}
 					className="slider-content"

@@ -4,7 +4,8 @@ import Content from '../components/Content'
 
 const CoverSection = ({ coverItems }) => (
     <div>    
-    {coverItems.map((item, index) => (
+    { !!coverItems &&
+    coverItems.map((item, index) => (
     
     <div class="items">
         <div class="items-head">

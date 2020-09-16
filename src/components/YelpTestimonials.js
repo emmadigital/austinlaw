@@ -48,7 +48,7 @@ class YelpTestimonials extends React.Component {
       };
 
     return (
-        <div>
+        <div style={{display: 'block'}}>
         
         <Fade top> 
         <div className="ctaheading2"><h1>Client Reviews and Ratings</h1> </div>
@@ -59,10 +59,10 @@ class YelpTestimonials extends React.Component {
         {posts &&
           posts.map(({ node: post }) => (
             <div key={post.id}>
-   
              <div class="yelptestimonial">
+                {post.user.image_url && (      
                 <img className="yelp" src={post.user.image_url} alt={post.user.name} />                 
-               
+                )}
                 <blockquote>
                 {post.text}   
                 <a style={{display: 'inline-flex'}}

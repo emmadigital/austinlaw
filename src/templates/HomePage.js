@@ -18,19 +18,32 @@ import '../components/Gallery.css'
 import './custom.scss';
 
 // Export Template for use in CMS preview
-export const HomePageTemplate = ({ title, subtitle, body, intro, cover, wwcheading, wwcsubheading, heroslider, accordion, ctaheading, experiencesection, experiencevideo }) => (
+export const HomePageTemplate = ({ title, subtitle, isCmsPreview, body, intro, cover, wwcheading, wwcsubheading, heroslider, accordion, ctaheading, experiencesection, experiencevideo }) => (
   <main className="Home">
   <Fade bottom>
     <div className="ctaheading">
     <h1>{ctaheading}</h1><br />
     </div>
     </Fade>
-    <section className="section">
+    {console.log(intro.blurbs)}
+    {isCmsPreview ? (
+          ''
+) : (
+  <section className="section">
       <div className="container">
       <Features gridItems={intro.blurbs} />
       </div>
     </section>
-     <HeroSlider heroItems={heroslider.slider} /> 
+)}
+    
+    {console.log(heroslider.slider)}
+
+    {isCmsPreview ? (
+          ''
+) : (
+  <HeroSlider heroItems={heroslider.slider} /> 
+)}
+    
     <Fade bottom cascade>
   <section>
  <div class="group">
@@ -137,6 +150,7 @@ export const pageQuery = graphql`
               childImageSharp {
                 fluid(maxWidth: 1600, quality: 64) {
                   ...GatsbyImageSharpFluid
+                  src
                 }
               }
             }
@@ -148,6 +162,7 @@ export const pageQuery = graphql`
               childImageSharp {
                 fluid(maxWidth: 200, quality: 64) {
                   ...GatsbyImageSharpFluid
+                  src
                 }
               }
             }
@@ -165,6 +180,7 @@ export const pageQuery = graphql`
               childImageSharp {
                 fluid(maxWidth: 450, quality: 64) {
                   ...GatsbyImageSharpFluid
+                  src
                 }
               }
             }
